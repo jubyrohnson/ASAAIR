@@ -1,765 +1,757 @@
-Daily Mean data	    supplied by UK-air on 25/01/2021
-All Data GMT hour ending
-Status: V=Verified P=Provisionaly Verified N=Not Verified S=Suspect
-,"Camden Kerbside",,"Haringey Roadside",,"London Bexley",,"London Bloomsbury",,"London Eltham",,"London Haringey Priory Park South",,"London Harlington",,"London Hillingdon",,"London Marylebone Road",,"London N. Kensington",,"London Westminster",,"Southwark A2 Old Kent Road",,"Tower Hamlets Roadside",
-Date,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status,"Nitrogen dioxide",Status
-2019-01-01,33,V ugm-3,19,V ugm-3,14,V ugm-3,37,V ugm-3,12,V ugm-3,11,V ugm-3,17,V ugm-3,No data,V ugm-3,41,V ugm-3,21,V ugm-3,33,V ugm-3,31,V ugm-3,47,V ugm-3
-2019-01-02,67,V ugm-3,33,V ugm-3,22,V ugm-3,43,V ugm-3,20,V ugm-3,18,V ugm-3,33,V ugm-3,No data,V ugm-3,43,V ugm-3,32,V ugm-3,38,V ugm-3,62,V ugm-3,64,V ugm-3
-2019-01-03,73,V ugm-3,45,V ugm-3,38,V ugm-3,44,V ugm-3,28,V ugm-3,27,V ugm-3,36,V ugm-3,31,V ugm-3,51,V ugm-3,34,V ugm-3,39,V ugm-3,75,V ugm-3,76,V ugm-3
-2019-01-04,60,V ugm-3,43,V ugm-3,49,V ugm-3,50,V ugm-3,42,V ugm-3,34,V ugm-3,50,V ugm-3,45,V ugm-3,55,V ugm-3,42,V ugm-3,50,V ugm-3,72,V ugm-3,72,V ugm-3
-2019-01-05,56,V ugm-3,34,V ugm-3,28,V ugm-3,52,V ugm-3,23,V ugm-3,29,V ugm-3,38,V ugm-3,36,V ugm-3,51,V ugm-3,42,V ugm-3,51,V ugm-3,54,V ugm-3,63,V ugm-3
-2019-01-06,50,V ugm-3,35,V ugm-3,43,V ugm-3,55,V ugm-3,35,V ugm-3,30,V ugm-3,39,V ugm-3,38,V ugm-3,59,V ugm-3,40,V ugm-3,51,V ugm-3,50,V ugm-3,64,V ugm-3
-2019-01-07,34,V ugm-3,31,V ugm-3,26,V ugm-3,47,V ugm-3,23,V ugm-3,21,V ugm-3,25,V ugm-3,51,V ugm-3,76,V ugm-3,35,V ugm-3,40,V ugm-3,29,V ugm-3,54,V ugm-3
-2019-01-08,58,V ugm-3,25,V ugm-3,24,V ugm-3,45,V ugm-3,22,V ugm-3,21,V ugm-3,31,V ugm-3,24,V ugm-3,38,V ugm-3,31,V ugm-3,44,V ugm-3,54,V ugm-3,59,V ugm-3
-2019-01-09,69,V ugm-3,33,V ugm-3,28,V ugm-3,48,V ugm-3,21,V ugm-3,24,V ugm-3,31,V ugm-3,29,V ugm-3,41,V ugm-3,36,V ugm-3,42,V ugm-3,62,V ugm-3,60,V ugm-3
-2019-01-10,63,V ugm-3,48,V ugm-3,58,V ugm-3,61,V ugm-3,48,V ugm-3,43,V ugm-3,53,V ugm-3,53,V ugm-3,65,V ugm-3,56,V ugm-3,59,V ugm-3,62,V ugm-3,71,V ugm-3
-2019-01-11,67,V ugm-3,40,V ugm-3,46,V ugm-3,54,V ugm-3,38,V ugm-3,34,V ugm-3,46,V ugm-3,44,V ugm-3,57,V ugm-3,48,V ugm-3,57,V ugm-3,64,V ugm-3,73,V ugm-3
-2019-01-12,31,V ugm-3,24,V ugm-3,20,V ugm-3,42,V ugm-3,19,V ugm-3,17,V ugm-3,17,V ugm-3,31,V ugm-3,64,V ugm-3,25,V ugm-3,38,V ugm-3,25,V ugm-3,57,V ugm-3
-2019-01-13,16,V ugm-3,13,V ugm-3,10,V ugm-3,29,V ugm-3,11,V ugm-3,8,V ugm-3,13,V ugm-3,16,V ugm-3,42,V ugm-3,13,V ugm-3,24,V ugm-3,19,V ugm-3,42,V ugm-3
-2019-01-14,45,V ugm-3,29,V ugm-3,33,V ugm-3,47,V ugm-3,27,V ugm-3,24,V ugm-3,34,V ugm-3,28,V ugm-3,48,V ugm-3,32,V ugm-3,43,V ugm-3,52,V ugm-3,61,V ugm-3
-2019-01-15,51,V ugm-3,45,V ugm-3,25,V ugm-3,36,V ugm-3,24,V ugm-3,32,V ugm-3,41,V ugm-3,68,V ugm-3,86,V ugm-3,40,V ugm-3,35,V ugm-3,31,V ugm-3,48,V ugm-3
-2019-01-16,44,V ugm-3,36,V ugm-3,22,V ugm-3,31,V ugm-3,17,V ugm-3,23,V ugm-3,35,V ugm-3,59,V ugm-3,79,V ugm-3,28,V ugm-3,31,V ugm-3,26,V ugm-3,39,V ugm-3
-2019-01-17,63,V ugm-3,34,V ugm-3,32,V ugm-3,51,V ugm-3,26,V ugm-3,27,V ugm-3,43,V ugm-3,42,V ugm-3,54,V ugm-3,39,V ugm-3,48,V ugm-3,63,V ugm-3,72,V ugm-3
-2019-01-18,79,V ugm-3,62,V ugm-3,52,V ugm-3,53,V ugm-3,34,V ugm-3,44,V ugm-3,51,V ugm-3,85,V ugm-3,84,V ugm-3,51,V ugm-3,52,V ugm-3,46,V ugm-3,57,V ugm-3
-2019-01-19,56,V ugm-3,44,V ugm-3,26,V ugm-3,38,V ugm-3,21,V ugm-3,31,V ugm-3,22,V ugm-3,63,V ugm-3,62,V ugm-3,36,V ugm-3,37,V ugm-3,48,V ugm-3,37,V ugm-3
-2019-01-20,65,V ugm-3,46,V ugm-3,46,V ugm-3,51,V ugm-3,35,V ugm-3,39,V ugm-3,52,V ugm-3,51,V ugm-3,56,V ugm-3,49,V ugm-3,50,V ugm-3,73,V ugm-3,71,V ugm-3
-2019-01-21,67,V ugm-3,56,V ugm-3,52,V ugm-3,48,V ugm-3,42,V ugm-3,44,V ugm-3,59,V ugm-3,79,V ugm-3,83,V ugm-3,55,V ugm-3,60,V ugm-3,54,V ugm-3,73,V ugm-3
-2019-01-22,58,V ugm-3,46,V ugm-3,39,V ugm-3,48,V ugm-3,36,V ugm-3,40,V ugm-3,48,V ugm-3,74,V ugm-3,79,V ugm-3,45,V ugm-3,47,V ugm-3,46,V ugm-3,69,V ugm-3
-2019-01-23,80,V ugm-3,41,V ugm-3,33,V ugm-3,53,V ugm-3,29,V ugm-3,36,V ugm-3,53,V ugm-3,49,V ugm-3,56,V ugm-3,46,V ugm-3,49,V ugm-3,80,V ugm-3,70,V ugm-3
-2019-01-24,82,V ugm-3,62,V ugm-3,67,V ugm-3,69,V ugm-3,54,V ugm-3,61,V ugm-3,67,V ugm-3,83,V ugm-3,94,V ugm-3,68,V ugm-3,73,V ugm-3,77,V ugm-3,74,V ugm-3
-2019-01-25,51,V ugm-3,46,V ugm-3,45,V ugm-3,55,V ugm-3,40,V ugm-3,37,V ugm-3,42,V ugm-3,53,V ugm-3,84,V ugm-3,49,V ugm-3,60,V ugm-3,54,V ugm-3,58,V ugm-3
-2019-01-26,36,V ugm-3,28,V ugm-3,9,V ugm-3,24,V ugm-3,11,V ugm-3,15,V ugm-3,28,V ugm-3,45,V ugm-3,75,V ugm-3,20,V ugm-3,23,V ugm-3,14,V ugm-3,40,V ugm-3
-2019-01-27,20,V ugm-3,10,V ugm-3,8,V ugm-3,26,V ugm-3,10,V ugm-3,7,V ugm-3,9,V ugm-3,9,V ugm-3,33,V ugm-3,12,V ugm-3,19,V ugm-3,25,V ugm-3,33,V ugm-3
-2019-01-28,59,V ugm-3,34,V ugm-3,35,V ugm-3,No data,V ugm-3,31,V ugm-3,31,V ugm-3,41,V ugm-3,41,V ugm-3,52,V ugm-3,37,V ugm-3,47,V ugm-3,66,V ugm-3,59,V ugm-3
-2019-01-29,72,V ugm-3,59,V ugm-3,40,V ugm-3,No data,V ugm-3,28,V ugm-3,47,V ugm-3,61,V ugm-3,89,V ugm-3,91,V ugm-3,50,V ugm-3,52,V ugm-3,48,V ugm-3,51,V ugm-3
-2019-01-30,63,V ugm-3,47,V ugm-3,No data,V ugm-3,59,V ugm-3,48,V ugm-3,41,V ugm-3,53,V ugm-3,56,V ugm-3,76,V ugm-3,59,V ugm-3,58,V ugm-3,60,V ugm-3,67,V ugm-3
-2019-01-31,97,V ugm-3,56,V ugm-3,No data,V ugm-3,63,V ugm-3,41,V ugm-3,50,V ugm-3,58,V ugm-3,79,V ugm-3,90,V ugm-3,60,V ugm-3,66,V ugm-3,67,V ugm-3,64,V ugm-3
-2019-02-01,50,V ugm-3,32,V ugm-3,23,V ugm-3,42,V ugm-3,22,V ugm-3,22,V ugm-3,29,V ugm-3,30,V ugm-3,41,V ugm-3,30,V ugm-3,45,V ugm-3,56,V ugm-3,59,V ugm-3
-2019-02-02,55,V ugm-3,21,V ugm-3,17,V ugm-3,38,V ugm-3,15,V ugm-3,14,V ugm-3,25,V ugm-3,21,V ugm-3,32,V ugm-3,23,V ugm-3,32,V ugm-3,52,V ugm-3,50,V ugm-3
-2019-02-03,48,V ugm-3,42,V ugm-3,25,V ugm-3,37,V ugm-3,24,V ugm-3,31,V ugm-3,42,V ugm-3,65,V ugm-3,72,V ugm-3,42,V ugm-3,36,V ugm-3,38,V ugm-3,45,V ugm-3
-2019-02-04,50,V ugm-3,43,V ugm-3,23,V ugm-3,33,V ugm-3,18,V ugm-3,31,V ugm-3,42,V ugm-3,66,V ugm-3,74,V ugm-3,33,V ugm-3,38,V ugm-3,31,V ugm-3,34,V ugm-3
-2019-02-05,54,V ugm-3,55,V ugm-3,26,V ugm-3,35,V ugm-3,17,V ugm-3,39,V ugm-3,46,V ugm-3,68,V ugm-3,74,V ugm-3,33,V ugm-3,39,V ugm-3,32,V ugm-3,35,V ugm-3
-2019-02-06,58,V ugm-3,47,V ugm-3,27,V ugm-3,34,V ugm-3,18,V ugm-3,33,V ugm-3,No data,V ugm-3,76,V ugm-3,85,V ugm-3,35,V ugm-3,40,V ugm-3,31,V ugm-3,35,V ugm-3
-2019-02-07,30,V ugm-3,26,V ugm-3,11,V ugm-3,22,V ugm-3,10,V ugm-3,16,V ugm-3,No data,,50,V ugm-3,81,V ugm-3,20,V ugm-3,22,V ugm-3,15,V ugm-3,31,V ugm-3
-2019-02-08,28,V ugm-3,24,V ugm-3,9,V ugm-3,18,V ugm-3,4,V ugm-3,12,V ugm-3,No data,V ugm-3,45,V ugm-3,89,V ugm-3,14,V ugm-3,17,V ugm-3,10,V ugm-3,19,V ugm-3
-2019-02-09,21,V ugm-3,21,V ugm-3,7,V ugm-3,15,V ugm-3,5,V ugm-3,9,V ugm-3,22,V ugm-3,42,V ugm-3,80,V ugm-3,13,V ugm-3,13,V ugm-3,9,V ugm-3,18,V ugm-3
-2019-02-10,30,V ugm-3,24,V ugm-3,17,V ugm-3,35,V ugm-3,12,V ugm-3,14,V ugm-3,24,V ugm-3,37,V ugm-3,68,V ugm-3,21,V ugm-3,24,V ugm-3,24,V ugm-3,29,V ugm-3
-2019-02-11,72,V ugm-3,48,V ugm-3,44,V ugm-3,42,V ugm-3,28,V ugm-3,33,V ugm-3,48,V ugm-3,55,V ugm-3,64,V ugm-3,43,V ugm-3,46,V ugm-3,64,V ugm-3,55,V ugm-3
-2019-02-12,55,V ugm-3,57,V ugm-3,35,V ugm-3,38,V ugm-3,24,V ugm-3,36,V ugm-3,53,V ugm-3,85,V ugm-3,94,V ugm-3,45,V ugm-3,43,V ugm-3,No data,V ugm-3,44,V ugm-3
-2019-02-13,49,V ugm-3,59,V ugm-3,31,V ugm-3,33,V ugm-3,18,V ugm-3,31,V ugm-3,48,V ugm-3,79,V ugm-3,85,V ugm-3,34,V ugm-3,37,V ugm-3,No data,V ugm-3,32,V ugm-3
-2019-02-14,91,V ugm-3,76,V ugm-3,54,V ugm-3,53,V ugm-3,35,V ugm-3,57,V ugm-3,65,V ugm-3,89,V ugm-3,92,V ugm-3,62,V ugm-3,62,V ugm-3,81,V ugm-3,66,V ugm-3
-2019-02-15,77,V ugm-3,80,V ugm-3,55,V ugm-3,57,V ugm-3,30,V ugm-3,56,V ugm-3,69,V ugm-3,95,V ugm-3,97,V ugm-3,58,V ugm-3,65,V ugm-3,69,V ugm-3,64,V ugm-3
-2019-02-16,51,V ugm-3,59,V ugm-3,37,V ugm-3,41,V ugm-3,20,V ugm-3,34,V ugm-3,58,V ugm-3,80,V ugm-3,84,V ugm-3,43,V ugm-3,44,V ugm-3,38,V ugm-3,35,V ugm-3
-2019-02-17,43,V ugm-3,45,V ugm-3,26,V ugm-3,31,V ugm-3,14,V ugm-3,28,V ugm-3,48,V ugm-3,75,V ugm-3,74,V ugm-3,27,V ugm-3,34,V ugm-3,39,V ugm-3,32,V ugm-3
-2019-02-18,44,V ugm-3,50,V ugm-3,28,V ugm-3,33,V ugm-3,18,V ugm-3,27,V ugm-3,49,V ugm-3,83,V ugm-3,83,V ugm-3,30,V ugm-3,35,V ugm-3,32,V ugm-3,32,V ugm-3
-2019-02-19,46,V ugm-3,44,V ugm-3,21,V ugm-3,29,V ugm-3,15,V ugm-3,26,V ugm-3,41,V ugm-3,80,V ugm-3,88,V ugm-3,30,V ugm-3,27,V ugm-3,29,V ugm-3,37,V ugm-3
-2019-02-20,38,V ugm-3,37,V ugm-3,20,V ugm-3,24,V ugm-3,11,V ugm-3,17,V ugm-3,37,V ugm-3,No data,V ugm-3,79,V ugm-3,24,V ugm-3,No data,V ugm-3,24,V ugm-3,25,V ugm-3
-2019-02-21,44,V ugm-3,48,V ugm-3,27,V ugm-3,29,V ugm-3,19,V ugm-3,27,V ugm-3,41,V ugm-3,No data,V ugm-3,89,V ugm-3,30,V ugm-3,No data,V ugm-3,31,V ugm-3,33,V ugm-3
-2019-02-22,75,V ugm-3,60,V ugm-3,44,V ugm-3,57,V ugm-3,35,V ugm-3,49,V ugm-3,48,V ugm-3,No data,V ugm-3,93,V ugm-3,51,V ugm-3,51,V ugm-3,63,V ugm-3,47,V ugm-3
-2019-02-23,68,V ugm-3,58,V ugm-3,43,V ugm-3,46,V ugm-3,34,V ugm-3,44,V ugm-3,54,V ugm-3,No data,V ugm-3,80,V ugm-3,50,V ugm-3,48,V ugm-3,56,V ugm-3,45,V ugm-3
-2019-02-24,72,V ugm-3,60,V ugm-3,55,V ugm-3,64,V ugm-3,50,V ugm-3,48,V ugm-3,67,V ugm-3,No data,V ugm-3,79,V ugm-3,68,V ugm-3,71,V ugm-3,79,V ugm-3,60,V ugm-3
-2019-02-25,96,V ugm-3,78,V ugm-3,70,V ugm-3,81,V ugm-3,69,V ugm-3,65,V ugm-3,86,V ugm-3,No data,V ugm-3,102,V ugm-3,86,V ugm-3,99,V ugm-3,105,V ugm-3,81,V ugm-3
-2019-02-26,103,V ugm-3,85,V ugm-3,85,V ugm-3,90,V ugm-3,76,V ugm-3,73,V ugm-3,93,V ugm-3,No data,V ugm-3,110,V ugm-3,92,V ugm-3,111,V ugm-3,114,V ugm-3,92,V ugm-3
-2019-02-27,93,V ugm-3,85,V ugm-3,71,V ugm-3,75,V ugm-3,56,V ugm-3,69,V ugm-3,91,V ugm-3,No data,V ugm-3,119,V ugm-3,83,V ugm-3,98,V ugm-3,87,V ugm-3,86,V ugm-3
-2019-02-28,47,V ugm-3,46,V ugm-3,38,V ugm-3,50,V ugm-3,29,V ugm-3,31,V ugm-3,43,V ugm-3,No data,V ugm-3,98,V ugm-3,40,V ugm-3,47,V ugm-3,42,V ugm-3,52,V ugm-3
-2019-03-01,49,V ugm-3,42,V ugm-3,42,V ugm-3,45,V ugm-3,27,V ugm-3,27,V ugm-3,44,V ugm-3,No data,V ugm-3,73,V ugm-3,35,V ugm-3,44,V ugm-3,49,V ugm-3,55,V ugm-3
-2019-03-02,29,V ugm-3,29,V ugm-3,17,V ugm-3,20,V ugm-3,9,V ugm-3,16,V ugm-3,26,V ugm-3,No data,V ugm-3,72,V ugm-3,18,V ugm-3,23,V ugm-3,16,V ugm-3,28,V ugm-3
-2019-03-03,19,V ugm-3,18,V ugm-3,9,V ugm-3,10,V ugm-3,6,V ugm-3,9,V ugm-3,26,V ugm-3,No data,V ugm-3,60,V ugm-3,11,V ugm-3,12,V ugm-3,10,V ugm-3,18,V ugm-3
-2019-03-04,26,V ugm-3,24,V ugm-3,17,V ugm-3,25,V ugm-3,13,V ugm-3,15,V ugm-3,18,V ugm-3,49,V ugm-3,84,V ugm-3,No data,V ugm-3,25,V ugm-3,19,V ugm-3,35,V ugm-3
-2019-03-05,38,V ugm-3,39,V ugm-3,19,V ugm-3,21,V ugm-3,11,V ugm-3,20,V ugm-3,33,V ugm-3,60,V ugm-3,No data,V ugm-3,No data,V ugm-3,21,V ugm-3,20,V ugm-3,25,V ugm-3
-2019-03-06,31,V ugm-3,33,V ugm-3,13,V ugm-3,19,V ugm-3,8,V ugm-3,17,V ugm-3,29,V ugm-3,47,V ugm-3,No data,V ugm-3,15,V ugm-3,19,V ugm-3,16,V ugm-3,17,V ugm-3
-2019-03-07,21,V ugm-3,21,V ugm-3,10,V ugm-3,25,V ugm-3,10,V ugm-3,11,V ugm-3,12,V ugm-3,30,V ugm-3,87,V ugm-3,14,V ugm-3,20,V ugm-3,16,V ugm-3,29,V ugm-3
-2019-03-08,44,V ugm-3,40,V ugm-3,20,V ugm-3,31,V ugm-3,15,V ugm-3,21,V ugm-3,30,V ugm-3,54,V ugm-3,91,V ugm-3,27,V ugm-3,27,V ugm-3,25,V ugm-3,36,V ugm-3
-2019-03-09,25,V ugm-3,26,V ugm-3,11,V ugm-3,24,V ugm-3,No data,V ugm-3,12,V ugm-3,20,V ugm-3,39,V ugm-3,73,V ugm-3,16,V ugm-3,20,V ugm-3,17,V ugm-3,30,V ugm-3
-2019-03-10,25,V ugm-3,21,V ugm-3,10,V ugm-3,27,V ugm-3,No data,V ugm-3,11,V ugm-3,13,V ugm-3,30,V ugm-3,57,V ugm-3,17,V ugm-3,17,V ugm-3,22,V ugm-3,32,V ugm-3
-2019-03-11,27,V ugm-3,23,V ugm-3,16,V ugm-3,36,V ugm-3,No data,V ugm-3,12,V ugm-3,20,V ugm-3,No data,V ugm-3,60,V ugm-3,17,V ugm-3,24,V ugm-3,26,V ugm-3,32,V ugm-3
-2019-03-12,26,V ugm-3,25,V ugm-3,12,V ugm-3,24,V ugm-3,No data,V ugm-3,15,V ugm-3,20,V ugm-3,No data,V ugm-3,71,V ugm-3,16,V ugm-3,21,V ugm-3,19,V ugm-3,28,V ugm-3
-2019-03-13,18,V ugm-3,14,V ugm-3,11,V ugm-3,32,V ugm-3,10,V ugm-3,9,V ugm-3,10,V ugm-3,No data,V ugm-3,60,V ugm-3,14,V ugm-3,24,V ugm-3,22,V ugm-3,31,V ugm-3
-2019-03-14,25,V ugm-3,20,V ugm-3,12,V ugm-3,32,V ugm-3,11,V ugm-3,12,V ugm-3,17,V ugm-3,No data,V ugm-3,65,V ugm-3,17,V ugm-3,25,V ugm-3,24,V ugm-3,34,V ugm-3
-2019-03-15,18,V ugm-3,18,V ugm-3,8,V ugm-3,23,V ugm-3,8,V ugm-3,9,V ugm-3,12,V ugm-3,No data,V ugm-3,72,V ugm-3,12,V ugm-3,21,V ugm-3,15,V ugm-3,28,V ugm-3
-2019-03-16,16,V ugm-3,15,V ugm-3,4,V ugm-3,9,V ugm-3,4,V ugm-3,6,V ugm-3,17,V ugm-3,No data,V ugm-3,60,V ugm-3,8,V ugm-3,10,V ugm-3,9,V ugm-3,17,V ugm-3
-2019-03-17,19,V ugm-3,18,V ugm-3,12,V ugm-3,36,V ugm-3,9,V ugm-3,9,V ugm-3,12,V ugm-3,No data,V ugm-3,62,V ugm-3,14,V ugm-3,18,V ugm-3,21,V ugm-3,32,V ugm-3
-2019-03-18,50,V ugm-3,35,V ugm-3,38,V ugm-3,54,V ugm-3,29,V ugm-3,28,V ugm-3,36,V ugm-3,No data,V ugm-3,75,V ugm-3,37,V ugm-3,41,V ugm-3,46,V ugm-3,56,V ugm-3
-2019-03-19,52,V ugm-3,54,V ugm-3,30,V ugm-3,35,V ugm-3,21,V ugm-3,36,V ugm-3,40,V ugm-3,No data,V ugm-3,85,V ugm-3,33,V ugm-3,35,V ugm-3,34,V ugm-3,41,V ugm-3
-2019-03-20,40,V ugm-3,42,V ugm-3,21,V ugm-3,32,V ugm-3,16,V ugm-3,23,V ugm-3,26,V ugm-3,No data,V ugm-3,No data,V ugm-3,24,V ugm-3,28,V ugm-3,24,V ugm-3,39,V ugm-3
-2019-03-21,44,V ugm-3,38,V ugm-3,27,V ugm-3,35,V ugm-3,22,V ugm-3,23,V ugm-3,27,V ugm-3,No data,V ugm-3,No data,V ugm-3,28,V ugm-3,39,V ugm-3,33,V ugm-3,42,V ugm-3
-2019-03-22,41,V ugm-3,43,V ugm-3,24,V ugm-3,23,V ugm-3,16,V ugm-3,22,V ugm-3,33,V ugm-3,No data,V ugm-3,84,V ugm-3,23,V ugm-3,29,V ugm-3,25,V ugm-3,30,V ugm-3
-2019-03-23,53,V ugm-3,38,V ugm-3,29,V ugm-3,44,V ugm-3,19,V ugm-3,22,V ugm-3,29,V ugm-3,No data,V ugm-3,54,V ugm-3,30,V ugm-3,38,V ugm-3,51,V ugm-3,45,V ugm-3
-2019-03-24,41,V ugm-3,32,V ugm-3,27,V ugm-3,42,V ugm-3,18,V ugm-3,21,V ugm-3,35,V ugm-3,No data,V ugm-3,51,V ugm-3,30,V ugm-3,39,V ugm-3,49,V ugm-3,47,V ugm-3
-2019-03-25,61,V ugm-3,32,V ugm-3,23,V ugm-3,38,V ugm-3,13,V ugm-3,16,V ugm-3,30,V ugm-3,No data,V ugm-3,43,V ugm-3,23,V ugm-3,30,V ugm-3,57,V ugm-3,46,V ugm-3
-2019-03-26,77,V ugm-3,59,V ugm-3,49,V ugm-3,58,V ugm-3,38,V ugm-3,41,V ugm-3,49,V ugm-3,50,V ugm-3,75,V ugm-3,53,V ugm-3,58,V ugm-3,73,V ugm-3,70,V ugm-3
-2019-03-27,71,V ugm-3,55,V ugm-3,46,V ugm-3,47,V ugm-3,35,V ugm-3,31,V ugm-3,49,V ugm-3,51,V ugm-3,64,V ugm-3,44,V ugm-3,51,V ugm-3,79,V ugm-3,68,V ugm-3
-2019-03-28,84,V ugm-3,68,V ugm-3,46,V ugm-3,46,V ugm-3,29,V ugm-3,41,V ugm-3,58,V ugm-3,78,V ugm-3,91,V ugm-3,48,V ugm-3,54,V ugm-3,74,V ugm-3,57,V ugm-3
-2019-03-29,76,V ugm-3,76,V ugm-3,51,V ugm-3,52,V ugm-3,31,V ugm-3,43,V ugm-3,57,V ugm-3,89,V ugm-3,108,V ugm-3,46,V ugm-3,57,V ugm-3,66,V ugm-3,52,V ugm-3
-2019-03-30,74,V ugm-3,51,V ugm-3,47,V ugm-3,58,V ugm-3,30,V ugm-3,36,V ugm-3,49,V ugm-3,51,V ugm-3,73,V ugm-3,48,V ugm-3,64,V ugm-3,64,V ugm-3,61,V ugm-3
-2019-03-31,26,V ugm-3,17,V ugm-3,14,V ugm-3,24,V ugm-3,9,V ugm-3,13,V ugm-3,17,V ugm-3,22,V ugm-3,36,V ugm-3,16,V ugm-3,22,V ugm-3,32,V ugm-3,30,V ugm-3
-2019-04-01,54,V ugm-3,34,V ugm-3,25,V ugm-3,37,V ugm-3,16,V ugm-3,22,V ugm-3,32,V ugm-3,49,V ugm-3,61,V ugm-3,29,V ugm-3,No data,V ugm-3,51,V ugm-3,36,V ugm-3
-2019-04-02,54,V ugm-3,44,V ugm-3,35,V ugm-3,46,V ugm-3,23,V ugm-3,33,V ugm-3,42,V ugm-3,55,V ugm-3,97,V ugm-3,38,V ugm-3,No data,V ugm-3,44,V ugm-3,44,V ugm-3
-2019-04-03,67,V ugm-3,44,V ugm-3,41,V ugm-3,46,V ugm-3,25,V ugm-3,31,V ugm-3,42,V ugm-3,58,V ugm-3,80,V ugm-3,38,V ugm-3,No data,V ugm-3,54,V ugm-3,52,V ugm-3
-2019-04-04,59,V ugm-3,39,V ugm-3,22,V ugm-3,29,V ugm-3,7,V ugm-3,25,V ugm-3,26,V ugm-3,67,V ugm-3,75,V ugm-3,24,V ugm-3,No data,V ugm-3,25,V ugm-3,24,V ugm-3
-2019-04-05,55,V ugm-3,31,V ugm-3,22,V ugm-3,36,V ugm-3,12,V ugm-3,19,V ugm-3,24,V ugm-3,59,V ugm-3,74,V ugm-3,26,V ugm-3,No data,V ugm-3,39,V ugm-3,29,V ugm-3
-2019-04-06,29,V ugm-3,24,V ugm-3,13,V ugm-3,28,V ugm-3,9,V ugm-3,15,V ugm-3,25,V ugm-3,27,V ugm-3,31,V ugm-3,21,V ugm-3,No data,V ugm-3,42,V ugm-3,35,V ugm-3
-2019-04-07,38,V ugm-3,24,V ugm-3,14,V ugm-3,30,V ugm-3,10,V ugm-3,13,V ugm-3,18,V ugm-3,17,V ugm-3,27,V ugm-3,20,V ugm-3,No data,V ugm-3,43,V ugm-3,No data,V ugm-3
-2019-04-08,57,V ugm-3,43,V ugm-3,43,V ugm-3,48,V ugm-3,32,V ugm-3,29,V ugm-3,38,V ugm-3,34,V ugm-3,55,V ugm-3,39,V ugm-3,No data,V ugm-3,60,V ugm-3,49,V ugm-3
-2019-04-09,39,V ugm-3,34,V ugm-3,22,V ugm-3,37,V ugm-3,17,V ugm-3,21,V ugm-3,34,V ugm-3,29,V ugm-3,36,V ugm-3,30,V ugm-3,No data,V ugm-3,53,V ugm-3,53,V ugm-3
-2019-04-10,30,V ugm-3,23,V ugm-3,12,V ugm-3,26,V ugm-3,7,V ugm-3,12,V ugm-3,18,V ugm-3,19,V ugm-3,27,V ugm-3,15,V ugm-3,No data,V ugm-3,42,V ugm-3,42,V ugm-3
-2019-04-11,47,V ugm-3,38,V ugm-3,20,V ugm-3,34,V ugm-3,12,V ugm-3,18,V ugm-3,26,V ugm-3,35,V ugm-3,51,V ugm-3,22,V ugm-3,No data,V ugm-3,50,V ugm-3,38,V ugm-3
-2019-04-12,49,V ugm-3,41,V ugm-3,20,V ugm-3,36,V ugm-3,13,V ugm-3,21,V ugm-3,31,V ugm-3,39,V ugm-3,53,V ugm-3,25,V ugm-3,No data,V ugm-3,57,V ugm-3,44,V ugm-3
-2019-04-13,43,V ugm-3,32,V ugm-3,19,V ugm-3,29,V ugm-3,11,V ugm-3,17,V ugm-3,26,V ugm-3,36,V ugm-3,47,V ugm-3,24,V ugm-3,No data,V ugm-3,46,V ugm-3,38,V ugm-3
-2019-04-14,44,V ugm-3,38,V ugm-3,14,V ugm-3,29,V ugm-3,11,V ugm-3,20,V ugm-3,22,V ugm-3,42,V ugm-3,56,V ugm-3,24,V ugm-3,No data,V ugm-3,38,V ugm-3,33,V ugm-3
-2019-04-15,54,V ugm-3,41,V ugm-3,32,V ugm-3,47,V ugm-3,20,V ugm-3,29,V ugm-3,32,V ugm-3,62,V ugm-3,71,V ugm-3,38,V ugm-3,No data,V ugm-3,52,V ugm-3,39,V ugm-3
-2019-04-16,69,V ugm-3,59,V ugm-3,49,V ugm-3,59,V ugm-3,43,V ugm-3,42,V ugm-3,51,V ugm-3,52,V ugm-3,67,V ugm-3,58,V ugm-3,No data,V ugm-3,77,V ugm-3,60,V ugm-3
-2019-04-17,65,V ugm-3,46,V ugm-3,45,V ugm-3,54,V ugm-3,35,V ugm-3,30,V ugm-3,41,V ugm-3,64,V ugm-3,63,V ugm-3,49,V ugm-3,No data,V ugm-3,68,V ugm-3,49,V ugm-3
-2019-04-18,55,V ugm-3,53,V ugm-3,49,V ugm-3,51,V ugm-3,38,V ugm-3,33,V ugm-3,44,V ugm-3,60,V ugm-3,64,V ugm-3,42,V ugm-3,No data,V ugm-3,67,V ugm-3,50,V ugm-3
-2019-04-19,49,V ugm-3,56,V ugm-3,42,V ugm-3,45,V ugm-3,28,V ugm-3,26,V ugm-3,38,V ugm-3,56,V ugm-3,54,V ugm-3,36,V ugm-3,No data,V ugm-3,65,V ugm-3,54,V ugm-3
-2019-04-20,50,V ugm-3,50,V ugm-3,34,V ugm-3,39,V ugm-3,22,V ugm-3,20,V ugm-3,35,V ugm-3,49,V ugm-3,51,V ugm-3,29,V ugm-3,No data,V ugm-3,57,V ugm-3,46,V ugm-3
-2019-04-21,49,V ugm-3,53,V ugm-3,42,V ugm-3,43,V ugm-3,29,V ugm-3,23,V ugm-3,36,V ugm-3,45,V ugm-3,59,V ugm-3,33,V ugm-3,No data,V ugm-3,61,V ugm-3,47,V ugm-3
-2019-04-22,69,V ugm-3,57,V ugm-3,46,V ugm-3,60,V ugm-3,38,V ugm-3,35,V ugm-3,46,V ugm-3,73,V ugm-3,68,V ugm-3,48,V ugm-3,No data,V ugm-3,75,V ugm-3,58,V ugm-3
-2019-04-23,61,V ugm-3,55,V ugm-3,57,V ugm-3,59,V ugm-3,45,V ugm-3,40,V ugm-3,61,V ugm-3,62,V ugm-3,72,V ugm-3,50,V ugm-3,No data,V ugm-3,80,V ugm-3,62,V ugm-3
-2019-04-24,61,V ugm-3,45,V ugm-3,30,V ugm-3,39,V ugm-3,20,V ugm-3,30,V ugm-3,39,V ugm-3,73,V ugm-3,80,V ugm-3,37,V ugm-3,No data,V ugm-3,41,V ugm-3,41,V ugm-3
-2019-04-25,36,V ugm-3,38,V ugm-3,14,V ugm-3,19,V ugm-3,8,V ugm-3,15,V ugm-3,27,V ugm-3,59,V ugm-3,71,V ugm-3,15,V ugm-3,No data,V ugm-3,14,V ugm-3,16,V ugm-3
-2019-04-26,31,V ugm-3,42,V ugm-3,15,V ugm-3,19,V ugm-3,7,V ugm-3,15,V ugm-3,31,V ugm-3,57,V ugm-3,71,V ugm-3,15,V ugm-3,No data,V ugm-3,17,V ugm-3,17,V ugm-3
-2019-04-27,14,V ugm-3,14,V ugm-3,5,V ugm-3,27,V ugm-3,5,V ugm-3,6,V ugm-3,8,V ugm-3,20,V ugm-3,52,V ugm-3,9,V ugm-3,No data,V ugm-3,13,V ugm-3,19,V ugm-3
-2019-04-28,34,V ugm-3,24,V ugm-3,9,V ugm-3,30,V ugm-3,7,V ugm-3,13,V ugm-3,15,V ugm-3,12,V ugm-3,27,V ugm-3,15,V ugm-3,No data,V ugm-3,33,V ugm-3,31,V ugm-3
-2019-04-29,55,V ugm-3,53,V ugm-3,27,V ugm-3,39,V ugm-3,18,V ugm-3,24,V ugm-3,32,V ugm-3,43,V ugm-3,54,V ugm-3,30,V ugm-3,No data,V ugm-3,59,V ugm-3,42,V ugm-3
-2019-04-30,78,V ugm-3,54,V ugm-3,30,V ugm-3,46,V ugm-3,23,V ugm-3,31,V ugm-3,34,V ugm-3,62,V ugm-3,77,V ugm-3,41,V ugm-3,No data,V ugm-3,57,V ugm-3,43,V ugm-3
-2019-05-01,50,V ugm-3,53,V ugm-3,30,V ugm-3,45,V ugm-3,24,V ugm-3,29,V ugm-3,35,V ugm-3,53,V ugm-3,74,V ugm-3,27,V ugm-3,No data,V ugm-3,39,V ugm-3,49,V ugm-3
-2019-05-02,54,V ugm-3,29,V ugm-3,26,V ugm-3,42,V ugm-3,19,V ugm-3,17,V ugm-3,26,V ugm-3,23,V ugm-3,47,V ugm-3,23,V ugm-3,No data,V ugm-3,50,V ugm-3,41,V ugm-3
-2019-05-03,53,V ugm-3,43,V ugm-3,24,V ugm-3,38,V ugm-3,18,V ugm-3,20,V ugm-3,26,V ugm-3,31,V ugm-3,56,V ugm-3,26,V ugm-3,No data,V ugm-3,46,V ugm-3,50,V ugm-3
-2019-05-04,41,V ugm-3,23,V ugm-3,9,V ugm-3,25,V ugm-3,4,V ugm-3,9,V ugm-3,12,V ugm-3,9,V ugm-3,24,V ugm-3,14,V ugm-3,No data,V ugm-3,35,V ugm-3,28,V ugm-3
-2019-05-05,43,V ugm-3,35,V ugm-3,14,V ugm-3,22,V ugm-3,7,V ugm-3,15,V ugm-3,22,V ugm-3,27,V ugm-3,35,V ugm-3,15,V ugm-3,No data,V ugm-3,40,V ugm-3,35,V ugm-3
-2019-05-06,25,V ugm-3,31,V ugm-3,15,V ugm-3,37,V ugm-3,12,V ugm-3,13,V ugm-3,18,V ugm-3,31,V ugm-3,49,V ugm-3,16,V ugm-3,No data,V ugm-3,27,V ugm-3,32,V ugm-3
-2019-05-07,50,V ugm-3,60,V ugm-3,19,V ugm-3,23,V ugm-3,9,V ugm-3,20,V ugm-3,25,V ugm-3,75,V ugm-3,86,V ugm-3,19,V ugm-3,No data,V ugm-3,22,V ugm-3,23,V ugm-3
-2019-05-08,No data,V ugm-3,47,V ugm-3,16,V ugm-3,28,V ugm-3,9,V ugm-3,22,V ugm-3,33,V ugm-3,67,V ugm-3,No data,V ugm-3,24,V ugm-3,No data,V ugm-3,28,V ugm-3,30,V ugm-3
-2019-05-09,No data,V ugm-3,34,V ugm-3,24,V ugm-3,37,V ugm-3,17,V ugm-3,20,V ugm-3,32,V ugm-3,41,V ugm-3,No data,V ugm-3,33,V ugm-3,No data,V ugm-3,47,V ugm-3,43,V ugm-3
-2019-05-10,No data,V ugm-3,45,V ugm-3,21,V ugm-3,21,V ugm-3,12,V ugm-3,22,V ugm-3,33,V ugm-3,66,V ugm-3,89,V ugm-3,24,V ugm-3,No data,V ugm-3,30,V ugm-3,36,V ugm-3
-2019-05-11,52,V ugm-3,40,V ugm-3,23,V ugm-3,31,V ugm-3,16,V ugm-3,17,V ugm-3,25,V ugm-3,22,V ugm-3,52,V ugm-3,22,V ugm-3,No data,V ugm-3,54,V ugm-3,39,V ugm-3
-2019-05-12,42,V ugm-3,42,V ugm-3,18,V ugm-3,29,V ugm-3,14,V ugm-3,14,V ugm-3,19,V ugm-3,34,V ugm-3,64,V ugm-3,23,V ugm-3,No data,V ugm-3,44,V ugm-3,32,V ugm-3
-2019-05-13,49,V ugm-3,49,V ugm-3,20,V ugm-3,37,V ugm-3,13,V ugm-3,19,V ugm-3,31,V ugm-3,46,V ugm-3,73,V ugm-3,24,V ugm-3,No data,V ugm-3,58,V ugm-3,33,V ugm-3
-2019-05-14,43,V ugm-3,40,V ugm-3,18,V ugm-3,40,V ugm-3,13,V ugm-3,16,V ugm-3,24,V ugm-3,34,V ugm-3,68,V ugm-3,20,V ugm-3,No data,V ugm-3,52,V ugm-3,30,V ugm-3
-2019-05-15,60,V ugm-3,47,V ugm-3,23,V ugm-3,44,V ugm-3,15,V ugm-3,20,V ugm-3,30,V ugm-3,55,V ugm-3,80,V ugm-3,28,V ugm-3,No data,V ugm-3,58,V ugm-3,35,V ugm-3
-2019-05-16,43,V ugm-3,38,V ugm-3,17,V ugm-3,36,V ugm-3,11,V ugm-3,16,V ugm-3,24,V ugm-3,25,V ugm-3,53,V ugm-3,21,V ugm-3,No data,V ugm-3,51,V ugm-3,36,V ugm-3
-2019-05-17,42,V ugm-3,37,V ugm-3,19,V ugm-3,29,V ugm-3,12,V ugm-3,16,V ugm-3,21,V ugm-3,18,V ugm-3,39,V ugm-3,20,V ugm-3,No data,V ugm-3,56,V ugm-3,35,V ugm-3
-2019-05-18,53,V ugm-3,40,V ugm-3,23,V ugm-3,36,V ugm-3,16,V ugm-3,21,V ugm-3,31,V ugm-3,28,V ugm-3,59,V ugm-3,29,V ugm-3,No data,V ugm-3,52,V ugm-3,44,V ugm-3
-2019-05-19,44,V ugm-3,34,V ugm-3,30,V ugm-3,31,V ugm-3,18,V ugm-3,18,V ugm-3,26,V ugm-3,26,V ugm-3,46,V ugm-3,27,V ugm-3,No data,V ugm-3,58,V ugm-3,43,V ugm-3
-2019-05-20,62,V ugm-3,37,V ugm-3,30,V ugm-3,34,V ugm-3,18,V ugm-3,18,V ugm-3,29,V ugm-3,22,V ugm-3,47,V ugm-3,28,V ugm-3,No data,V ugm-3,67,V ugm-3,48,V ugm-3
-2019-05-21,54,V ugm-3,35,V ugm-3,29,V ugm-3,29,V ugm-3,17,V ugm-3,13,V ugm-3,23,V ugm-3,17,V ugm-3,44,V ugm-3,19,V ugm-3,No data,V ugm-3,57,V ugm-3,42,V ugm-3
-2019-05-22,48,V ugm-3,54,V ugm-3,22,V ugm-3,25,V ugm-3,13,V ugm-3,17,V ugm-3,32,V ugm-3,64,V ugm-3,94,V ugm-3,19,V ugm-3,No data,V ugm-3,38,V ugm-3,34,V ugm-3
-2019-05-23,42,V ugm-3,63,V ugm-3,19,V ugm-3,20,V ugm-3,11,V ugm-3,17,V ugm-3,31,V ugm-3,72,V ugm-3,107,V ugm-3,17,V ugm-3,No data,V ugm-3,24,V ugm-3,27,V ugm-3
-2019-05-24,46,V ugm-3,28,V ugm-3,21,V ugm-3,28,V ugm-3,15,V ugm-3,13,V ugm-3,24,V ugm-3,18,V ugm-3,46,V ugm-3,21,V ugm-3,No data,V ugm-3,54,V ugm-3,43,V ugm-3
-2019-05-25,25,V ugm-3,18,V ugm-3,13,V ugm-3,25,V ugm-3,9,V ugm-3,7,V ugm-3,13,V ugm-3,13,V ugm-3,39,V ugm-3,12,V ugm-3,No data,V ugm-3,35,V ugm-3,29,V ugm-3
-2019-05-26,17,V ugm-3,17,V ugm-3,7,V ugm-3,11,V ugm-3,5,V ugm-3,8,V ugm-3,11,V ugm-3,27,V ugm-3,47,V ugm-3,12,V ugm-3,No data,V ugm-3,14,V ugm-3,20,V ugm-3
-2019-05-27,16,V ugm-3,14,V ugm-3,10,V ugm-3,16,V ugm-3,7,V ugm-3,7,V ugm-3,10,V ugm-3,23,V ugm-3,48,V ugm-3,14,V ugm-3,No data,V ugm-3,19,V ugm-3,23,V ugm-3
-2019-05-28,40,V ugm-3,22,V ugm-3,15,V ugm-3,22,V ugm-3,8,V ugm-3,11,V ugm-3,22,V ugm-3,22,V ugm-3,40,V ugm-3,17,V ugm-3,No data,V ugm-3,43,V ugm-3,27,V ugm-3
-2019-05-29,33,V ugm-3,41,V ugm-3,16,V ugm-3,18,V ugm-3,6,V ugm-3,18,V ugm-3,31,V ugm-3,55,V ugm-3,71,V ugm-3,19,V ugm-3,No data,V ugm-3,21,V ugm-3,21,V ugm-3
-2019-05-30,17,V ugm-3,20,V ugm-3,7,V ugm-3,12,V ugm-3,6,V ugm-3,7,V ugm-3,12,V ugm-3,32,V ugm-3,64,V ugm-3,13,V ugm-3,No data,V ugm-3,12,V ugm-3,20,V ugm-3
-2019-05-31,23,V ugm-3,30,V ugm-3,11,V ugm-3,11,V ugm-3,7,V ugm-3,9,V ugm-3,20,V ugm-3,47,V ugm-3,No data,V ugm-3,15,V ugm-3,No data,V ugm-3,15,V ugm-3,18,V ugm-3
-2019-06-01,31,V ugm-3,38,V ugm-3,13,V ugm-3,14,V ugm-3,9,V ugm-3,13,V ugm-3,30,V ugm-3,60,V ugm-3,No data,V ugm-3,14,V ugm-3,No data,V ugm-3,19,V ugm-3,17,V ugm-3
-2019-06-02,21,V ugm-3,26,V ugm-3,10,V ugm-3,10,V ugm-3,8,V ugm-3,10,V ugm-3,26,V ugm-3,42,V ugm-3,No data,V ugm-3,12,V ugm-3,No data,V ugm-3,18,V ugm-3,17,V ugm-3
-2019-06-03,25,V ugm-3,25,V ugm-3,8,V ugm-3,9,V ugm-3,7,V ugm-3,8,V ugm-3,17,V ugm-3,46,V ugm-3,No data,V ugm-3,10,V ugm-3,No data,V ugm-3,11,V ugm-3,20,V ugm-3
-2019-06-04,52,V ugm-3,37,V ugm-3,20,V ugm-3,27,V ugm-3,16,V ugm-3,21,V ugm-3,28,V ugm-3,57,V ugm-3,No data,V ugm-3,25,V ugm-3,No data,V ugm-3,43,V ugm-3,28,V ugm-3
-2019-06-05,30,V ugm-3,28,V ugm-3,11,V ugm-3,9,V ugm-3,8,V ugm-3,10,V ugm-3,18,V ugm-3,54,V ugm-3,No data,V ugm-3,12,V ugm-3,No data,V ugm-3,16,V ugm-3,19,V ugm-3
-2019-06-06,36,V ugm-3,38,V ugm-3,11,V ugm-3,13,V ugm-3,8,V ugm-3,13,V ugm-3,19,V ugm-3,57,V ugm-3,No data,V ugm-3,14,V ugm-3,No data,V ugm-3,17,V ugm-3,17,V ugm-3
-2019-06-07,52,V ugm-3,29,V ugm-3,25,V ugm-3,36,V ugm-3,17,V ugm-3,19,V ugm-3,27,V ugm-3,43,V ugm-3,No data,V ugm-3,29,V ugm-3,No data,V ugm-3,48,V ugm-3,36,V ugm-3
-2019-06-08,14,V ugm-3,19,V ugm-3,6,V ugm-3,7,V ugm-3,6,V ugm-3,7,V ugm-3,11,V ugm-3,30,V ugm-3,65,V ugm-3,9,V ugm-3,No data,V ugm-3,11,V ugm-3,18,V ugm-3
-2019-06-09,27,V ugm-3,32,V ugm-3,9,V ugm-3,9,V ugm-3,7,V ugm-3,9,V ugm-3,19,V ugm-3,40,V ugm-3,60,V ugm-3,12,V ugm-3,No data,V ugm-3,18,V ugm-3,18,V ugm-3
-2019-06-10,49,V ugm-3,33,V ugm-3,19,V ugm-3,30,V ugm-3,15,V ugm-3,12,V ugm-3,21,V ugm-3,16,V ugm-3,43,V ugm-3,20,V ugm-3,No data,V ugm-3,53,V ugm-3,45,V ugm-3
-2019-06-11,44,V ugm-3,25,V ugm-3,10,V ugm-3,22,V ugm-3,8,V ugm-3,10,V ugm-3,12,V ugm-3,19,V ugm-3,No data,V ugm-3,17,V ugm-3,No data,V ugm-3,40,V ugm-3,29,V ugm-3
-2019-06-12,50,V ugm-3,30,V ugm-3,23,V ugm-3,27,V ugm-3,15,V ugm-3,17,V ugm-3,23,V ugm-3,21,V ugm-3,56,V ugm-3,23,V ugm-3,No data,V ugm-3,57,V ugm-3,38,V ugm-3
-2019-06-13,32,V ugm-3,30,V ugm-3,10,V ugm-3,17,V ugm-3,5,V ugm-3,13,V ugm-3,27,V ugm-3,53,V ugm-3,87,V ugm-3,16,V ugm-3,No data,V ugm-3,17,V ugm-3,18,V ugm-3
-2019-06-14,31,V ugm-3,29,V ugm-3,8,V ugm-3,13,V ugm-3,5,V ugm-3,11,V ugm-3,22,V ugm-3,53,V ugm-3,87,V ugm-3,13,V ugm-3,No data,V ugm-3,15,V ugm-3,14,V ugm-3
-2019-06-15,27,V ugm-3,28,V ugm-3,7,V ugm-3,12,V ugm-3,5,V ugm-3,10,V ugm-3,23,V ugm-3,53,V ugm-3,70,V ugm-3,12,V ugm-3,No data,V ugm-3,16,V ugm-3,13,V ugm-3
-2019-06-16,18,V ugm-3,20,V ugm-3,5,V ugm-3,8,V ugm-3,4,V ugm-3,7,V ugm-3,22,V ugm-3,40,V ugm-3,55,V ugm-3,9,V ugm-3,No data,V ugm-3,12,V ugm-3,11,V ugm-3
-2019-06-17,28,V ugm-3,25,V ugm-3,10,V ugm-3,11,V ugm-3,6,V ugm-3,8,V ugm-3,19,V ugm-3,53,V ugm-3,86,V ugm-3,10,V ugm-3,No data,V ugm-3,14,V ugm-3,12,V ugm-3
-2019-06-18,55,V ugm-3,35,V ugm-3,23,V ugm-3,33,V ugm-3,17,V ugm-3,29,V ugm-3,34,V ugm-3,52,V ugm-3,73,V ugm-3,33,V ugm-3,No data,V ugm-3,49,V ugm-3,40,V ugm-3
-2019-06-19,47,V ugm-3,25,V ugm-3,23,V ugm-3,28,V ugm-3,20,V ugm-3,20,V ugm-3,23,V ugm-3,38,V ugm-3,66,V ugm-3,27,V ugm-3,34,V ugm-3,47,V ugm-3,44,V ugm-3
-2019-06-20,25,V ugm-3,17,V ugm-3,10,V ugm-3,17,V ugm-3,No data,V ugm-3,11,V ugm-3,15,V ugm-3,36,V ugm-3,87,V ugm-3,16,V ugm-3,18,V ugm-3,17,V ugm-3,29,V ugm-3
-2019-06-21,37,V ugm-3,20,V ugm-3,11,V ugm-3,20,V ugm-3,No data,V ugm-3,13,V ugm-3,16,V ugm-3,34,V ugm-3,71,V ugm-3,16,V ugm-3,22,V ugm-3,27,V ugm-3,33,V ugm-3
-2019-06-22,50,V ugm-3,24,V ugm-3,13,V ugm-3,19,V ugm-3,No data,V ugm-3,17,V ugm-3,19,V ugm-3,47,V ugm-3,75,V ugm-3,21,V ugm-3,21,V ugm-3,32,V ugm-3,21,V ugm-3
-2019-06-23,34,V ugm-3,20,V ugm-3,21,V ugm-3,26,V ugm-3,19,V ugm-3,16,V ugm-3,27,V ugm-3,30,V ugm-3,No data,V ugm-3,23,V ugm-3,30,V ugm-3,46,V ugm-3,26,V ugm-3
-2019-06-24,50,V ugm-3,37,V ugm-3,20,V ugm-3,31,V ugm-3,22,V ugm-3,26,V ugm-3,39,V ugm-3,66,V ugm-3,No data,V ugm-3,29,V ugm-3,35,V ugm-3,39,V ugm-3,33,V ugm-3
-2019-06-25,47,V ugm-3,No data,V ugm-3,20,V ugm-3,31,V ugm-3,16,V ugm-3,No data,V ugm-3,25,V ugm-3,22,V ugm-3,43,V ugm-3,24,V ugm-3,36,V ugm-3,57,V ugm-3,37,V ugm-3
-2019-06-26,23,V ugm-3,No data,V ugm-3,7,V ugm-3,17,V ugm-3,7,V ugm-3,No data,V ugm-3,10,V ugm-3,11,V ugm-3,25,V ugm-3,11,V ugm-3,22,V ugm-3,42,V ugm-3,24,V ugm-3
-2019-06-27,26,V ugm-3,No data,V ugm-3,4,V ugm-3,15,V ugm-3,6,V ugm-3,No data,V ugm-3,11,V ugm-3,15,V ugm-3,43,V ugm-3,11,V ugm-3,18,V ugm-3,34,V ugm-3,19,V ugm-3
-2019-06-28,38,V ugm-3,No data,V ugm-3,8,V ugm-3,26,V ugm-3,9,V ugm-3,13,V ugm-3,18,V ugm-3,32,V ugm-3,55,V ugm-3,18,V ugm-3,23,V ugm-3,40,V ugm-3,17,V ugm-3
-2019-06-29,54,V ugm-3,No data,V ugm-3,22,V ugm-3,28,V ugm-3,19,V ugm-3,22,V ugm-3,32,V ugm-3,64,V ugm-3,94,V ugm-3,24,V ugm-3,No data,V ugm-3,38,V ugm-3,27,V ugm-3
-2019-06-30,10,V ugm-3,16,V ugm-3,5,V ugm-3,8,V ugm-3,6,V ugm-3,7,V ugm-3,7,V ugm-3,16,V ugm-3,46,V ugm-3,8,V ugm-3,13,V ugm-3,13,V ugm-3,20,V ugm-3
-2019-07-01,25,V ugm-3,11,V ugm-3,9,V ugm-3,13,V ugm-3,8,V ugm-3,7,V ugm-3,10,V ugm-3,12,V ugm-3,32,V ugm-3,9,V ugm-3,19,V ugm-3,29,V ugm-3,25,V ugm-3
-2019-07-02,44,V ugm-3,24,V ugm-3,12,V ugm-3,19,V ugm-3,10,V ugm-3,11,V ugm-3,19,V ugm-3,13,V ugm-3,28,V ugm-3,13,V ugm-3,21,V ugm-3,51,V ugm-3,29,V ugm-3
-2019-07-03,44,V ugm-3,30,V ugm-3,16,V ugm-3,27,V ugm-3,14,V ugm-3,14,V ugm-3,21,V ugm-3,26,V ugm-3,53,V ugm-3,18,V ugm-3,29,V ugm-3,50,V ugm-3,32,V ugm-3
-2019-07-04,55,V ugm-3,34,V ugm-3,18,V ugm-3,28,V ugm-3,16,V ugm-3,18,V ugm-3,34,V ugm-3,30,V ugm-3,55,V ugm-3,22,V ugm-3,33,V ugm-3,65,V ugm-3,36,V ugm-3
-2019-07-05,37,V ugm-3,32,V ugm-3,22,V ugm-3,22,V ugm-3,18,V ugm-3,12,V ugm-3,23,V ugm-3,35,V ugm-3,69,V ugm-3,19,V ugm-3,28,V ugm-3,48,V ugm-3,42,V ugm-3
-2019-07-06,35,V ugm-3,24,V ugm-3,11,V ugm-3,18,V ugm-3,10,V ugm-3,15,V ugm-3,17,V ugm-3,15,V ugm-3,26,V ugm-3,15,V ugm-3,20,V ugm-3,46,V ugm-3,28,V ugm-3
-2019-07-07,33,V ugm-3,24,V ugm-3,8,V ugm-3,16,V ugm-3,7,V ugm-3,12,V ugm-3,16,V ugm-3,34,V ugm-3,40,V ugm-3,15,V ugm-3,18,V ugm-3,31,V ugm-3,21,V ugm-3
-2019-07-08,47,V ugm-3,39,V ugm-3,18,V ugm-3,25,V ugm-3,13,V ugm-3,22,V ugm-3,26,V ugm-3,55,V ugm-3,64,V ugm-3,19,V ugm-3,23,V ugm-3,36,V ugm-3,26,V ugm-3
-2019-07-09,44,V ugm-3,49,V ugm-3,15,V ugm-3,19,V ugm-3,12,V ugm-3,20,V ugm-3,24,V ugm-3,45,V ugm-3,72,V ugm-3,17,V ugm-3,23,V ugm-3,26,V ugm-3,28,V ugm-3
-2019-07-10,35,V ugm-3,47,V ugm-3,16,V ugm-3,18,V ugm-3,13,V ugm-3,17,V ugm-3,28,V ugm-3,60,V ugm-3,87,V ugm-3,18,V ugm-3,22,V ugm-3,24,V ugm-3,28,V ugm-3
-2019-07-11,28,V ugm-3,31,V ugm-3,16,V ugm-3,19,V ugm-3,13,V ugm-3,14,V ugm-3,18,V ugm-3,29,V ugm-3,68,V ugm-3,16,V ugm-3,26,V ugm-3,26,V ugm-3,36,V ugm-3
-2019-07-12,35,V ugm-3,20,V ugm-3,12,V ugm-3,18,V ugm-3,9,V ugm-3,8,V ugm-3,13,V ugm-3,9,V ugm-3,25,V ugm-3,10,V ugm-3,24,V ugm-3,46,V ugm-3,31,V ugm-3
-2019-07-13,31,V ugm-3,28,V ugm-3,9,V ugm-3,14,V ugm-3,8,V ugm-3,9,V ugm-3,11,V ugm-3,9,V ugm-3,21,V ugm-3,10,V ugm-3,21,V ugm-3,45,V ugm-3,25,V ugm-3
-2019-07-14,24,V ugm-3,25,V ugm-3,7,V ugm-3,12,V ugm-3,6,V ugm-3,9,V ugm-3,11,V ugm-3,10,V ugm-3,20,V ugm-3,11,V ugm-3,18,V ugm-3,33,V ugm-3,23,V ugm-3
-2019-07-15,37,V ugm-3,32,V ugm-3,11,V ugm-3,13,V ugm-3,8,V ugm-3,10,V ugm-3,17,V ugm-3,15,V ugm-3,32,V ugm-3,12,V ugm-3,21,V ugm-3,49,V ugm-3,28,V ugm-3
-2019-07-16,40,V ugm-3,45,V ugm-3,18,V ugm-3,22,V ugm-3,13,V ugm-3,14,V ugm-3,26,V ugm-3,48,V ugm-3,80,V ugm-3,17,V ugm-3,25,V ugm-3,32,V ugm-3,31,V ugm-3
-2019-07-17,41,V ugm-3,56,V ugm-3,17,V ugm-3,17,V ugm-3,11,V ugm-3,18,V ugm-3,25,V ugm-3,65,V ugm-3,No data,V ugm-3,16,V ugm-3,22,V ugm-3,23,V ugm-3,23,V ugm-3
-2019-07-18,25,V ugm-3,31,V ugm-3,14,V ugm-3,17,V ugm-3,11,V ugm-3,12,V ugm-3,15,V ugm-3,38,V ugm-3,No data,V ugm-3,14,V ugm-3,23,V ugm-3,23,V ugm-3,26,V ugm-3
-2019-07-19,29,V ugm-3,43,V ugm-3,13,V ugm-3,18,V ugm-3,8,V ugm-3,17,V ugm-3,28,V ugm-3,50,V ugm-3,73,V ugm-3,16,V ugm-3,20,V ugm-3,20,V ugm-3,21,V ugm-3
-2019-07-20,15,V ugm-3,24,V ugm-3,6,V ugm-3,8,V ugm-3,6,V ugm-3,8,V ugm-3,12,V ugm-3,26,V ugm-3,62,V ugm-3,8,V ugm-3,15,V ugm-3,No data,V ugm-3,18,V ugm-3
-2019-07-21,20,V ugm-3,30,V ugm-3,6,V ugm-3,8,V ugm-3,6,V ugm-3,9,V ugm-3,17,V ugm-3,36,V ugm-3,57,V ugm-3,11,V ugm-3,10,V ugm-3,16,V ugm-3,13,V ugm-3
-2019-07-22,23,V ugm-3,33,V ugm-3,9,V ugm-3,8,V ugm-3,7,V ugm-3,11,V ugm-3,18,V ugm-3,41,V ugm-3,65,V ugm-3,12,V ugm-3,12,V ugm-3,15,V ugm-3,12,V ugm-3
-2019-07-23,62,V ugm-3,45,V ugm-3,27,V ugm-3,40,V ugm-3,16,V ugm-3,22,V ugm-3,25,V ugm-3,55,V ugm-3,92,V ugm-3,27,V ugm-3,30,V ugm-3,45,V ugm-3,28,V ugm-3
-2019-07-24,41,V ugm-3,52,V ugm-3,23,V ugm-3,No data,V ugm-3,15,V ugm-3,22,V ugm-3,33,V ugm-3,52,V ugm-3,106,V ugm-3,26,V ugm-3,23,V ugm-3,36,V ugm-3,31,V ugm-3
-2019-07-25,80,V ugm-3,70,V ugm-3,33,V ugm-3,No data,V ugm-3,21,V ugm-3,31,V ugm-3,39,V ugm-3,82,V ugm-3,114,V ugm-3,42,V ugm-3,39,V ugm-3,55,V ugm-3,45,V ugm-3
-2019-07-26,32,V ugm-3,39,V ugm-3,18,V ugm-3,No data,V ugm-3,15,V ugm-3,21,V ugm-3,22,V ugm-3,42,V ugm-3,67,V ugm-3,22,V ugm-3,23,V ugm-3,27,V ugm-3,36,V ugm-3
-2019-07-27,27,V ugm-3,19,V ugm-3,16,V ugm-3,No data,V ugm-3,13,V ugm-3,11,V ugm-3,19,V ugm-3,14,V ugm-3,35,V ugm-3,17,V ugm-3,23,V ugm-3,38,V ugm-3,30,V ugm-3
-2019-07-28,15,V ugm-3,15,V ugm-3,8,V ugm-3,No data,V ugm-3,8,V ugm-3,6,V ugm-3,10,V ugm-3,19,V ugm-3,40,V ugm-3,15,V ugm-3,15,V ugm-3,22,V ugm-3,27,V ugm-3
-2019-07-29,36,V ugm-3,40,V ugm-3,14,V ugm-3,No data,V ugm-3,8,V ugm-3,14,V ugm-3,17,V ugm-3,53,V ugm-3,63,V ugm-3,15,V ugm-3,18,V ugm-3,23,V ugm-3,19,V ugm-3
-2019-07-30,29,V ugm-3,33,V ugm-3,9,V ugm-3,No data,V ugm-3,5,V ugm-3,12,V ugm-3,20,V ugm-3,45,V ugm-3,55,V ugm-3,12,V ugm-3,14,V ugm-3,12,V ugm-3,12,V ugm-3
-2019-07-31,19,V ugm-3,28,V ugm-3,7,V ugm-3,15,V ugm-3,7,V ugm-3,8,V ugm-3,13,V ugm-3,33,V ugm-3,63,V ugm-3,11,V ugm-3,15,V ugm-3,14,V ugm-3,19,V ugm-3
-2019-08-01,36,V ugm-3,26,V ugm-3,14,V ugm-3,26,V ugm-3,11,V ugm-3,10,V ugm-3,16,V ugm-3,17,V ugm-3,43,V ugm-3,16,V ugm-3,26,V ugm-3,49,V ugm-3,29,V ugm-3
-2019-08-02,41,V ugm-3,23,V ugm-3,14,V ugm-3,27,V ugm-3,8,V ugm-3,8,V ugm-3,15,V ugm-3,12,V ugm-3,35,V ugm-3,15,V ugm-3,25,V ugm-3,57,V ugm-3,23,V ugm-3
-2019-08-03,40,V ugm-3,26,V ugm-3,19,V ugm-3,25,V ugm-3,11,V ugm-3,15,V ugm-3,24,V ugm-3,55,V ugm-3,53,V ugm-3,18,V ugm-3,23,V ugm-3,39,V ugm-3,18,V ugm-3
-2019-08-04,35,V ugm-3,27,V ugm-3,16,V ugm-3,23,V ugm-3,9,V ugm-3,18,V ugm-3,27,V ugm-3,57,V ugm-3,63,V ugm-3,15,V ugm-3,17,V ugm-3,25,V ugm-3,18,V ugm-3
-2019-08-05,21,V ugm-3,21,V ugm-3,9,V ugm-3,14,V ugm-3,6,V ugm-3,8,V ugm-3,18,V ugm-3,41,V ugm-3,59,V ugm-3,11,V ugm-3,15,V ugm-3,14,V ugm-3,13,V ugm-3
-2019-08-06,21,V ugm-3,20,V ugm-3,7,V ugm-3,10,V ugm-3,4,V ugm-3,6,V ugm-3,18,V ugm-3,41,V ugm-3,56,V ugm-3,9,V ugm-3,10,V ugm-3,11,V ugm-3,9,V ugm-3
-2019-08-07,20,V ugm-3,18,V ugm-3,8,V ugm-3,13,V ugm-3,7,V ugm-3,9,V ugm-3,15,V ugm-3,35,V ugm-3,61,V ugm-3,13,V ugm-3,16,V ugm-3,15,V ugm-3,12,V ugm-3
-2019-08-08,32,V ugm-3,27,V ugm-3,12,V ugm-3,15,V ugm-3,9,V ugm-3,12,V ugm-3,17,V ugm-3,No data,V ugm-3,70,V ugm-3,13,V ugm-3,16,V ugm-3,18,V ugm-3,13,V ugm-3
-2019-08-09,23,V ugm-3,21,V ugm-3,9,V ugm-3,14,V ugm-3,6,V ugm-3,10,V ugm-3,19,V ugm-3,40,V ugm-3,50,V ugm-3,11,V ugm-3,13,V ugm-3,13,V ugm-3,9,V ugm-3
-2019-08-10,13,V ugm-3,12,V ugm-3,2,V ugm-3,7,V ugm-3,2,V ugm-3,4,V ugm-3,15,V ugm-3,21,V ugm-3,35,V ugm-3,9,V ugm-3,6,V ugm-3,6,V ugm-3,7,V ugm-3
-2019-08-11,17,V ugm-3,18,V ugm-3,3,V ugm-3,8,V ugm-3,4,V ugm-3,7,V ugm-3,20,V ugm-3,34,V ugm-3,42,V ugm-3,11,V ugm-3,9,V ugm-3,9,V ugm-3,7,V ugm-3
-2019-08-12,45,V ugm-3,35,V ugm-3,21,V ugm-3,29,V ugm-3,16,V ugm-3,22,V ugm-3,27,V ugm-3,30,V ugm-3,46,V ugm-3,23,V ugm-3,29,V ugm-3,38,V ugm-3,22,V ugm-3
-2019-08-13,27,V ugm-3,23,V ugm-3,13,V ugm-3,21,V ugm-3,10,V ugm-3,12,V ugm-3,15,V ugm-3,32,V ugm-3,53,V ugm-3,17,V ugm-3,21,V ugm-3,28,V ugm-3,23,V ugm-3
-2019-08-14,30,V ugm-3,36,V ugm-3,11,V ugm-3,22,V ugm-3,6,V ugm-3,17,V ugm-3,30,V ugm-3,56,V ugm-3,58,V ugm-3,18,V ugm-3,18,V ugm-3,19,V ugm-3,19,V ugm-3
-2019-08-15,21,V ugm-3,14,V ugm-3,10,V ugm-3,20,V ugm-3,9,V ugm-3,8,V ugm-3,14,V ugm-3,24,V ugm-3,42,V ugm-3,14,V ugm-3,22,V ugm-3,24,V ugm-3,24,V ugm-3
-2019-08-16,24,V ugm-3,29,V ugm-3,10,V ugm-3,19,V ugm-3,6,V ugm-3,12,V ugm-3,23,V ugm-3,45,V ugm-3,53,V ugm-3,14,V ugm-3,15,V ugm-3,18,V ugm-3,16,V ugm-3
-2019-08-17,17,V ugm-3,18,V ugm-3,4,V ugm-3,9,V ugm-3,4,V ugm-3,6,V ugm-3,17,V ugm-3,34,V ugm-3,45,V ugm-3,8,V ugm-3,9,V ugm-3,10,V ugm-3,13,V ugm-3
-2019-08-18,17,V ugm-3,21,V ugm-3,4,V ugm-3,9,V ugm-3,4,V ugm-3,7,V ugm-3,18,V ugm-3,36,V ugm-3,50,V ugm-3,9,V ugm-3,9,V ugm-3,10,V ugm-3,13,V ugm-3
-2019-08-19,20,V ugm-3,25,V ugm-3,8,V ugm-3,14,V ugm-3,7,V ugm-3,8,V ugm-3,15,V ugm-3,40,V ugm-3,60,V ugm-3,14,V ugm-3,13,V ugm-3,No data,V ugm-3,15,V ugm-3
-2019-08-20,31,V ugm-3,31,V ugm-3,17,V ugm-3,22,V ugm-3,15,V ugm-3,15,V ugm-3,20,V ugm-3,42,V ugm-3,63,V ugm-3,22,V ugm-3,23,V ugm-3,No data,V ugm-3,29,V ugm-3
-2019-08-21,38,V ugm-3,No data,V ugm-3,16,V ugm-3,18,V ugm-3,12,V ugm-3,15,V ugm-3,32,V ugm-3,No data,V ugm-3,66,V ugm-3,17,V ugm-3,20,V ugm-3,21,V ugm-3,23,V ugm-3
-2019-08-22,27,V ugm-3,No data,V ugm-3,14,V ugm-3,13,V ugm-3,10,V ugm-3,15,V ugm-3,26,V ugm-3,No data,V ugm-3,73,V ugm-3,14,V ugm-3,16,V ugm-3,16,V ugm-3,20,V ugm-3
-2019-08-23,53,V ugm-3,No data,V ugm-3,25,V ugm-3,34,V ugm-3,21,V ugm-3,28,V ugm-3,33,V ugm-3,60,V ugm-3,70,V ugm-3,25,V ugm-3,31,V ugm-3,38,V ugm-3,32,V ugm-3
-2019-08-24,64,V ugm-3,No data,V ugm-3,38,V ugm-3,54,V ugm-3,31,V ugm-3,29,V ugm-3,40,V ugm-3,71,V ugm-3,79,V ugm-3,49,V ugm-3,56,V ugm-3,63,V ugm-3,45,V ugm-3
-2019-08-25,58,V ugm-3,No data,V ugm-3,36,V ugm-3,51,V ugm-3,28,V ugm-3,24,V ugm-3,57,V ugm-3,85,V ugm-3,87,V ugm-3,53,V ugm-3,50,V ugm-3,59,V ugm-3,47,V ugm-3
-2019-08-26,71,V ugm-3,No data,V ugm-3,40,V ugm-3,43,V ugm-3,24,V ugm-3,30,V ugm-3,57,V ugm-3,84,V ugm-3,95,V ugm-3,61,V ugm-3,47,V ugm-3,51,V ugm-3,48,V ugm-3
-2019-08-27,71,V ugm-3,No data,V ugm-3,37,V ugm-3,51,V ugm-3,27,V ugm-3,37,V ugm-3,54,V ugm-3,69,V ugm-3,No data,V ugm-3,53,V ugm-3,54,V ugm-3,54,V ugm-3,53,V ugm-3
-2019-08-28,29,V ugm-3,No data,V ugm-3,19,V ugm-3,14,V ugm-3,12,V ugm-3,12,V ugm-3,18,V ugm-3,45,V ugm-3,No data,V ugm-3,16,V ugm-3,19,V ugm-3,16,V ugm-3,20,V ugm-3
-2019-08-29,24,V ugm-3,No data,V ugm-3,12,V ugm-3,15,V ugm-3,9,V ugm-3,9,V ugm-3,19,V ugm-3,36,V ugm-3,No data,V ugm-3,14,V ugm-3,18,V ugm-3,16,V ugm-3,19,V ugm-3
-2019-08-30,27,V ugm-3,No data,V ugm-3,14,V ugm-3,14,V ugm-3,7,V ugm-3,11,V ugm-3,23,V ugm-3,55,V ugm-3,No data,V ugm-3,12,V ugm-3,18,V ugm-3,15,V ugm-3,14,V ugm-3
-2019-08-31,24,V ugm-3,No data,V ugm-3,16,V ugm-3,14,V ugm-3,10,V ugm-3,13,V ugm-3,20,V ugm-3,35,V ugm-3,60,V ugm-3,19,V ugm-3,22,V ugm-3,19,V ugm-3,21,V ugm-3
-2019-09-01,23,V ugm-3,No data,V ugm-3,12,V ugm-3,14,V ugm-3,10,V ugm-3,9,V ugm-3,17,V ugm-3,14,V ugm-3,35,V ugm-3,16,V ugm-3,20,V ugm-3,27,V ugm-3,24,V ugm-3
-2019-09-02,28,V ugm-3,No data,V ugm-3,14,V ugm-3,19,V ugm-3,11,V ugm-3,15,V ugm-3,22,V ugm-3,41,V ugm-3,70,V ugm-3,21,V ugm-3,No data,V ugm-3,20,V ugm-3,25,V ugm-3
-2019-09-03,22,V ugm-3,No data,V ugm-3,9,V ugm-3,14,V ugm-3,8,V ugm-3,10,V ugm-3,16,V ugm-3,42,V ugm-3,67,V ugm-3,13,V ugm-3,No data,V ugm-3,13,V ugm-3,22,V ugm-3
-2019-09-04,15,V ugm-3,17,V ugm-3,No data,V ugm-3,14,V ugm-3,6,V ugm-3,7,V ugm-3,No data,V ugm-3,21,V ugm-3,47,V ugm-3,10,V ugm-3,20,V ugm-3,15,V ugm-3,19,V ugm-3
-2019-09-05,46,V ugm-3,25,V ugm-3,No data,V ugm-3,28,V ugm-3,12,V ugm-3,14,V ugm-3,20,V ugm-3,21,V ugm-3,36,V ugm-3,21,V ugm-3,31,V ugm-3,46,V ugm-3,30,V ugm-3
-2019-09-06,34,V ugm-3,38,V ugm-3,15,V ugm-3,25,V ugm-3,15,V ugm-3,22,V ugm-3,27,V ugm-3,47,V ugm-3,67,V ugm-3,25,V ugm-3,27,V ugm-3,26,V ugm-3,28,V ugm-3
-2019-09-07,36,V ugm-3,21,V ugm-3,9,V ugm-3,22,V ugm-3,8,V ugm-3,8,V ugm-3,19,V ugm-3,15,V ugm-3,23,V ugm-3,16,V ugm-3,23,V ugm-3,36,V ugm-3,26,V ugm-3
-2019-09-08,43,V ugm-3,30,V ugm-3,16,V ugm-3,20,V ugm-3,12,V ugm-3,15,V ugm-3,32,V ugm-3,31,V ugm-3,33,V ugm-3,23,V ugm-3,23,V ugm-3,44,V ugm-3,30,V ugm-3
-2019-09-09,42,V ugm-3,52,V ugm-3,26,V ugm-3,24,V ugm-3,13,V ugm-3,26,V ugm-3,33,V ugm-3,72,V ugm-3,67,V ugm-3,24,V ugm-3,29,V ugm-3,26,V ugm-3,24,V ugm-3
-2019-09-10,47,V ugm-3,37,V ugm-3,32,V ugm-3,36,V ugm-3,23,V ugm-3,27,V ugm-3,29,V ugm-3,33,V ugm-3,57,V ugm-3,33,V ugm-3,43,V ugm-3,42,V ugm-3,41,V ugm-3
-2019-09-11,22,V ugm-3,27,V ugm-3,9,V ugm-3,16,V ugm-3,9,V ugm-3,13,V ugm-3,19,V ugm-3,36,V ugm-3,59,V ugm-3,17,V ugm-3,17,V ugm-3,15,V ugm-3,19,V ugm-3
-2019-09-12,23,V ugm-3,30,V ugm-3,8,V ugm-3,14,V ugm-3,7,V ugm-3,16,V ugm-3,24,V ugm-3,37,V ugm-3,62,V ugm-3,15,V ugm-3,15,V ugm-3,13,V ugm-3,20,V ugm-3
-2019-09-13,53,V ugm-3,27,V ugm-3,13,V ugm-3,30,V ugm-3,10,V ugm-3,11,V ugm-3,20,V ugm-3,18,V ugm-3,39,V ugm-3,17,V ugm-3,24,V ugm-3,50,V ugm-3,28,V ugm-3
-2019-09-14,55,V ugm-3,46,V ugm-3,26,V ugm-3,39,V ugm-3,21,V ugm-3,33,V ugm-3,48,V ugm-3,57,V ugm-3,72,V ugm-3,37,V ugm-3,42,V ugm-3,55,V ugm-3,39,V ugm-3
-2019-09-15,37,V ugm-3,34,V ugm-3,22,V ugm-3,31,V ugm-3,21,V ugm-3,23,V ugm-3,33,V ugm-3,31,V ugm-3,52,V ugm-3,28,V ugm-3,32,V ugm-3,37,V ugm-3,34,V ugm-3
-2019-09-16,31,V ugm-3,26,V ugm-3,23,V ugm-3,28,V ugm-3,20,V ugm-3,16,V ugm-3,21,V ugm-3,18,V ugm-3,38,V ugm-3,22,V ugm-3,30,V ugm-3,38,V ugm-3,26,V ugm-3
-2019-09-17,41,V ugm-3,28,V ugm-3,18,V ugm-3,26,V ugm-3,12,V ugm-3,14,V ugm-3,23,V ugm-3,22,V ugm-3,29,V ugm-3,18,V ugm-3,25,V ugm-3,52,V ugm-3,34,V ugm-3
-2019-09-18,47,V ugm-3,39,V ugm-3,27,V ugm-3,35,V ugm-3,22,V ugm-3,24,V ugm-3,33,V ugm-3,34,V ugm-3,50,V ugm-3,27,V ugm-3,31,V ugm-3,62,V ugm-3,39,V ugm-3
-2019-09-19,57,V ugm-3,45,V ugm-3,32,V ugm-3,46,V ugm-3,26,V ugm-3,30,V ugm-3,38,V ugm-3,45,V ugm-3,68,V ugm-3,40,V ugm-3,46,V ugm-3,57,V ugm-3,43,V ugm-3
-2019-09-20,56,V ugm-3,42,V ugm-3,29,V ugm-3,56,V ugm-3,23,V ugm-3,29,V ugm-3,38,V ugm-3,46,V ugm-3,82,V ugm-3,41,V ugm-3,49,V ugm-3,59,V ugm-3,38,V ugm-3
-2019-09-21,56,V ugm-3,47,V ugm-3,37,V ugm-3,66,V ugm-3,29,V ugm-3,32,V ugm-3,42,V ugm-3,58,V ugm-3,80,V ugm-3,51,V ugm-3,51,V ugm-3,61,V ugm-3,42,V ugm-3
-2019-09-22,39,V ugm-3,45,V ugm-3,20,V ugm-3,27,V ugm-3,12,V ugm-3,27,V ugm-3,43,V ugm-3,64,V ugm-3,65,V ugm-3,28,V ugm-3,23,V ugm-3,30,V ugm-3,27,V ugm-3
-2019-09-23,No data,V ugm-3,30,V ugm-3,8,V ugm-3,12,V ugm-3,7,V ugm-3,12,V ugm-3,28,V ugm-3,46,V ugm-3,65,V ugm-3,12,V ugm-3,15,V ugm-3,12,V ugm-3,16,V ugm-3
-2019-09-24,35,V ugm-3,34,V ugm-3,10,V ugm-3,19,V ugm-3,8,V ugm-3,15,V ugm-3,27,V ugm-3,48,V ugm-3,67,V ugm-3,16,V ugm-3,24,V ugm-3,No data,V ugm-3,20,V ugm-3
-2019-09-25,27,V ugm-3,28,V ugm-3,9,V ugm-3,16,V ugm-3,9,V ugm-3,14,V ugm-3,23,V ugm-3,39,V ugm-3,64,V ugm-3,14,V ugm-3,20,V ugm-3,16,V ugm-3,18,V ugm-3
-2019-09-26,26,V ugm-3,29,V ugm-3,8,V ugm-3,17,V ugm-3,6,V ugm-3,12,V ugm-3,27,V ugm-3,42,V ugm-3,72,V ugm-3,14,V ugm-3,21,V ugm-3,15,V ugm-3,18,V ugm-3
-2019-09-27,27,V ugm-3,30,V ugm-3,8,V ugm-3,15,V ugm-3,7,V ugm-3,12,V ugm-3,20,V ugm-3,39,V ugm-3,67,V ugm-3,14,V ugm-3,18,V ugm-3,16,V ugm-3,12,V ugm-3
-2019-09-28,20,V ugm-3,24,V ugm-3,5,V ugm-3,10,V ugm-3,6,V ugm-3,10,V ugm-3,22,V ugm-3,33,V ugm-3,57,V ugm-3,10,V ugm-3,12,V ugm-3,12,V ugm-3,15,V ugm-3
-2019-09-29,14,V ugm-3,15,V ugm-3,6,V ugm-3,10,V ugm-3,5,V ugm-3,6,V ugm-3,17,V ugm-3,20,V ugm-3,38,V ugm-3,8,V ugm-3,16,V ugm-3,13,V ugm-3,14,V ugm-3
-2019-09-30,34,V ugm-3,37,V ugm-3,13,V ugm-3,20,V ugm-3,11,V ugm-3,18,V ugm-3,33,V ugm-3,54,V ugm-3,69,V ugm-3,No data,V ugm-3,24,V ugm-3,21,V ugm-3,19,V ugm-3
-2019-10-01,36,V ugm-3,32,V ugm-3,15,V ugm-3,23,V ugm-3,10,V ugm-3,13,V ugm-3,20,V ugm-3,39,V ugm-3,56,V ugm-3,No data,V ugm-3,30,V ugm-3,25,V ugm-3,24,V ugm-3
-2019-10-02,46,V ugm-3,28,V ugm-3,25,V ugm-3,35,V ugm-3,19,V ugm-3,20,V ugm-3,28,V ugm-3,23,V ugm-3,37,V ugm-3,25,V ugm-3,38,V ugm-3,52,V ugm-3,34,V ugm-3
-2019-10-03,52,V ugm-3,46,V ugm-3,27,V ugm-3,38,V ugm-3,22,V ugm-3,29,V ugm-3,40,V ugm-3,60,V ugm-3,84,V ugm-3,34,V ugm-3,39,V ugm-3,36,V ugm-3,32,V ugm-3
-2019-10-04,35,V ugm-3,32,V ugm-3,23,V ugm-3,31,V ugm-3,18,V ugm-3,22,V ugm-3,25,V ugm-3,40,V ugm-3,70,V ugm-3,29,V ugm-3,35,V ugm-3,31,V ugm-3,30,V ugm-3
-2019-10-05,51,V ugm-3,36,V ugm-3,19,V ugm-3,31,V ugm-3,19,V ugm-3,23,V ugm-3,30,V ugm-3,48,V ugm-3,50,V ugm-3,32,V ugm-3,34,V ugm-3,45,V ugm-3,33,V ugm-3
-2019-10-06,23,V ugm-3,16,V ugm-3,11,V ugm-3,21,V ugm-3,9,V ugm-3,11,V ugm-3,14,V ugm-3,16,V ugm-3,28,V ugm-3,16,V ugm-3,24,V ugm-3,27,V ugm-3,24,V ugm-3
-2019-10-07,36,V ugm-3,43,V ugm-3,20,V ugm-3,25,V ugm-3,13,V ugm-3,22,V ugm-3,33,V ugm-3,48,V ugm-3,66,V ugm-3,24,V ugm-3,33,V ugm-3,30,V ugm-3,23,V ugm-3
-2019-10-08,28,V ugm-3,33,V ugm-3,10,V ugm-3,17,V ugm-3,11,V ugm-3,16,V ugm-3,22,V ugm-3,40,V ugm-3,74,V ugm-3,18,V ugm-3,23,V ugm-3,17,V ugm-3,24,V ugm-3
-2019-10-09,23,V ugm-3,28,V ugm-3,12,V ugm-3,16,V ugm-3,11,V ugm-3,14,V ugm-3,16,V ugm-3,41,V ugm-3,73,V ugm-3,19,V ugm-3,23,V ugm-3,17,V ugm-3,22,V ugm-3
-2019-10-10,26,V ugm-3,27,V ugm-3,9,V ugm-3,16,V ugm-3,8,V ugm-3,13,V ugm-3,21,V ugm-3,39,V ugm-3,72,V ugm-3,16,V ugm-3,22,V ugm-3,14,V ugm-3,20,V ugm-3
-2019-10-11,25,V ugm-3,27,V ugm-3,8,V ugm-3,17,V ugm-3,6,V ugm-3,10,V ugm-3,22,V ugm-3,38,V ugm-3,68,V ugm-3,15,V ugm-3,23,V ugm-3,14,V ugm-3,20,V ugm-3
-2019-10-12,47,V ugm-3,51,V ugm-3,21,V ugm-3,26,V ugm-3,17,V ugm-3,29,V ugm-3,36,V ugm-3,70,V ugm-3,72,V ugm-3,28,V ugm-3,32,V ugm-3,28,V ugm-3,35,V ugm-3
-2019-10-13,28,V ugm-3,28,V ugm-3,12,V ugm-3,22,V ugm-3,9,V ugm-3,16,V ugm-3,33,V ugm-3,50,V ugm-3,61,V ugm-3,23,V ugm-3,25,V ugm-3,25,V ugm-3,20,V ugm-3
-2019-10-14,48,V ugm-3,46,V ugm-3,27,V ugm-3,38,V ugm-3,21,V ugm-3,28,V ugm-3,40,V ugm-3,47,V ugm-3,57,V ugm-3,39,V ugm-3,46,V ugm-3,52,V ugm-3,33,V ugm-3
-2019-10-15,37,V ugm-3,39,V ugm-3,20,V ugm-3,24,V ugm-3,15,V ugm-3,20,V ugm-3,31,V ugm-3,48,V ugm-3,77,V ugm-3,22,V ugm-3,32,V ugm-3,25,V ugm-3,25,V ugm-3
-2019-10-16,42,V ugm-3,40,V ugm-3,26,V ugm-3,39,V ugm-3,20,V ugm-3,26,V ugm-3,31,V ugm-3,55,V ugm-3,70,V ugm-3,31,V ugm-3,40,V ugm-3,31,V ugm-3,32,V ugm-3
-2019-10-17,49,V ugm-3,56,V ugm-3,22,V ugm-3,32,V ugm-3,13,V ugm-3,31,V ugm-3,44,V ugm-3,70,V ugm-3,78,V ugm-3,31,V ugm-3,38,V ugm-3,31,V ugm-3,27,V ugm-3
-2019-10-18,29,V ugm-3,36,V ugm-3,11,V ugm-3,18,V ugm-3,8,V ugm-3,13,V ugm-3,32,V ugm-3,49,V ugm-3,72,V ugm-3,16,V ugm-3,23,V ugm-3,16,V ugm-3,23,V ugm-3
-2019-10-19,37,V ugm-3,41,V ugm-3,20,V ugm-3,29,V ugm-3,16,V ugm-3,23,V ugm-3,32,V ugm-3,52,V ugm-3,71,V ugm-3,27,V ugm-3,31,V ugm-3,30,V ugm-3,26,V ugm-3
-2019-10-20,41,V ugm-3,31,V ugm-3,19,V ugm-3,32,V ugm-3,17,V ugm-3,15,V ugm-3,20,V ugm-3,20,V ugm-3,30,V ugm-3,25,V ugm-3,32,V ugm-3,41,V ugm-3,30,V ugm-3
-2019-10-21,45,V ugm-3,22,V ugm-3,17,V ugm-3,32,V ugm-3,13,V ugm-3,9,V ugm-3,19,V ugm-3,16,V ugm-3,27,V ugm-3,21,V ugm-3,28,V ugm-3,51,V ugm-3,31,V ugm-3
-2019-10-22,54,V ugm-3,50,V ugm-3,33,V ugm-3,41,V ugm-3,24,V ugm-3,28,V ugm-3,44,V ugm-3,55,V ugm-3,72,V ugm-3,43,V ugm-3,50,V ugm-3,48,V ugm-3,46,V ugm-3
-2019-10-23,64,V ugm-3,51,V ugm-3,37,V ugm-3,57,V ugm-3,30,V ugm-3,39,V ugm-3,50,V ugm-3,53,V ugm-3,63,V ugm-3,56,V ugm-3,61,V ugm-3,74,V ugm-3,39,V ugm-3
-2019-10-24,49,V ugm-3,45,V ugm-3,33,V ugm-3,41,V ugm-3,24,V ugm-3,34,V ugm-3,41,V ugm-3,50,V ugm-3,64,V ugm-3,42,V ugm-3,48,V ugm-3,51,V ugm-3,36,V ugm-3
-2019-10-25,29,V ugm-3,37,V ugm-3,16,V ugm-3,20,V ugm-3,9,V ugm-3,17,V ugm-3,29,V ugm-3,47,V ugm-3,60,V ugm-3,18,V ugm-3,27,V ugm-3,20,V ugm-3,26,V ugm-3
-2019-10-26,25,V ugm-3,22,V ugm-3,8,V ugm-3,13,V ugm-3,7,V ugm-3,9,V ugm-3,21,V ugm-3,25,V ugm-3,42,V ugm-3,13,V ugm-3,21,V ugm-3,23,V ugm-3,24,V ugm-3
-2019-10-27,41,V ugm-3,32,V ugm-3,27,V ugm-3,31,V ugm-3,25,V ugm-3,23,V ugm-3,32,V ugm-3,37,V ugm-3,47,V ugm-3,35,V ugm-3,38,V ugm-3,49,V ugm-3,42,V ugm-3
-2019-10-28,48,V ugm-3,45,V ugm-3,31,V ugm-3,40,V ugm-3,29,V ugm-3,28,V ugm-3,34,V ugm-3,39,V ugm-3,48,V ugm-3,40,V ugm-3,48,V ugm-3,63,V ugm-3,43,V ugm-3
-2019-10-29,41,V ugm-3,40,V ugm-3,27,V ugm-3,39,V ugm-3,23,V ugm-3,25,V ugm-3,33,V ugm-3,38,V ugm-3,50,V ugm-3,30,V ugm-3,42,V ugm-3,57,V ugm-3,42,V ugm-3
-2019-10-30,50,V ugm-3,42,V ugm-3,27,V ugm-3,50,V ugm-3,24,V ugm-3,31,V ugm-3,40,V ugm-3,50,V ugm-3,64,V ugm-3,40,V ugm-3,46,V ugm-3,63,V ugm-3,43,V ugm-3
-2019-10-31,54,V ugm-3,51,V ugm-3,35,V ugm-3,50,V ugm-3,28,V ugm-3,37,V ugm-3,40,V ugm-3,51,V ugm-3,64,V ugm-3,44,V ugm-3,45,V ugm-3,58,V ugm-3,36,V ugm-3
-2019-11-01,45,V ugm-3,50,V ugm-3,22,V ugm-3,33,V ugm-3,16,V ugm-3,29,V ugm-3,41,V ugm-3,59,V ugm-3,67,V ugm-3,33,V ugm-3,37,V ugm-3,34,V ugm-3,30,V ugm-3
-2019-11-02,17,V ugm-3,23,V ugm-3,6,V ugm-3,11,V ugm-3,6,V ugm-3,8,V ugm-3,24,V ugm-3,28,V ugm-3,51,V ugm-3,10,V ugm-3,15,V ugm-3,9,V ugm-3,16,V ugm-3
-2019-11-03,33,V ugm-3,39,V ugm-3,22,V ugm-3,26,V ugm-3,16,V ugm-3,22,V ugm-3,36,V ugm-3,51,V ugm-3,67,V ugm-3,27,V ugm-3,33,V ugm-3,32,V ugm-3,26,V ugm-3
-2019-11-04,50,V ugm-3,53,V ugm-3,33,V ugm-3,35,V ugm-3,22,V ugm-3,31,V ugm-3,44,V ugm-3,69,V ugm-3,71,V ugm-3,40,V ugm-3,45,V ugm-3,50,V ugm-3,31,V ugm-3
-2019-11-05,48,V ugm-3,29,V ugm-3,27,V ugm-3,38,V ugm-3,21,V ugm-3,16,V ugm-3,25,V ugm-3,21,V ugm-3,33,V ugm-3,30,V ugm-3,40,V ugm-3,59,V ugm-3,37,V ugm-3
-2019-11-06,53,V ugm-3,51,V ugm-3,32,V ugm-3,38,V ugm-3,26,V ugm-3,37,V ugm-3,40,V ugm-3,61,V ugm-3,68,V ugm-3,40,V ugm-3,44,V ugm-3,45,V ugm-3,42,V ugm-3
-2019-11-07,43,V ugm-3,44,V ugm-3,27,V ugm-3,31,V ugm-3,19,V ugm-3,31,V ugm-3,34,V ugm-3,56,V ugm-3,79,V ugm-3,33,V ugm-3,39,V ugm-3,36,V ugm-3,38,V ugm-3
-2019-11-08,67,V ugm-3,40,V ugm-3,37,V ugm-3,48,V ugm-3,30,V ugm-3,26,V ugm-3,39,V ugm-3,37,V ugm-3,55,V ugm-3,44,V ugm-3,56,V ugm-3,65,V ugm-3,45,V ugm-3
-2019-11-09,51,V ugm-3,45,V ugm-3,24,V ugm-3,40,V ugm-3,22,V ugm-3,35,V ugm-3,34,V ugm-3,49,V ugm-3,60,V ugm-3,39,V ugm-3,42,V ugm-3,45,V ugm-3,37,V ugm-3
-2019-11-10,42,V ugm-3,43,V ugm-3,26,V ugm-3,36,V ugm-3,20,V ugm-3,24,V ugm-3,33,V ugm-3,38,V ugm-3,42,V ugm-3,36,V ugm-3,44,V ugm-3,45,V ugm-3,47,V ugm-3
-2019-11-11,32,V ugm-3,35,V ugm-3,20,V ugm-3,38,V ugm-3,17,V ugm-3,23,V ugm-3,28,V ugm-3,37,V ugm-3,64,V ugm-3,27,V ugm-3,37,V ugm-3,28,V ugm-3,40,V ugm-3
-2019-11-12,33,V ugm-3,32,V ugm-3,18,V ugm-3,34,V ugm-3,19,V ugm-3,20,V ugm-3,21,V ugm-3,40,V ugm-3,72,V ugm-3,27,V ugm-3,34,V ugm-3,25,V ugm-3,35,V ugm-3
-2019-11-13,45,V ugm-3,44,V ugm-3,29,V ugm-3,45,V ugm-3,24,V ugm-3,32,V ugm-3,33,V ugm-3,56,V ugm-3,78,V ugm-3,41,V ugm-3,43,V ugm-3,41,V ugm-3,36,V ugm-3
-2019-11-14,59,V ugm-3,56,V ugm-3,34,V ugm-3,42,V ugm-3,27,V ugm-3,38,V ugm-3,42,V ugm-3,64,V ugm-3,78,V ugm-3,41,V ugm-3,49,V ugm-3,52,V ugm-3,38,V ugm-3
-2019-11-15,45,V ugm-3,33,V ugm-3,22,V ugm-3,36,V ugm-3,19,V ugm-3,16,V ugm-3,20,V ugm-3,19,V ugm-3,29,V ugm-3,26,V ugm-3,41,V ugm-3,51,V ugm-3,36,V ugm-3
-2019-11-16,52,V ugm-3,48,V ugm-3,36,V ugm-3,39,V ugm-3,27,V ugm-3,34,V ugm-3,39,V ugm-3,42,V ugm-3,48,V ugm-3,40,V ugm-3,45,V ugm-3,54,V ugm-3,41,V ugm-3
-2019-11-17,58,V ugm-3,48,V ugm-3,39,V ugm-3,51,V ugm-3,30,V ugm-3,38,V ugm-3,46,V ugm-3,49,V ugm-3,52,V ugm-3,50,V ugm-3,59,V ugm-3,66,V ugm-3,60,V ugm-3
-2019-11-18,83,V ugm-3,37,V ugm-3,34,V ugm-3,44,V ugm-3,25,V ugm-3,27,V ugm-3,39,V ugm-3,35,V ugm-3,40,V ugm-3,37,V ugm-3,45,V ugm-3,65,V ugm-3,50,V ugm-3
-2019-11-19,75,V ugm-3,76,V ugm-3,56,V ugm-3,60,V ugm-3,39,V ugm-3,61,V ugm-3,58,V ugm-3,76,V ugm-3,82,V ugm-3,62,V ugm-3,67,V ugm-3,76,V ugm-3,55,V ugm-3
-2019-11-20,54,V ugm-3,54,V ugm-3,38,V ugm-3,42,V ugm-3,29,V ugm-3,39,V ugm-3,36,V ugm-3,67,V ugm-3,70,V ugm-3,42,V ugm-3,49,V ugm-3,59,V ugm-3,46,V ugm-3
-2019-11-21,50,V ugm-3,41,V ugm-3,30,V ugm-3,44,V ugm-3,28,V ugm-3,34,V ugm-3,36,V ugm-3,42,V ugm-3,64,V ugm-3,39,V ugm-3,43,V ugm-3,54,V ugm-3,30,V ugm-3
-2019-11-22,59,V ugm-3,46,V ugm-3,33,V ugm-3,46,V ugm-3,24,V ugm-3,34,V ugm-3,36,V ugm-3,66,V ugm-3,70,V ugm-3,42,V ugm-3,47,V ugm-3,51,V ugm-3,33,V ugm-3
-2019-11-23,53,V ugm-3,38,V ugm-3,35,V ugm-3,47,V ugm-3,30,V ugm-3,34,V ugm-3,43,V ugm-3,44,V ugm-3,51,V ugm-3,40,V ugm-3,48,V ugm-3,56,V ugm-3,34,V ugm-3
-2019-11-24,43,V ugm-3,43,V ugm-3,25,V ugm-3,32,V ugm-3,17,V ugm-3,31,V ugm-3,38,V ugm-3,52,V ugm-3,50,V ugm-3,34,V ugm-3,38,V ugm-3,40,V ugm-3,28,V ugm-3
-2019-11-25,48,V ugm-3,48,V ugm-3,24,V ugm-3,30,V ugm-3,15,V ugm-3,32,V ugm-3,35,V ugm-3,61,V ugm-3,58,V ugm-3,32,V ugm-3,36,V ugm-3,35,V ugm-3,32,V ugm-3
-2019-11-26,40,V ugm-3,51,V ugm-3,20,V ugm-3,27,V ugm-3,11,V ugm-3,27,V ugm-3,44,V ugm-3,64,V ugm-3,68,V ugm-3,25,V ugm-3,32,V ugm-3,22,V ugm-3,27,V ugm-3
-2019-11-27,48,V ugm-3,47,V ugm-3,35,V ugm-3,35,V ugm-3,25,V ugm-3,29,V ugm-3,36,V ugm-3,59,V ugm-3,71,V ugm-3,33,V ugm-3,43,V ugm-3,43,V ugm-3,46,V ugm-3
-2019-11-28,36,V ugm-3,29,V ugm-3,26,V ugm-3,38,V ugm-3,22,V ugm-3,21,V ugm-3,24,V ugm-3,24,V ugm-3,47,V ugm-3,28,V ugm-3,40,V ugm-3,38,V ugm-3,40,V ugm-3
-2019-11-29,61,V ugm-3,45,V ugm-3,44,V ugm-3,45,V ugm-3,30,V ugm-3,30,V ugm-3,42,V ugm-3,41,V ugm-3,49,V ugm-3,43,V ugm-3,52,V ugm-3,76,V ugm-3,44,V ugm-3
-2019-11-30,61,V ugm-3,50,V ugm-3,44,V ugm-3,57,V ugm-3,40,V ugm-3,45,V ugm-3,57,V ugm-3,60,V ugm-3,61,V ugm-3,54,V ugm-3,66,V ugm-3,75,V ugm-3,52,V ugm-3
-2019-12-01,40,V ugm-3,35,V ugm-3,19,V ugm-3,37,V ugm-3,16,V ugm-3,17,V ugm-3,22,V ugm-3,20,V ugm-3,31,V ugm-3,23,V ugm-3,39,V ugm-3,40,V ugm-3,48,V ugm-3
-2019-12-02,61,V ugm-3,52,V ugm-3,59,V ugm-3,61,V ugm-3,43,V ugm-3,47,V ugm-3,51,V ugm-3,54,V ugm-3,65,V ugm-3,53,V ugm-3,64,V ugm-3,67,V ugm-3,65,V ugm-3
-2019-12-03,66,V ugm-3,68,V ugm-3,54,V ugm-3,57,V ugm-3,39,V ugm-3,57,V ugm-3,58,V ugm-3,78,V ugm-3,86,V ugm-3,57,V ugm-3,66,V ugm-3,64,V ugm-3,59,V ugm-3
-2019-12-04,89,V ugm-3,77,V ugm-3,55,V ugm-3,64,V ugm-3,33,V ugm-3,60,V ugm-3,64,V ugm-3,72,V ugm-3,86,V ugm-3,68,V ugm-3,72,V ugm-3,83,V ugm-3,58,V ugm-3
-2019-12-05,44,V ugm-3,51,V ugm-3,36,V ugm-3,41,V ugm-3,28,V ugm-3,38,V ugm-3,49,V ugm-3,60,V ugm-3,77,V ugm-3,39,V ugm-3,45,V ugm-3,41,V ugm-3,41,V ugm-3
-2019-12-06,26,V ugm-3,27,V ugm-3,13,V ugm-3,28,V ugm-3,12,V ugm-3,16,V ugm-3,22,V ugm-3,35,V ugm-3,74,V ugm-3,20,V ugm-3,26,V ugm-3,17,V ugm-3,31,V ugm-3
-2019-12-07,31,V ugm-3,34,V ugm-3,14,V ugm-3,24,V ugm-3,15,V ugm-3,20,V ugm-3,29,V ugm-3,41,V ugm-3,62,V ugm-3,21,V ugm-3,22,V ugm-3,20,V ugm-3,36,V ugm-3
-2019-12-08,16,V ugm-3,20,V ugm-3,4,V ugm-3,12,V ugm-3,7,V ugm-3,8,V ugm-3,14,V ugm-3,24,V ugm-3,54,V ugm-3,10,V ugm-3,13,V ugm-3,9,V ugm-3,22,V ugm-3
-2019-12-09,46,V ugm-3,32,V ugm-3,26,V ugm-3,46,V ugm-3,21,V ugm-3,24,V ugm-3,28,V ugm-3,30,V ugm-3,39,V ugm-3,29,V ugm-3,41,V ugm-3,51,V ugm-3,36,V ugm-3
-2019-12-10,33,V ugm-3,41,V ugm-3,19,V ugm-3,27,V ugm-3,11,V ugm-3,24,V ugm-3,34,V ugm-3,54,V ugm-3,67,V ugm-3,26,V ugm-3,30,V ugm-3,25,V ugm-3,25,V ugm-3
-2019-12-11,47,V ugm-3,50,V ugm-3,31,V ugm-3,38,V ugm-3,24,V ugm-3,30,V ugm-3,40,V ugm-3,66,V ugm-3,85,V ugm-3,38,V ugm-3,42,V ugm-3,36,V ugm-3,29,V ugm-3
-2019-12-12,50,V ugm-3,54,V ugm-3,23,V ugm-3,35,V ugm-3,16,V ugm-3,35,V ugm-3,45,V ugm-3,67,V ugm-3,87,V ugm-3,34,V ugm-3,39,V ugm-3,31,V ugm-3,32,V ugm-3
-2019-12-13,27,V ugm-3,26,V ugm-3,15,V ugm-3,50,V ugm-3,15,V ugm-3,15,V ugm-3,24,V ugm-3,29,V ugm-3,65,V ugm-3,23,V ugm-3,31,V ugm-3,26,V ugm-3,38,V ugm-3
-2019-12-14,29,V ugm-3,32,V ugm-3,11,V ugm-3,32,V ugm-3,12,V ugm-3,17,V ugm-3,31,V ugm-3,42,V ugm-3,72,V ugm-3,21,V ugm-3,26,V ugm-3,19,V ugm-3,33,V ugm-3
-2019-12-15,22,V ugm-3,27,V ugm-3,5,V ugm-3,14,V ugm-3,7,V ugm-3,11,V ugm-3,30,V ugm-3,38,V ugm-3,61,V ugm-3,14,V ugm-3,21,V ugm-3,13,V ugm-3,18,V ugm-3
-2019-12-16,59,V ugm-3,65,V ugm-3,35,V ugm-3,40,V ugm-3,25,V ugm-3,43,V ugm-3,52,V ugm-3,77,V ugm-3,78,V ugm-3,46,V ugm-3,51,V ugm-3,49,V ugm-3,30,V ugm-3
-2019-12-17,67,V ugm-3,55,V ugm-3,46,V ugm-3,44,V ugm-3,36,V ugm-3,43,V ugm-3,54,V ugm-3,65,V ugm-3,67,V ugm-3,51,V ugm-3,53,V ugm-3,72,V ugm-3,53,V ugm-3
-2019-12-18,54,V ugm-3,56,V ugm-3,38,V ugm-3,37,V ugm-3,20,V ugm-3,29,V ugm-3,43,V ugm-3,67,V ugm-3,71,V ugm-3,42,V ugm-3,42,V ugm-3,52,V ugm-3,36,V ugm-3
-2019-12-19,32,V ugm-3,35,V ugm-3,12,V ugm-3,20,V ugm-3,8,V ugm-3,21,V ugm-3,36,V ugm-3,47,V ugm-3,59,V ugm-3,19,V ugm-3,23,V ugm-3,15,V ugm-3,18,V ugm-3
-2019-12-20,46,V ugm-3,51,V ugm-3,29,V ugm-3,36,V ugm-3,22,V ugm-3,31,V ugm-3,46,V ugm-3,58,V ugm-3,73,V ugm-3,37,V ugm-3,43,V ugm-3,No data,V ugm-3,42,V ugm-3
-2019-12-21,32,V ugm-3,42,V ugm-3,12,V ugm-3,21,V ugm-3,8,V ugm-3,22,V ugm-3,38,V ugm-3,56,V ugm-3,65,V ugm-3,21,V ugm-3,21,V ugm-3,No data,V ugm-3,21,V ugm-3
-2019-12-22,26,V ugm-3,32,V ugm-3,15,V ugm-3,30,V ugm-3,15,V ugm-3,17,V ugm-3,23,V ugm-3,37,V ugm-3,61,V ugm-3,27,V ugm-3,27,V ugm-3,No data,V ugm-3,26,V ugm-3
-2019-12-23,32,V ugm-3,39,V ugm-3,17,V ugm-3,33,V ugm-3,17,V ugm-3,22,V ugm-3,30,V ugm-3,48,V ugm-3,63,V ugm-3,27,V ugm-3,29,V ugm-3,No data,V ugm-3,34,V ugm-3
-2019-12-24,22,V ugm-3,31,V ugm-3,10,V ugm-3,25,V ugm-3,14,V ugm-3,15,V ugm-3,23,V ugm-3,36,V ugm-3,56,V ugm-3,19,V ugm-3,19,V ugm-3,22,V ugm-3,23,V ugm-3
-2019-12-25,35,V ugm-3,35,V ugm-3,24,V ugm-3,39,V ugm-3,22,V ugm-3,23,V ugm-3,30,V ugm-3,38,V ugm-3,43,V ugm-3,33,V ugm-3,36,V ugm-3,43,V ugm-3,34,V ugm-3
-2019-12-26,29,V ugm-3,32,V ugm-3,15,V ugm-3,30,V ugm-3,15,V ugm-3,23,V ugm-3,24,V ugm-3,40,V ugm-3,49,V ugm-3,25,V ugm-3,27,V ugm-3,29,V ugm-3,27,V ugm-3
-2019-12-27,40,V ugm-3,42,V ugm-3,32,V ugm-3,34,V ugm-3,22,V ugm-3,28,V ugm-3,30,V ugm-3,40,V ugm-3,39,V ugm-3,33,V ugm-3,37,V ugm-3,47,V ugm-3,29,V ugm-3
-2019-12-28,32,V ugm-3,44,V ugm-3,21,V ugm-3,27,V ugm-3,15,V ugm-3,27,V ugm-3,42,V ugm-3,55,V ugm-3,53,V ugm-3,31,V ugm-3,31,V ugm-3,33,V ugm-3,29,V ugm-3
-2019-12-29,23,V ugm-3,39,V ugm-3,26,V ugm-3,22,V ugm-3,17,V ugm-3,20,V ugm-3,29,V ugm-3,42,V ugm-3,50,V ugm-3,22,V ugm-3,26,V ugm-3,31,V ugm-3,25,V ugm-3
-2019-12-30,29,V ugm-3,41,V ugm-3,38,V ugm-3,35,V ugm-3,30,V ugm-3,28,V ugm-3,35,V ugm-3,46,V ugm-3,47,V ugm-3,32,V ugm-3,38,V ugm-3,43,V ugm-3,30,V ugm-3
-2019-12-31,39,V ugm-3,41,V ugm-3,32,V ugm-3,38,V ugm-3,30,V ugm-3,32,V ugm-3,34,V ugm-3,42,V ugm-3,45,V ugm-3,39,V ugm-3,43,V ugm-3,54,V ugm-3,30,V ugm-3
-2020-01-01,No data,V ugm-3,No data,V ugm-3,39,V ugm-3,38,V ugm-3,No data,V ugm-3,39,V ugm-3,44,V ugm-3,55,V ugm-3,51,V ugm-3,40,V ugm-3,43,V ugm-3,43,V ugm-3,29,V ugm-3
-2020-01-02,No data,V ugm-3,No data,V ugm-3,14,V ugm-3,21,V ugm-3,No data,V ugm-3,19,V ugm-3,32,V ugm-3,45,V ugm-3,52,V ugm-3,18,V ugm-3,23,V ugm-3,16,V ugm-3,28,V ugm-3
-2020-01-03,No data,V ugm-3,No data,V ugm-3,26,V ugm-3,44,V ugm-3,No data,V ugm-3,19,V ugm-3,23,V ugm-3,28,V ugm-3,43,V ugm-3,24,V ugm-3,36,V ugm-3,35,V ugm-3,34,V ugm-3
-2020-01-04,No data,V ugm-3,No data,V ugm-3,26,V ugm-3,46,V ugm-3,No data,V ugm-3,25,V ugm-3,26,V ugm-3,47,V ugm-3,61,V ugm-3,31,V ugm-3,36,V ugm-3,32,V ugm-3,42,V ugm-3
-2020-01-05,No data,V ugm-3,No data,V ugm-3,15,V ugm-3,23,V ugm-3,No data,V ugm-3,17,V ugm-3,33,V ugm-3,48,V ugm-3,57,V ugm-3,18,V ugm-3,20,V ugm-3,18,V ugm-3,26,V ugm-3
-2020-01-06,No data,V ugm-3,No data,V ugm-3,15,V ugm-3,25,V ugm-3,No data,V ugm-3,15,V ugm-3,26,V ugm-3,51,V ugm-3,58,V ugm-3,20,V ugm-3,25,V ugm-3,17,V ugm-3,24,V ugm-3
-2020-01-07,32,V ugm-3,38,V ugm-3,16,V ugm-3,26,V ugm-3,14,V ugm-3,17,V ugm-3,34,V ugm-3,51,V ugm-3,54,V ugm-3,21,V ugm-3,31,V ugm-3,20,V ugm-3,18,V ugm-3
-2020-01-08,35,V ugm-3,40,V ugm-3,26,V ugm-3,35,V ugm-3,25,V ugm-3,24,V ugm-3,26,V ugm-3,52,V ugm-3,56,V ugm-3,28,V ugm-3,35,V ugm-3,27,V ugm-3,28,V ugm-3
-2020-01-09,29,V ugm-3,32,V ugm-3,11,V ugm-3,19,V ugm-3,9,V ugm-3,14,V ugm-3,28,V ugm-3,43,V ugm-3,55,V ugm-3,17,V ugm-3,22,V ugm-3,14,V ugm-3,20,V ugm-3
-2020-01-10,47,V ugm-3,35,V ugm-3,31,V ugm-3,40,V ugm-3,22,V ugm-3,22,V ugm-3,36,V ugm-3,39,V ugm-3,46,V ugm-3,28,V ugm-3,39,V ugm-3,43,V ugm-3,36,V ugm-3
-2020-01-11,22,V ugm-3,27,V ugm-3,8,V ugm-3,15,V ugm-3,5,V ugm-3,9,V ugm-3,21,V ugm-3,32,V ugm-3,49,V ugm-3,11,V ugm-3,17,V ugm-3,11,V ugm-3,14,V ugm-3
-2020-01-12,20,V ugm-3,27,V ugm-3,11,V ugm-3,20,V ugm-3,8,V ugm-3,11,V ugm-3,23,V ugm-3,36,V ugm-3,49,V ugm-3,15,V ugm-3,22,V ugm-3,13,V ugm-3,17,V ugm-3
-2020-01-13,25,V ugm-3,37,V ugm-3,11,V ugm-3,19,V ugm-3,5,V ugm-3,14,V ugm-3,25,V ugm-3,46,V ugm-3,56,V ugm-3,16,V ugm-3,20,V ugm-3,14,V ugm-3,16,V ugm-3
-2020-01-14,21,V ugm-3,30,V ugm-3,9,V ugm-3,17,V ugm-3,4,V ugm-3,12,V ugm-3,25,V ugm-3,40,V ugm-3,54,V ugm-3,13,V ugm-3,17,V ugm-3,12,V ugm-3,15,V ugm-3
-2020-01-15,33,V ugm-3,43,V ugm-3,20,V ugm-3,34,V ugm-3,13,V ugm-3,19,V ugm-3,34,V ugm-3,58,V ugm-3,66,V ugm-3,25,V ugm-3,30,V ugm-3,22,V ugm-3,26,V ugm-3
-2020-01-16,35,V ugm-3,42,V ugm-3,17,V ugm-3,26,V ugm-3,8,V ugm-3,20,V ugm-3,39,V ugm-3,52,V ugm-3,61,V ugm-3,20,V ugm-3,25,V ugm-3,18,V ugm-3,20,V ugm-3
-2020-01-17,33,V ugm-3,41,V ugm-3,18,V ugm-3,36,V ugm-3,11,V ugm-3,19,V ugm-3,26,V ugm-3,49,V ugm-3,69,V ugm-3,24,V ugm-3,28,V ugm-3,22,V ugm-3,26,V ugm-3
-2020-01-18,60,V ugm-3,44,V ugm-3,36,V ugm-3,55,V ugm-3,29,V ugm-3,29,V ugm-3,40,V ugm-3,42,V ugm-3,56,V ugm-3,44,V ugm-3,51,V ugm-3,51,V ugm-3,46,V ugm-3
-2020-01-19,65,V ugm-3,54,V ugm-3,40,V ugm-3,50,V ugm-3,32,V ugm-3,36,V ugm-3,48,V ugm-3,50,V ugm-3,50,V ugm-3,54,V ugm-3,56,V ugm-3,63,V ugm-3,52,V ugm-3
-2020-01-20,72,V ugm-3,80,V ugm-3,63,V ugm-3,76,V ugm-3,51,V ugm-3,66,V ugm-3,58,V ugm-3,71,V ugm-3,82,V ugm-3,67,V ugm-3,75,V ugm-3,68,V ugm-3,59,V ugm-3
-2020-01-21,78,V ugm-3,69,V ugm-3,66,V ugm-3,78,V ugm-3,49,V ugm-3,56,V ugm-3,62,V ugm-3,70,V ugm-3,81,V ugm-3,70,V ugm-3,82,V ugm-3,72,V ugm-3,71,V ugm-3
-2020-01-22,69,V ugm-3,53,V ugm-3,52,V ugm-3,No data,V ugm-3,41,V ugm-3,44,V ugm-3,47,V ugm-3,52,V ugm-3,52,V ugm-3,53,V ugm-3,69,V ugm-3,67,V ugm-3,46,V ugm-3
-2020-01-23,66,V ugm-3,52,V ugm-3,45,V ugm-3,No data,V ugm-3,37,V ugm-3,39,V ugm-3,42,V ugm-3,54,V ugm-3,No data,V ugm-3,41,V ugm-3,52,V ugm-3,62,V ugm-3,48,V ugm-3
-2020-01-24,59,V ugm-3,52,V ugm-3,No data,V ugm-3,51,V ugm-3,34,V ugm-3,41,V ugm-3,44,V ugm-3,50,V ugm-3,No data,V ugm-3,43,V ugm-3,50,V ugm-3,51,V ugm-3,41,V ugm-3
-2020-01-25,43,V ugm-3,45,V ugm-3,No data,V ugm-3,32,V ugm-3,19,V ugm-3,28,V ugm-3,33,V ugm-3,58,V ugm-3,54,V ugm-3,29,V ugm-3,35,V ugm-3,26,V ugm-3,33,V ugm-3
-2020-01-26,28,V ugm-3,37,V ugm-3,No data,V ugm-3,25,V ugm-3,10,V ugm-3,19,V ugm-3,38,V ugm-3,48,V ugm-3,58,V ugm-3,20,V ugm-3,25,V ugm-3,17,V ugm-3,21,V ugm-3
-2020-01-27,44,V ugm-3,48,V ugm-3,No data,V ugm-3,34,V ugm-3,18,V ugm-3,23,V ugm-3,44,V ugm-3,68,V ugm-3,73,V ugm-3,28,V ugm-3,37,V ugm-3,23,V ugm-3,32,V ugm-3
-2020-01-28,36,V ugm-3,30,V ugm-3,No data,V ugm-3,42,V ugm-3,17,V ugm-3,17,V ugm-3,14,V ugm-3,41,V ugm-3,80,V ugm-3,25,V ugm-3,26,V ugm-3,18,V ugm-3,39,V ugm-3
-2020-01-29,42,V ugm-3,36,V ugm-3,19,V ugm-3,36,V ugm-3,16,V ugm-3,22,V ugm-3,29,V ugm-3,No data,V ugm-3,81,V ugm-3,27,V ugm-3,28,V ugm-3,No data,V ugm-3,35,V ugm-3
-2020-01-30,39,V ugm-3,39,V ugm-3,17,V ugm-3,32,V ugm-3,13,V ugm-3,21,V ugm-3,26,V ugm-3,42,V ugm-3,72,V ugm-3,21,V ugm-3,28,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-01-31,34,V ugm-3,29,V ugm-3,12,V ugm-3,22,V ugm-3,9,V ugm-3,11,V ugm-3,28,V ugm-3,36,V ugm-3,70,V ugm-3,16,V ugm-3,19,V ugm-3,13,V ugm-3,18,V ugm-3
-2020-02-01,27,V ugm-3,21,V ugm-3,7,V ugm-3,25,V ugm-3,9,V ugm-3,9,V ugm-3,14,V ugm-3,23,V ugm-3,71,V ugm-3,13,V ugm-3,15,V ugm-3,10,V ugm-3,22,V ugm-3
-2020-02-02,31,V ugm-3,25,V ugm-3,9,V ugm-3,24,V ugm-3,8,V ugm-3,11,V ugm-3,21,V ugm-3,33,V ugm-3,68,V ugm-3,16,V ugm-3,18,V ugm-3,14,V ugm-3,20,V ugm-3
-2020-02-03,32,V ugm-3,24,V ugm-3,14,V ugm-3,45,V ugm-3,13,V ugm-3,12,V ugm-3,12,V ugm-3,27,V ugm-3,65,V ugm-3,20,V ugm-3,27,V ugm-3,19,V ugm-3,28,V ugm-3
-2020-02-04,42,V ugm-3,25,V ugm-3,23,V ugm-3,54,V ugm-3,14,V ugm-3,15,V ugm-3,22,V ugm-3,16,V ugm-3,44,V ugm-3,23,V ugm-3,35,V ugm-3,37,V ugm-3,31,V ugm-3
-2020-02-05,71,V ugm-3,68,V ugm-3,52,V ugm-3,55,V ugm-3,38,V ugm-3,50,V ugm-3,59,V ugm-3,59,V ugm-3,80,V ugm-3,56,V ugm-3,61,V ugm-3,60,V ugm-3,54,V ugm-3
-2020-02-06,81,V ugm-3,73,V ugm-3,53,V ugm-3,64,V ugm-3,37,V ugm-3,56,V ugm-3,72,V ugm-3,68,V ugm-3,84,V ugm-3,63,V ugm-3,67,V ugm-3,66,V ugm-3,57,V ugm-3
-2020-02-07,61,V ugm-3,54,V ugm-3,37,V ugm-3,47,V ugm-3,25,V ugm-3,38,V ugm-3,50,V ugm-3,55,V ugm-3,72,V ugm-3,43,V ugm-3,47,V ugm-3,44,V ugm-3,39,V ugm-3
-2020-02-08,35,V ugm-3,37,V ugm-3,14,V ugm-3,22,V ugm-3,14,V ugm-3,17,V ugm-3,26,V ugm-3,39,V ugm-3,65,V ugm-3,17,V ugm-3,19,V ugm-3,16,V ugm-3,22,V ugm-3
-2020-02-09,17,V ugm-3,13,V ugm-3,3,V ugm-3,10,V ugm-3,5,V ugm-3,5,V ugm-3,10,V ugm-3,14,V ugm-3,35,V ugm-3,5,V ugm-3,8,V ugm-3,5,V ugm-3,11,V ugm-3
-2020-02-10,25,V ugm-3,19,V ugm-3,8,V ugm-3,33,V ugm-3,9,V ugm-3,9,V ugm-3,11,V ugm-3,24,V ugm-3,69,V ugm-3,13,V ugm-3,17,V ugm-3,10,V ugm-3,25,V ugm-3
-2020-02-11,25,V ugm-3,20,V ugm-3,10,V ugm-3,35,V ugm-3,10,V ugm-3,10,V ugm-3,9,V ugm-3,26,V ugm-3,66,V ugm-3,15,V ugm-3,21,V ugm-3,12,V ugm-3,24,V ugm-3
-2020-02-12,40,V ugm-3,37,V ugm-3,18,V ugm-3,35,V ugm-3,16,V ugm-3,22,V ugm-3,25,V ugm-3,46,V ugm-3,74,V ugm-3,24,V ugm-3,30,V ugm-3,22,V ugm-3,28,V ugm-3
-2020-02-13,39,V ugm-3,29,V ugm-3,19,V ugm-3,51,V ugm-3,15,V ugm-3,16,V ugm-3,27,V ugm-3,30,V ugm-3,68,V ugm-3,23,V ugm-3,37,V ugm-3,24,V ugm-3,36,V ugm-3
-2020-02-14,50,V ugm-3,47,V ugm-3,23,V ugm-3,40,V ugm-3,18,V ugm-3,23,V ugm-3,35,V ugm-3,50,V ugm-3,77,V ugm-3,32,V ugm-3,37,V ugm-3,31,V ugm-3,27,V ugm-3
-2020-02-15,20,V ugm-3,20,V ugm-3,4,V ugm-3,12,V ugm-3,4,V ugm-3,7,V ugm-3,17,V ugm-3,22,V ugm-3,40,V ugm-3,7,V ugm-3,11,V ugm-3,7,V ugm-3,12,V ugm-3
-2020-02-16,24,V ugm-3,20,V ugm-3,5,V ugm-3,13,V ugm-3,6,V ugm-3,7,V ugm-3,23,V ugm-3,21,V ugm-3,55,V ugm-3,8,V ugm-3,11,V ugm-3,8,V ugm-3,16,V ugm-3
-2020-02-17,No data,V ugm-3,23,V ugm-3,9,V ugm-3,26,V ugm-3,9,V ugm-3,9,V ugm-3,13,V ugm-3,26,V ugm-3,70,V ugm-3,14,V ugm-3,18,V ugm-3,11,V ugm-3,22,V ugm-3
-2020-02-18,No data,V ugm-3,30,V ugm-3,10,V ugm-3,30,V ugm-3,No data,V ugm-3,14,V ugm-3,20,V ugm-3,30,V ugm-3,74,V ugm-3,16,V ugm-3,22,V ugm-3,16,V ugm-3,26,V ugm-3
-2020-02-19,No data,V ugm-3,38,V ugm-3,18,V ugm-3,42,V ugm-3,No data,V ugm-3,19,V ugm-3,30,V ugm-3,45,V ugm-3,76,V ugm-3,24,V ugm-3,29,V ugm-3,30,V ugm-3,32,V ugm-3
-2020-02-20,33,V ugm-3,25,V ugm-3,14,V ugm-3,37,V ugm-3,12,V ugm-3,11,V ugm-3,17,V ugm-3,28,V ugm-3,64,V ugm-3,16,V ugm-3,27,V ugm-3,17,V ugm-3,29,V ugm-3
-2020-02-21,32,V ugm-3,28,V ugm-3,10,V ugm-3,20,V ugm-3,9,V ugm-3,11,V ugm-3,22,V ugm-3,30,V ugm-3,74,V ugm-3,14,V ugm-3,17,V ugm-3,13,V ugm-3,19,V ugm-3
-2020-02-22,18,V ugm-3,14,V ugm-3,5,V ugm-3,26,V ugm-3,6,V ugm-3,5,V ugm-3,10,V ugm-3,13,V ugm-3,57,V ugm-3,7,V ugm-3,13,V ugm-3,8,V ugm-3,15,V ugm-3
-2020-02-23,30,V ugm-3,22,V ugm-3,13,V ugm-3,31,V ugm-3,11,V ugm-3,12,V ugm-3,19,V ugm-3,18,V ugm-3,40,V ugm-3,17,V ugm-3,20,V ugm-3,20,V ugm-3,22,V ugm-3
-2020-02-24,30,V ugm-3,27,V ugm-3,12,V ugm-3,27,V ugm-3,10,V ugm-3,13,V ugm-3,22,V ugm-3,34,V ugm-3,70,V ugm-3,16,V ugm-3,20,V ugm-3,14,V ugm-3,24,V ugm-3
-2020-02-25,31,V ugm-3,26,V ugm-3,12,V ugm-3,38,V ugm-3,12,V ugm-3,12,V ugm-3,14,V ugm-3,36,V ugm-3,86,V ugm-3,18,V ugm-3,23,V ugm-3,15,V ugm-3,29,V ugm-3
-2020-02-26,35,V ugm-3,28,V ugm-3,24,V ugm-3,59,V ugm-3,21,V ugm-3,16,V ugm-3,20,V ugm-3,25,V ugm-3,59,V ugm-3,24,V ugm-3,37,V ugm-3,29,V ugm-3,32,V ugm-3
-2020-02-27,58,V ugm-3,39,V ugm-3,29,V ugm-3,47,V ugm-3,24,V ugm-3,24,V ugm-3,30,V ugm-3,30,V ugm-3,54,V ugm-3,30,V ugm-3,47,V ugm-3,49,V ugm-3,43,V ugm-3
-2020-02-28,49,V ugm-3,49,V ugm-3,22,V ugm-3,31,V ugm-3,13,V ugm-3,25,V ugm-3,37,V ugm-3,47,V ugm-3,74,V ugm-3,19,V ugm-3,33,V ugm-3,26,V ugm-3,25,V ugm-3
-2020-02-29,26,V ugm-3,21,V ugm-3,6,V ugm-3,21,V ugm-3,5,V ugm-3,7,V ugm-3,13,V ugm-3,20,V ugm-3,61,V ugm-3,11,V ugm-3,14,V ugm-3,10,V ugm-3,15,V ugm-3
-2020-03-01,27,V ugm-3,23,V ugm-3,6,V ugm-3,16,V ugm-3,5,V ugm-3,8,V ugm-3,22,V ugm-3,30,V ugm-3,64,V ugm-3,11,V ugm-3,13,V ugm-3,10,V ugm-3,14,V ugm-3
-2020-03-02,55,V ugm-3,32,V ugm-3,24,V ugm-3,44,V ugm-3,17,V ugm-3,16,V ugm-3,22,V ugm-3,28,V ugm-3,61,V ugm-3,26,V ugm-3,35,V ugm-3,41,V ugm-3,37,V ugm-3
-2020-03-03,47,V ugm-3,40,V ugm-3,34,V ugm-3,54,V ugm-3,No data,V ugm-3,24,V ugm-3,32,V ugm-3,45,V ugm-3,87,V ugm-3,39,V ugm-3,44,V ugm-3,39,V ugm-3,35,V ugm-3
-2020-03-04,72,V ugm-3,52,V ugm-3,35,V ugm-3,46,V ugm-3,No data,V ugm-3,35,V ugm-3,43,V ugm-3,58,V ugm-3,90,V ugm-3,45,V ugm-3,48,V ugm-3,48,V ugm-3,46,V ugm-3
-2020-03-05,55,V ugm-3,27,V ugm-3,19,V ugm-3,36,V ugm-3,No data,V ugm-3,14,V ugm-3,18,V ugm-3,16,V ugm-3,37,V ugm-3,22,V ugm-3,36,V ugm-3,40,V ugm-3,47,V ugm-3
-2020-03-06,79,V ugm-3,40,V ugm-3,39,V ugm-3,52,V ugm-3,No data,V ugm-3,30,V ugm-3,43,V ugm-3,33,V ugm-3,62,V ugm-3,42,V ugm-3,49,V ugm-3,57,V ugm-3,54,V ugm-3
-2020-03-07,48,V ugm-3,45,V ugm-3,23,V ugm-3,30,V ugm-3,19,V ugm-3,25,V ugm-3,38,V ugm-3,41,V ugm-3,77,V ugm-3,29,V ugm-3,30,V ugm-3,26,V ugm-3,30,V ugm-3
-2020-03-08,26,V ugm-3,24,V ugm-3,7,V ugm-3,14,V ugm-3,7,V ugm-3,10,V ugm-3,20,V ugm-3,25,V ugm-3,59,V ugm-3,12,V ugm-3,11,V ugm-3,11,V ugm-3,17,V ugm-3
-2020-03-09,34,V ugm-3,30,V ugm-3,11,V ugm-3,31,V ugm-3,11,V ugm-3,14,V ugm-3,16,V ugm-3,34,V ugm-3,79,V ugm-3,19,V ugm-3,21,V ugm-3,17,V ugm-3,23,V ugm-3
-2020-03-10,23,V ugm-3,17,V ugm-3,7,V ugm-3,26,V ugm-3,9,V ugm-3,9,V ugm-3,9,V ugm-3,20,V ugm-3,63,V ugm-3,13,V ugm-3,16,V ugm-3,11,V ugm-3,20,V ugm-3
-2020-03-11,31,V ugm-3,25,V ugm-3,10,V ugm-3,28,V ugm-3,9,V ugm-3,9,V ugm-3,17,V ugm-3,28,V ugm-3,75,V ugm-3,13,V ugm-3,15,V ugm-3,12,V ugm-3,18,V ugm-3
-2020-03-12,24,V ugm-3,20,V ugm-3,8,V ugm-3,29,V ugm-3,8,V ugm-3,8,V ugm-3,No data,V ugm-3,26,V ugm-3,76,V ugm-3,13,V ugm-3,15,V ugm-3,11,V ugm-3,18,V ugm-3
-2020-03-13,34,V ugm-3,31,V ugm-3,20,V ugm-3,44,V ugm-3,15,V ugm-3,13,V ugm-3,No data,V ugm-3,31,V ugm-3,69,V ugm-3,19,V ugm-3,24,V ugm-3,22,V ugm-3,27,V ugm-3
-2020-03-14,41,V ugm-3,32,V ugm-3,10,V ugm-3,17,V ugm-3,7,V ugm-3,12,V ugm-3,27,V ugm-3,34,V ugm-3,61,V ugm-3,13,V ugm-3,17,V ugm-3,13,V ugm-3,14,V ugm-3
-2020-03-15,30,V ugm-3,25,V ugm-3,13,V ugm-3,28,V ugm-3,9,V ugm-3,12,V ugm-3,23,V ugm-3,28,V ugm-3,53,V ugm-3,17,V ugm-3,17,V ugm-3,15,V ugm-3,15,V ugm-3
-2020-03-16,48,V ugm-3,37,V ugm-3,30,V ugm-3,44,V ugm-3,24,V ugm-3,20,V ugm-3,31,V ugm-3,36,V ugm-3,68,V ugm-3,32,V ugm-3,34,V ugm-3,No data,V ugm-3,36,V ugm-3
-2020-03-17,36,V ugm-3,32,V ugm-3,14,V ugm-3,17,V ugm-3,8,V ugm-3,13,V ugm-3,25,V ugm-3,38,V ugm-3,66,V ugm-3,17,V ugm-3,21,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-03-18,36,V ugm-3,32,V ugm-3,12,V ugm-3,17,V ugm-3,7,V ugm-3,13,V ugm-3,21,V ugm-3,30,V ugm-3,60,V ugm-3,16,V ugm-3,17,V ugm-3,No data,V ugm-3,16,V ugm-3
-2020-03-19,40,V ugm-3,29,V ugm-3,17,V ugm-3,26,V ugm-3,11,V ugm-3,17,V ugm-3,23,V ugm-3,23,V ugm-3,29,V ugm-3,23,V ugm-3,44,V ugm-3,No data,V ugm-3,43,V ugm-3
-2020-03-20,26,V ugm-3,19,V ugm-3,10,V ugm-3,16,V ugm-3,6,V ugm-3,9,V ugm-3,11,V ugm-3,15,V ugm-3,21,V ugm-3,13,V ugm-3,18,V ugm-3,No data,V ugm-3,29,V ugm-3
-2020-03-21,24,V ugm-3,16,V ugm-3,11,V ugm-3,22,V ugm-3,7,V ugm-3,10,V ugm-3,13,V ugm-3,19,V ugm-3,34,V ugm-3,15,V ugm-3,16,V ugm-3,23,V ugm-3,19,V ugm-3
-2020-03-22,21,V ugm-3,17,V ugm-3,16,V ugm-3,24,V ugm-3,12,V ugm-3,12,V ugm-3,15,V ugm-3,18,V ugm-3,31,V ugm-3,15,V ugm-3,19,V ugm-3,23,V ugm-3,19,V ugm-3
-2020-03-23,56,V ugm-3,43,V ugm-3,39,V ugm-3,46,V ugm-3,26,V ugm-3,27,V ugm-3,28,V ugm-3,44,V ugm-3,65,V ugm-3,35,V ugm-3,40,V ugm-3,49,V ugm-3,36,V ugm-3
-2020-03-24,47,V ugm-3,52,V ugm-3,43,V ugm-3,25,V ugm-3,15,V ugm-3,33,V ugm-3,37,V ugm-3,52,V ugm-3,49,V ugm-3,27,V ugm-3,30,V ugm-3,35,V ugm-3,30,V ugm-3
-2020-03-25,59,V ugm-3,45,V ugm-3,46,V ugm-3,51,V ugm-3,30,V ugm-3,34,V ugm-3,39,V ugm-3,40,V ugm-3,61,V ugm-3,44,V ugm-3,46,V ugm-3,52,V ugm-3,43,V ugm-3
-2020-03-26,30,V ugm-3,29,V ugm-3,32,V ugm-3,32,V ugm-3,19,V ugm-3,19,V ugm-3,23,V ugm-3,22,V ugm-3,32,V ugm-3,23,V ugm-3,31,V ugm-3,37,V ugm-3,32,V ugm-3
-2020-03-27,22,V ugm-3,22,V ugm-3,23,V ugm-3,24,V ugm-3,9,V ugm-3,12,V ugm-3,14,V ugm-3,12,V ugm-3,20,V ugm-3,15,V ugm-3,25,V ugm-3,27,V ugm-3,26,V ugm-3
-2020-03-28,13,V ugm-3,12,V ugm-3,11,V ugm-3,13,V ugm-3,4,V ugm-3,5,V ugm-3,5,V ugm-3,6,V ugm-3,9,V ugm-3,8,V ugm-3,15,V ugm-3,13,V ugm-3,15,V ugm-3
-2020-03-29,11,V ugm-3,9,V ugm-3,7,V ugm-3,9,V ugm-3,2,V ugm-3,3,V ugm-3,2,V ugm-3,5,V ugm-3,7,V ugm-3,5,V ugm-3,10,V ugm-3,8,V ugm-3,10,V ugm-3
-2020-03-30,25,V ugm-3,20,V ugm-3,16,V ugm-3,20,V ugm-3,8,V ugm-3,7,V ugm-3,7,V ugm-3,9,V ugm-3,15,V ugm-3,11,V ugm-3,18,V ugm-3,26,V ugm-3,20,V ugm-3
-2020-03-31,26,V ugm-3,26,V ugm-3,17,V ugm-3,24,V ugm-3,9,V ugm-3,14,V ugm-3,14,V ugm-3,20,V ugm-3,24,V ugm-3,14,V ugm-3,21,V ugm-3,30,V ugm-3,23,V ugm-3
-2020-04-01,41,V ugm-3,34,V ugm-3,35,V ugm-3,28,V ugm-3,21,V ugm-3,17,V ugm-3,28,V ugm-3,21,V ugm-3,35,V ugm-3,25,V ugm-3,33,V ugm-3,44,V ugm-3,33,V ugm-3
-2020-04-02,18,V ugm-3,19,V ugm-3,22,V ugm-3,65,V ugm-3,14,V ugm-3,10,V ugm-3,12,V ugm-3,14,V ugm-3,38,V ugm-3,16,V ugm-3,20,V ugm-3,19,V ugm-3,22,V ugm-3
-2020-04-03,35,V ugm-3,37,V ugm-3,26,V ugm-3,39,V ugm-3,15,V ugm-3,17,V ugm-3,22,V ugm-3,29,V ugm-3,46,V ugm-3,23,V ugm-3,24,V ugm-3,29,V ugm-3,32,V ugm-3
-2020-04-04,33,V ugm-3,44,V ugm-3,24,V ugm-3,20,V ugm-3,10,V ugm-3,20,V ugm-3,20,V ugm-3,31,V ugm-3,34,V ugm-3,19,V ugm-3,23,V ugm-3,22,V ugm-3,23,V ugm-3
-2020-04-05,20,V ugm-3,27,V ugm-3,15,V ugm-3,13,V ugm-3,6,V ugm-3,15,V ugm-3,19,V ugm-3,24,V ugm-3,24,V ugm-3,12,V ugm-3,14,V ugm-3,13,V ugm-3,12,V ugm-3
-2020-04-06,21,V ugm-3,23,V ugm-3,19,V ugm-3,46,V ugm-3,9,V ugm-3,10,V ugm-3,16,V ugm-3,19,V ugm-3,39,V ugm-3,15,V ugm-3,16,V ugm-3,19,V ugm-3,18,V ugm-3
-2020-04-07,45,V ugm-3,37,V ugm-3,47,V ugm-3,38,V ugm-3,31,V ugm-3,21,V ugm-3,29,V ugm-3,41,V ugm-3,46,V ugm-3,33,V ugm-3,40,V ugm-3,51,V ugm-3,34,V ugm-3
-2020-04-08,50,V ugm-3,43,V ugm-3,49,V ugm-3,51,V ugm-3,32,V ugm-3,28,V ugm-3,36,V ugm-3,42,V ugm-3,57,V ugm-3,40,V ugm-3,47,V ugm-3,53,V ugm-3,42,V ugm-3
-2020-04-09,42,V ugm-3,39,V ugm-3,49,V ugm-3,52,V ugm-3,32,V ugm-3,23,V ugm-3,36,V ugm-3,35,V ugm-3,53,V ugm-3,38,V ugm-3,50,V ugm-3,50,V ugm-3,43,V ugm-3
-2020-04-10,34,V ugm-3,31,V ugm-3,40,V ugm-3,48,V ugm-3,29,V ugm-3,20,V ugm-3,30,V ugm-3,31,V ugm-3,46,V ugm-3,34,V ugm-3,42,V ugm-3,40,V ugm-3,35,V ugm-3
-2020-04-11,37,V ugm-3,46,V ugm-3,47,V ugm-3,43,V ugm-3,26,V ugm-3,27,V ugm-3,30,V ugm-3,32,V ugm-3,43,V ugm-3,30,V ugm-3,41,V ugm-3,43,V ugm-3,43,V ugm-3
-2020-04-12,21,V ugm-3,28,V ugm-3,20,V ugm-3,24,V ugm-3,8,V ugm-3,12,V ugm-3,20,V ugm-3,23,V ugm-3,26,V ugm-3,15,V ugm-3,20,V ugm-3,19,V ugm-3,22,V ugm-3
-2020-04-13,9,V ugm-3,12,V ugm-3,6,V ugm-3,9,V ugm-3,3,V ugm-3,3,V ugm-3,5,V ugm-3,7,V ugm-3,8,V ugm-3,6,V ugm-3,9,V ugm-3,12,V ugm-3,11,V ugm-3
-2020-04-14,28,V ugm-3,25,V ugm-3,15,V ugm-3,18,V ugm-3,7,V ugm-3,12,V ugm-3,12,V ugm-3,23,V ugm-3,28,V ugm-3,12,V ugm-3,14,V ugm-3,27,V ugm-3,18,V ugm-3
-2020-04-15,44,V ugm-3,40,V ugm-3,37,V ugm-3,37,V ugm-3,18,V ugm-3,27,V ugm-3,27,V ugm-3,38,V ugm-3,50,V ugm-3,29,V ugm-3,29,V ugm-3,38,V ugm-3,35,V ugm-3
-2020-04-16,44,V ugm-3,39,V ugm-3,45,V ugm-3,45,V ugm-3,31,V ugm-3,29,V ugm-3,36,V ugm-3,41,V ugm-3,47,V ugm-3,38,V ugm-3,48,V ugm-3,51,V ugm-3,40,V ugm-3
-2020-04-17,21,V ugm-3,18,V ugm-3,13,V ugm-3,22,V ugm-3,8,V ugm-3,10,V ugm-3,16,V ugm-3,18,V ugm-3,24,V ugm-3,15,V ugm-3,18,V ugm-3,25,V ugm-3,20,V ugm-3
-2020-04-18,25,V ugm-3,25,V ugm-3,18,V ugm-3,22,V ugm-3,10,V ugm-3,12,V ugm-3,15,V ugm-3,18,V ugm-3,20,V ugm-3,18,V ugm-3,19,V ugm-3,27,V ugm-3,23,V ugm-3
-2020-04-19,15,V ugm-3,18,V ugm-3,14,V ugm-3,17,V ugm-3,5,V ugm-3,8,V ugm-3,11,V ugm-3,13,V ugm-3,13,V ugm-3,13,V ugm-3,15,V ugm-3,17,V ugm-3,18,V ugm-3
-2020-04-20,18,V ugm-3,17,V ugm-3,14,V ugm-3,18,V ugm-3,7,V ugm-3,9,V ugm-3,10,V ugm-3,15,V ugm-3,16,V ugm-3,12,V ugm-3,16,V ugm-3,26,V ugm-3,19,V ugm-3
-2020-04-21,18,V ugm-3,18,V ugm-3,13,V ugm-3,20,V ugm-3,8,V ugm-3,11,V ugm-3,13,V ugm-3,17,V ugm-3,17,V ugm-3,12,V ugm-3,18,V ugm-3,29,V ugm-3,21,V ugm-3
-2020-04-22,22,V ugm-3,24,V ugm-3,20,V ugm-3,25,V ugm-3,11,V ugm-3,12,V ugm-3,15,V ugm-3,16,V ugm-3,20,V ugm-3,15,V ugm-3,21,V ugm-3,31,V ugm-3,25,V ugm-3
-2020-04-23,36,V ugm-3,31,V ugm-3,31,V ugm-3,33,V ugm-3,16,V ugm-3,16,V ugm-3,21,V ugm-3,26,V ugm-3,30,V ugm-3,22,V ugm-3,29,V ugm-3,41,V ugm-3,27,V ugm-3
-2020-04-24,33,V ugm-3,28,V ugm-3,28,V ugm-3,29,V ugm-3,16,V ugm-3,12,V ugm-3,23,V ugm-3,22,V ugm-3,28,V ugm-3,20,V ugm-3,27,V ugm-3,44,V ugm-3,30,V ugm-3
-2020-04-25,25,V ugm-3,20,V ugm-3,11,V ugm-3,22,V ugm-3,7,V ugm-3,10,V ugm-3,No data,V ugm-3,23,V ugm-3,21,V ugm-3,15,V ugm-3,15,V ugm-3,22,V ugm-3,15,V ugm-3
-2020-04-26,23,V ugm-3,32,V ugm-3,16,V ugm-3,17,V ugm-3,5,V ugm-3,15,V ugm-3,No data,,25,V ugm-3,24,V ugm-3,12,V ugm-3,17,V ugm-3,20,V ugm-3,17,V ugm-3
-2020-04-27,28,V ugm-3,29,V ugm-3,19,V ugm-3,28,V ugm-3,10,V ugm-3,14,V ugm-3,No data,V ugm-3,25,V ugm-3,27,V ugm-3,19,V ugm-3,22,V ugm-3,25,V ugm-3,27,V ugm-3
-2020-04-28,22,V ugm-3,21,V ugm-3,12,V ugm-3,21,V ugm-3,6,V ugm-3,12,V ugm-3,15,V ugm-3,19,V ugm-3,18,V ugm-3,14,V ugm-3,21,V ugm-3,No data,V ugm-3,33,V ugm-3
-2020-04-29,21,V ugm-3,31,V ugm-3,10,V ugm-3,14,V ugm-3,6,V ugm-3,9,V ugm-3,8,V ugm-3,25,V ugm-3,21,V ugm-3,11,V ugm-3,14,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-04-30,18,V ugm-3,28,V ugm-3,7,V ugm-3,12,V ugm-3,4,V ugm-3,8,V ugm-3,8,V ugm-3,25,V ugm-3,21,V ugm-3,8,V ugm-3,15,V ugm-3,No data,V ugm-3,16,V ugm-3
-2020-05-01,16,V ugm-3,20,V ugm-3,9,V ugm-3,34,V ugm-3,5,V ugm-3,8,V ugm-3,5,V ugm-3,18,V ugm-3,21,V ugm-3,9,V ugm-3,32,V ugm-3,No data,V ugm-3,16,V ugm-3
-2020-05-02,18,V ugm-3,19,V ugm-3,9,V ugm-3,38,V ugm-3,5,V ugm-3,8,V ugm-3,9,V ugm-3,17,V ugm-3,18,V ugm-3,11,V ugm-3,44,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-05-03,27,V ugm-3,32,V ugm-3,14,V ugm-3,19,V ugm-3,7,V ugm-3,15,V ugm-3,10,V ugm-3,33,V ugm-3,20,V ugm-3,16,V ugm-3,34,V ugm-3,No data,V ugm-3,17,V ugm-3
-2020-05-04,25,V ugm-3,23,V ugm-3,13,V ugm-3,22,V ugm-3,7,V ugm-3,10,V ugm-3,11,V ugm-3,19,V ugm-3,18,V ugm-3,13,V ugm-3,61,V ugm-3,No data,V ugm-3,20,V ugm-3
-2020-05-05,20,V ugm-3,18,V ugm-3,8,V ugm-3,23,V ugm-3,5,V ugm-3,7,V ugm-3,9,V ugm-3,18,V ugm-3,16,V ugm-3,10,V ugm-3,62,V ugm-3,No data,V ugm-3,13,V ugm-3
-2020-05-06,32,V ugm-3,28,V ugm-3,18,V ugm-3,26,V ugm-3,10,V ugm-3,12,V ugm-3,16,V ugm-3,27,V ugm-3,22,V ugm-3,19,V ugm-3,76,V ugm-3,No data,V ugm-3,22,V ugm-3
-2020-05-07,34,V ugm-3,41,V ugm-3,26,V ugm-3,28,V ugm-3,14,V ugm-3,17,V ugm-3,22,V ugm-3,38,V ugm-3,32,V ugm-3,22,V ugm-3,45,V ugm-3,No data,V ugm-3,26,V ugm-3
-2020-05-08,39,V ugm-3,44,V ugm-3,28,V ugm-3,25,V ugm-3,11,V ugm-3,17,V ugm-3,26,V ugm-3,41,V ugm-3,32,V ugm-3,23,V ugm-3,35,V ugm-3,No data,V ugm-3,31,V ugm-3
-2020-05-09,37,V ugm-3,36,V ugm-3,34,V ugm-3,41,V ugm-3,19,V ugm-3,19,V ugm-3,25,V ugm-3,37,V ugm-3,31,V ugm-3,32,V ugm-3,87,V ugm-3,No data,V ugm-3,34,V ugm-3
-2020-05-10,12,V ugm-3,16,V ugm-3,13,V ugm-3,16,V ugm-3,6,V ugm-3,7,V ugm-3,8,V ugm-3,8,V ugm-3,8,V ugm-3,10,V ugm-3,65,V ugm-3,No data,V ugm-3,15,V ugm-3
-2020-05-11,14,V ugm-3,14,V ugm-3,6,V ugm-3,13,V ugm-3,2,V ugm-3,4,V ugm-3,4,V ugm-3,7,V ugm-3,7,V ugm-3,6,V ugm-3,49,V ugm-3,No data,V ugm-3,13,V ugm-3
-2020-05-12,30,V ugm-3,23,V ugm-3,16,V ugm-3,25,V ugm-3,9,V ugm-3,7,V ugm-3,12,V ugm-3,12,V ugm-3,16,V ugm-3,14,V ugm-3,52,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-05-13,21,V ugm-3,20,V ugm-3,9,V ugm-3,16,V ugm-3,4,V ugm-3,6,V ugm-3,7,V ugm-3,9,V ugm-3,10,V ugm-3,9,V ugm-3,57,V ugm-3,No data,V ugm-3,20,V ugm-3
-2020-05-14,22,V ugm-3,22,V ugm-3,11,V ugm-3,20,V ugm-3,6,V ugm-3,7,V ugm-3,9,V ugm-3,17,V ugm-3,15,V ugm-3,11,V ugm-3,34,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-05-15,37,V ugm-3,31,V ugm-3,20,V ugm-3,29,V ugm-3,11,V ugm-3,13,V ugm-3,21,V ugm-3,23,V ugm-3,22,V ugm-3,19,V ugm-3,20,V ugm-3,No data,V ugm-3,32,V ugm-3
-2020-05-16,26,V ugm-3,24,V ugm-3,17,V ugm-3,39,V ugm-3,10,V ugm-3,9,V ugm-3,13,V ugm-3,20,V ugm-3,21,V ugm-3,18,V ugm-3,14,V ugm-3,No data,V ugm-3,27,V ugm-3
-2020-05-17,18,V ugm-3,29,V ugm-3,10,V ugm-3,34,V ugm-3,8,V ugm-3,10,V ugm-3,7,V ugm-3,13,V ugm-3,22,V ugm-3,14,V ugm-3,11,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-05-18,14,V ugm-3,20,V ugm-3,8,V ugm-3,39,V ugm-3,6,V ugm-3,6,V ugm-3,6,V ugm-3,17,V ugm-3,31,V ugm-3,10,V ugm-3,10,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-05-19,19,V ugm-3,21,V ugm-3,12,V ugm-3,42,V ugm-3,10,V ugm-3,8,V ugm-3,11,V ugm-3,15,V ugm-3,29,V ugm-3,17,V ugm-3,13,V ugm-3,No data,V ugm-3,23,V ugm-3
-2020-05-20,31,V ugm-3,41,V ugm-3,16,V ugm-3,22,V ugm-3,11,V ugm-3,16,V ugm-3,15,V ugm-3,35,V ugm-3,37,V ugm-3,18,V ugm-3,18,V ugm-3,15,V ugm-3,20,V ugm-3
-2020-05-21,31,V ugm-3,39,V ugm-3,22,V ugm-3,26,V ugm-3,13,V ugm-3,14,V ugm-3,17,V ugm-3,28,V ugm-3,38,V ugm-3,18,V ugm-3,18,V ugm-3,25,V ugm-3,23,V ugm-3
-2020-05-22,13,V ugm-3,22,V ugm-3,7,V ugm-3,10,V ugm-3,5,V ugm-3,5,V ugm-3,7,V ugm-3,17,V ugm-3,27,V ugm-3,7,V ugm-3,9,V ugm-3,8,V ugm-3,11,V ugm-3
-2020-05-23,6,V ugm-3,10,V ugm-3,2,V ugm-3,18,V ugm-3,2,V ugm-3,2,V ugm-3,3,V ugm-3,9,V ugm-3,18,V ugm-3,4,V ugm-3,4,V ugm-3,5,V ugm-3,10,V ugm-3
-2020-05-24,17,V ugm-3,14,V ugm-3,10,V ugm-3,26,V ugm-3,6,V ugm-3,6,V ugm-3,6,V ugm-3,10,V ugm-3,16,V ugm-3,10,V ugm-3,7,V ugm-3,16,V ugm-3,17,V ugm-3
-2020-05-25,22,V ugm-3,26,V ugm-3,14,V ugm-3,21,V ugm-3,10,V ugm-3,10,V ugm-3,11,V ugm-3,20,V ugm-3,27,V ugm-3,14,V ugm-3,14,V ugm-3,17,V ugm-3,19,V ugm-3
-2020-05-26,39,V ugm-3,31,V ugm-3,24,V ugm-3,28,V ugm-3,16,V ugm-3,11,V ugm-3,17,V ugm-3,20,V ugm-3,31,V ugm-3,19,V ugm-3,18,V ugm-3,33,V ugm-3,27,V ugm-3
-2020-05-27,42,V ugm-3,29,V ugm-3,26,V ugm-3,29,V ugm-3,20,V ugm-3,12,V ugm-3,18,V ugm-3,19,V ugm-3,36,V ugm-3,22,V ugm-3,26,V ugm-3,48,V ugm-3,28,V ugm-3
-2020-05-28,26,V ugm-3,20,V ugm-3,9,V ugm-3,23,V ugm-3,8,V ugm-3,6,V ugm-3,12,V ugm-3,17,V ugm-3,29,V ugm-3,12,V ugm-3,15,V ugm-3,29,V ugm-3,13,V ugm-3
-2020-05-29,33,V ugm-3,24,V ugm-3,14,V ugm-3,26,V ugm-3,12,V ugm-3,9,V ugm-3,16,V ugm-3,23,V ugm-3,35,V ugm-3,16,V ugm-3,19,V ugm-3,36,V ugm-3,18,V ugm-3
-2020-05-30,23,V ugm-3,23,V ugm-3,12,V ugm-3,21,V ugm-3,9,V ugm-3,9,V ugm-3,12,V ugm-3,13,V ugm-3,23,V ugm-3,12,V ugm-3,14,V ugm-3,27,V ugm-3,18,V ugm-3
-2020-05-31,16,V ugm-3,20,V ugm-3,9,V ugm-3,17,V ugm-3,8,V ugm-3,8,V ugm-3,9,V ugm-3,11,V ugm-3,17,V ugm-3,10,V ugm-3,11,V ugm-3,17,V ugm-3,14,V ugm-3
-2020-06-01,28,V ugm-3,24,V ugm-3,16,V ugm-3,23,V ugm-3,13,V ugm-3,9,V ugm-3,12,V ugm-3,14,V ugm-3,27,V ugm-3,13,V ugm-3,15,V ugm-3,32,V ugm-3,20,V ugm-3
-2020-06-02,43,V ugm-3,28,V ugm-3,18,V ugm-3,23,V ugm-3,12,V ugm-3,8,V ugm-3,18,V ugm-3,14,V ugm-3,27,V ugm-3,19,V ugm-3,17,V ugm-3,41,V ugm-3,28,V ugm-3
-2020-06-03,46,V ugm-3,31,V ugm-3,24,V ugm-3,27,V ugm-3,16,V ugm-3,18,V ugm-3,26,V ugm-3,24,V ugm-3,31,V ugm-3,27,V ugm-3,25,V ugm-3,41,V ugm-3,30,V ugm-3
-2020-06-04,28,V ugm-3,16,V ugm-3,11,V ugm-3,28,V ugm-3,6,V ugm-3,5,V ugm-3,9,V ugm-3,10,V ugm-3,21,V ugm-3,10,V ugm-3,12,V ugm-3,26,V ugm-3,19,V ugm-3
-2020-06-05,17,V ugm-3,13,V ugm-3,9,V ugm-3,48,V ugm-3,6,V ugm-3,5,V ugm-3,10,V ugm-3,7,V ugm-3,30,V ugm-3,11,V ugm-3,13,V ugm-3,17,V ugm-3,20,V ugm-3
-2020-06-06,15,V ugm-3,19,V ugm-3,9,V ugm-3,30,V ugm-3,7,V ugm-3,8,V ugm-3,8,V ugm-3,18,V ugm-3,32,V ugm-3,13,V ugm-3,14,V ugm-3,12,V ugm-3,21,V ugm-3
-2020-06-07,21,V ugm-3,17,V ugm-3,10,V ugm-3,30,V ugm-3,7,V ugm-3,6,V ugm-3,8,V ugm-3,9,V ugm-3,20,V ugm-3,14,V ugm-3,14,V ugm-3,20,V ugm-3,18,V ugm-3
-2020-06-08,32,V ugm-3,25,V ugm-3,11,V ugm-3,15,V ugm-3,6,V ugm-3,6,V ugm-3,8,V ugm-3,8,V ugm-3,16,V ugm-3,10,V ugm-3,12,V ugm-3,33,V ugm-3,21,V ugm-3
-2020-06-09,38,V ugm-3,33,V ugm-3,16,V ugm-3,18,V ugm-3,10,V ugm-3,14,V ugm-3,16,V ugm-3,27,V ugm-3,35,V ugm-3,16,V ugm-3,16,V ugm-3,36,V ugm-3,22,V ugm-3
-2020-06-10,32,V ugm-3,39,V ugm-3,16,V ugm-3,15,V ugm-3,9,V ugm-3,13,V ugm-3,11,V ugm-3,38,V ugm-3,40,V ugm-3,16,V ugm-3,17,V ugm-3,16,V ugm-3,18,V ugm-3
-2020-06-11,24,V ugm-3,24,V ugm-3,13,V ugm-3,20,V ugm-3,9,V ugm-3,11,V ugm-3,13,V ugm-3,14,V ugm-3,20,V ugm-3,14,V ugm-3,18,V ugm-3,31,V ugm-3,21,V ugm-3
-2020-06-12,33,V ugm-3,30,V ugm-3,22,V ugm-3,31,V ugm-3,16,V ugm-3,17,V ugm-3,18,V ugm-3,25,V ugm-3,34,V ugm-3,22,V ugm-3,25,V ugm-3,38,V ugm-3,23,V ugm-3
-2020-06-13,32,V ugm-3,28,V ugm-3,25,V ugm-3,26,V ugm-3,13,V ugm-3,14,V ugm-3,15,V ugm-3,36,V ugm-3,34,V ugm-3,20,V ugm-3,20,V ugm-3,28,V ugm-3,23,V ugm-3
-2020-06-14,20,V ugm-3,32,V ugm-3,13,V ugm-3,15,V ugm-3,7,V ugm-3,9,V ugm-3,12,V ugm-3,29,V ugm-3,32,V ugm-3,14,V ugm-3,16,V ugm-3,14,V ugm-3,16,V ugm-3
-2020-06-15,34,V ugm-3,35,V ugm-3,14,V ugm-3,22,V ugm-3,11,V ugm-3,13,V ugm-3,16,V ugm-3,31,V ugm-3,47,V ugm-3,18,V ugm-3,19,V ugm-3,21,V ugm-3,21,V ugm-3
-2020-06-16,33,V ugm-3,37,V ugm-3,16,V ugm-3,13,V ugm-3,6,V ugm-3,11,V ugm-3,11,V ugm-3,35,V ugm-3,46,V ugm-3,11,V ugm-3,16,V ugm-3,17,V ugm-3,17,V ugm-3
-2020-06-17,47,V ugm-3,39,V ugm-3,29,V ugm-3,29,V ugm-3,16,V ugm-3,22,V ugm-3,22,V ugm-3,33,V ugm-3,47,V ugm-3,26,V ugm-3,29,V ugm-3,35,V ugm-3,31,V ugm-3
-2020-06-18,27,V ugm-3,35,V ugm-3,11,V ugm-3,19,V ugm-3,8,V ugm-3,9,V ugm-3,14,V ugm-3,33,V ugm-3,44,V ugm-3,15,V ugm-3,17,V ugm-3,No data,V ugm-3,23,V ugm-3
-2020-06-19,21,V ugm-3,28,V ugm-3,7,V ugm-3,10,V ugm-3,4,V ugm-3,7,V ugm-3,9,V ugm-3,26,V ugm-3,38,V ugm-3,9,V ugm-3,10,V ugm-3,No data,V ugm-3,10,V ugm-3
-2020-06-20,18,V ugm-3,30,V ugm-3,6,V ugm-3,9,V ugm-3,5,V ugm-3,7,V ugm-3,9,V ugm-3,24,V ugm-3,29,V ugm-3,8,V ugm-3,9,V ugm-3,No data,V ugm-3,8,V ugm-3
-2020-06-21,9,V ugm-3,16,V ugm-3,5,V ugm-3,22,V ugm-3,4,V ugm-3,5,V ugm-3,7,V ugm-3,12,V ugm-3,23,V ugm-3,6,V ugm-3,7,V ugm-3,No data,V ugm-3,11,V ugm-3
-2020-06-22,22,V ugm-3,30,V ugm-3,7,V ugm-3,11,V ugm-3,5,V ugm-3,6,V ugm-3,7,V ugm-3,27,V ugm-3,38,V ugm-3,8,V ugm-3,11,V ugm-3,No data,V ugm-3,11,V ugm-3
-2020-06-23,38,V ugm-3,37,V ugm-3,19,V ugm-3,19,V ugm-3,12,V ugm-3,14,V ugm-3,10,V ugm-3,43,V ugm-3,49,V ugm-3,16,V ugm-3,18,V ugm-3,No data,V ugm-3,16,V ugm-3
-2020-06-24,59,V ugm-3,37,V ugm-3,40,V ugm-3,43,V ugm-3,31,V ugm-3,22,V ugm-3,26,V ugm-3,35,V ugm-3,60,V ugm-3,32,V ugm-3,35,V ugm-3,No data,V ugm-3,34,V ugm-3
-2020-06-25,57,V ugm-3,37,V ugm-3,39,V ugm-3,39,V ugm-3,30,V ugm-3,20,V ugm-3,24,V ugm-3,35,V ugm-3,61,V ugm-3,29,V ugm-3,32,V ugm-3,No data,V ugm-3,32,V ugm-3
-2020-06-26,37,V ugm-3,45,V ugm-3,23,V ugm-3,19,V ugm-3,13,V ugm-3,15,V ugm-3,15,V ugm-3,39,V ugm-3,59,V ugm-3,18,V ugm-3,19,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-06-27,12,V ugm-3,21,V ugm-3,5,V ugm-3,5,V ugm-3,3,V ugm-3,4,V ugm-3,6,V ugm-3,12,V ugm-3,21,V ugm-3,6,V ugm-3,7,V ugm-3,No data,V ugm-3,9,V ugm-3
-2020-06-28,8,V ugm-3,14,V ugm-3,3,V ugm-3,5,V ugm-3,3,V ugm-3,3,V ugm-3,4,V ugm-3,10,V ugm-3,22,V ugm-3,5,V ugm-3,5,V ugm-3,No data,V ugm-3,9,V ugm-3
-2020-06-29,11,V ugm-3,16,V ugm-3,4,V ugm-3,9,V ugm-3,5,V ugm-3,4,V ugm-3,5,V ugm-3,17,V ugm-3,34,V ugm-3,6,V ugm-3,6,V ugm-3,No data,V ugm-3,10,V ugm-3
-2020-06-30,18,V ugm-3,27,V ugm-3,8,V ugm-3,10,V ugm-3,9,V ugm-3,8,V ugm-3,8,V ugm-3,22,V ugm-3,32,V ugm-3,10,V ugm-3,11,V ugm-3,No data,V ugm-3,13,V ugm-3
-2020-07-01,16,V ugm-3,24,V ugm-3,8,V ugm-3,9,V ugm-3,9,V ugm-3,7,V ugm-3,8,V ugm-3,19,V ugm-3,33,V ugm-3,9,V ugm-3,9,V ugm-3,No data,V ugm-3,14,V ugm-3
-2020-07-02,23,V ugm-3,22,V ugm-3,12,V ugm-3,23,V ugm-3,12,V ugm-3,10,V ugm-3,10,V ugm-3,18,V ugm-3,39,V ugm-3,17,V ugm-3,15,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-07-03,18,V ugm-3,24,V ugm-3,6,V ugm-3,12,V ugm-3,7,V ugm-3,6,V ugm-3,8,V ugm-3,21,V ugm-3,34,V ugm-3,9,V ugm-3,9,V ugm-3,No data,V ugm-3,14,V ugm-3
-2020-07-04,12,V ugm-3,18,V ugm-3,4,V ugm-3,8,V ugm-3,6,V ugm-3,5,V ugm-3,7,V ugm-3,13,V ugm-3,19,V ugm-3,6,V ugm-3,8,V ugm-3,No data,V ugm-3,9,V ugm-3
-2020-07-05,5,V ugm-3,8,V ugm-3,1,V ugm-3,8,V ugm-3,4,V ugm-3,1,V ugm-3,2,V ugm-3,8,V ugm-3,19,V ugm-3,3,V ugm-3,4,V ugm-3,No data,V ugm-3,8,V ugm-3
-2020-07-06,19,V ugm-3,12,V ugm-3,7,V ugm-3,23,V ugm-3,8,V ugm-3,5,V ugm-3,8,V ugm-3,14,V ugm-3,24,V ugm-3,10,V ugm-3,12,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-07-07,30,V ugm-3,33,V ugm-3,13,V ugm-3,22,V ugm-3,11,V ugm-3,12,V ugm-3,14,V ugm-3,27,V ugm-3,54,V ugm-3,21,V ugm-3,18,V ugm-3,No data,V ugm-3,24,V ugm-3
-2020-07-08,16,V ugm-3,25,V ugm-3,11,V ugm-3,20,V ugm-3,8,V ugm-3,11,V ugm-3,9,V ugm-3,18,V ugm-3,30,V ugm-3,13,V ugm-3,14,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-07-09,18,V ugm-3,21,V ugm-3,7,V ugm-3,12,V ugm-3,5,V ugm-3,8,V ugm-3,7,V ugm-3,15,V ugm-3,28,V ugm-3,10,V ugm-3,10,V ugm-3,No data,V ugm-3,17,V ugm-3
-2020-07-10,31,V ugm-3,14,V ugm-3,12,V ugm-3,23,V ugm-3,6,V ugm-3,7,V ugm-3,11,V ugm-3,8,V ugm-3,19,V ugm-3,12,V ugm-3,14,V ugm-3,No data,V ugm-3,26,V ugm-3
-2020-07-11,30,V ugm-3,20,V ugm-3,16,V ugm-3,25,V ugm-3,7,V ugm-3,9,V ugm-3,13,V ugm-3,12,V ugm-3,22,V ugm-3,16,V ugm-3,14,V ugm-3,No data,V ugm-3,32,V ugm-3
-2020-07-12,27,V ugm-3,31,V ugm-3,14,V ugm-3,21,V ugm-3,8,V ugm-3,10,V ugm-3,13,V ugm-3,20,V ugm-3,34,V ugm-3,17,V ugm-3,21,V ugm-3,No data,V ugm-3,29,V ugm-3
-2020-07-13,25,V ugm-3,25,V ugm-3,12,V ugm-3,23,V ugm-3,8,V ugm-3,10,V ugm-3,10,V ugm-3,20,V ugm-3,42,V ugm-3,14,V ugm-3,14,V ugm-3,No data,V ugm-3,28,V ugm-3
-2020-07-14,34,V ugm-3,19,V ugm-3,12,V ugm-3,21,V ugm-3,No data,V ugm-3,8,V ugm-3,10,V ugm-3,8,V ugm-3,19,V ugm-3,12,V ugm-3,12,V ugm-3,No data,V ugm-3,30,V ugm-3
-2020-07-15,21,V ugm-3,17,V ugm-3,13,V ugm-3,28,V ugm-3,13,V ugm-3,8,V ugm-3,11,V ugm-3,11,V ugm-3,30,V ugm-3,15,V ugm-3,15,V ugm-3,No data,V ugm-3,23,V ugm-3
-2020-07-16,30,V ugm-3,17,V ugm-3,13,V ugm-3,22,V ugm-3,11,V ugm-3,8,V ugm-3,10,V ugm-3,9,V ugm-3,20,V ugm-3,12,V ugm-3,14,V ugm-3,No data,V ugm-3,22,V ugm-3
-2020-07-17,23,V ugm-3,23,V ugm-3,15,V ugm-3,29,V ugm-3,13,V ugm-3,10,V ugm-3,11,V ugm-3,13,V ugm-3,40,V ugm-3,16,V ugm-3,17,V ugm-3,No data,V ugm-3,27,V ugm-3
-2020-07-18,16,V ugm-3,16,V ugm-3,9,V ugm-3,20,V ugm-3,8,V ugm-3,6,V ugm-3,6,V ugm-3,10,V ugm-3,26,V ugm-3,10,V ugm-3,10,V ugm-3,No data,V ugm-3,20,V ugm-3
-2020-07-19,23,V ugm-3,19,V ugm-3,10,V ugm-3,16,V ugm-3,7,V ugm-3,5,V ugm-3,7,V ugm-3,7,V ugm-3,14,V ugm-3,11,V ugm-3,10,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-07-20,38,V ugm-3,23,V ugm-3,14,V ugm-3,18,V ugm-3,8,V ugm-3,7,V ugm-3,10,V ugm-3,8,V ugm-3,18,V ugm-3,12,V ugm-3,13,V ugm-3,No data,V ugm-3,24,V ugm-3
-2020-07-21,43,V ugm-3,28,V ugm-3,18,V ugm-3,21,V ugm-3,10,V ugm-3,10,V ugm-3,18,V ugm-3,15,V ugm-3,23,V ugm-3,17,V ugm-3,16,V ugm-3,No data,V ugm-3,29,V ugm-3
-2020-07-22,29,V ugm-3,39,V ugm-3,9,V ugm-3,14,V ugm-3,7,V ugm-3,10,V ugm-3,12,V ugm-3,32,V ugm-3,48,V ugm-3,11,V ugm-3,13,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-07-23,27,V ugm-3,33,V ugm-3,10,V ugm-3,14,V ugm-3,9,V ugm-3,9,V ugm-3,11,V ugm-3,30,V ugm-3,49,V ugm-3,12,V ugm-3,13,V ugm-3,No data,V ugm-3,19,V ugm-3
-2020-07-24,21,V ugm-3,27,V ugm-3,8,V ugm-3,No data,V ugm-3,7,V ugm-3,7,V ugm-3,10,V ugm-3,19,V ugm-3,35,V ugm-3,10,V ugm-3,13,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-07-25,17,V ugm-3,27,V ugm-3,6,V ugm-3,No data,V ugm-3,5,V ugm-3,7,V ugm-3,10,V ugm-3,20,V ugm-3,27,V ugm-3,9,V ugm-3,12,V ugm-3,No data,V ugm-3,14,V ugm-3
-2020-07-26,13,V ugm-3,18,V ugm-3,4,V ugm-3,No data,V ugm-3,3,V ugm-3,6,V ugm-3,7,V ugm-3,17,V ugm-3,22,V ugm-3,8,V ugm-3,9,V ugm-3,No data,V ugm-3,12,V ugm-3
-2020-07-27,19,V ugm-3,24,V ugm-3,6,V ugm-3,No data,V ugm-3,4,V ugm-3,8,V ugm-3,10,V ugm-3,20,V ugm-3,25,V ugm-3,10,V ugm-3,11,V ugm-3,No data,V ugm-3,12,V ugm-3
-2020-07-28,19,V ugm-3,13,V ugm-3,7,V ugm-3,20,V ugm-3,5,V ugm-3,6,V ugm-3,8,V ugm-3,13,V ugm-3,28,V ugm-3,13,V ugm-3,13,V ugm-3,No data,V ugm-3,17,V ugm-3
-2020-07-29,30,V ugm-3,26,V ugm-3,12,V ugm-3,21,V ugm-3,10,V ugm-3,11,V ugm-3,12,V ugm-3,20,V ugm-3,41,V ugm-3,17,V ugm-3,15,V ugm-3,No data,V ugm-3,24,V ugm-3
-2020-07-30,46,V ugm-3,47,V ugm-3,23,V ugm-3,25,V ugm-3,14,V ugm-3,20,V ugm-3,17,V ugm-3,46,V ugm-3,51,V ugm-3,22,V ugm-3,22,V ugm-3,No data,V ugm-3,23,V ugm-3
-2020-07-31,52,V ugm-3,48,V ugm-3,36,V ugm-3,32,V ugm-3,22,V ugm-3,23,V ugm-3,24,V ugm-3,45,V ugm-3,65,V ugm-3,29,V ugm-3,28,V ugm-3,No data,V ugm-3,33,V ugm-3
-2020-08-01,12,V ugm-3,14,V ugm-3,4,V ugm-3,9,V ugm-3,5,V ugm-3,4,V ugm-3,6,V ugm-3,10,V ugm-3,28,V ugm-3,9,V ugm-3,7,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-08-02,11,V ugm-3,16,V ugm-3,4,V ugm-3,9,V ugm-3,5,V ugm-3,4,V ugm-3,6,V ugm-3,9,V ugm-3,25,V ugm-3,10,V ugm-3,8,V ugm-3,No data,V ugm-3,17,V ugm-3
-2020-08-03,37,V ugm-3,23,V ugm-3,13,V ugm-3,No data,V ugm-3,8,V ugm-3,7,V ugm-3,12,V ugm-3,9,V ugm-3,19,V ugm-3,13,V ugm-3,13,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-08-04,30,V ugm-3,36,V ugm-3,12,V ugm-3,No data,V ugm-3,9,V ugm-3,12,V ugm-3,No data,V ugm-3,27,V ugm-3,44,V ugm-3,15,V ugm-3,16,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-08-05,20,V ugm-3,29,V ugm-3,4,V ugm-3,8,V ugm-3,3,V ugm-3,5,V ugm-3,No data,V ugm-3,22,V ugm-3,35,V ugm-3,8,V ugm-3,11,V ugm-3,No data,V ugm-3,11,V ugm-3
-2020-08-06,34,V ugm-3,47,V ugm-3,21,V ugm-3,16,V ugm-3,9,V ugm-3,14,V ugm-3,13,V ugm-3,35,V ugm-3,44,V ugm-3,13,V ugm-3,No data,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-08-07,74,V ugm-3,72,V ugm-3,50,V ugm-3,52,V ugm-3,30,V ugm-3,37,V ugm-3,37,V ugm-3,55,V ugm-3,84,V ugm-3,52,V ugm-3,50,V ugm-3,No data,V ugm-3,53,V ugm-3
-2020-08-08,42,V ugm-3,40,V ugm-3,40,V ugm-3,42,V ugm-3,30,V ugm-3,22,V ugm-3,19,V ugm-3,17,V ugm-3,36,V ugm-3,30,V ugm-3,37,V ugm-3,No data,V ugm-3,46,V ugm-3
-2020-08-09,26,V ugm-3,24,V ugm-3,14,V ugm-3,17,V ugm-3,9,V ugm-3,8,V ugm-3,9,V ugm-3,13,V ugm-3,22,V ugm-3,13,V ugm-3,14,V ugm-3,No data,V ugm-3,22,V ugm-3
-2020-08-10,52,V ugm-3,37,V ugm-3,32,V ugm-3,30,V ugm-3,22,V ugm-3,17,V ugm-3,18,V ugm-3,31,V ugm-3,48,V ugm-3,24,V ugm-3,27,V ugm-3,No data,V ugm-3,32,V ugm-3
-2020-08-11,73,V ugm-3,47,V ugm-3,43,V ugm-3,38,V ugm-3,31,V ugm-3,28,V ugm-3,33,V ugm-3,38,V ugm-3,61,V ugm-3,37,V ugm-3,42,V ugm-3,No data,V ugm-3,48,V ugm-3
-2020-08-12,75,V ugm-3,47,V ugm-3,39,V ugm-3,40,V ugm-3,26,V ugm-3,26,V ugm-3,37,V ugm-3,38,V ugm-3,64,V ugm-3,35,V ugm-3,39,V ugm-3,No data,V ugm-3,45,V ugm-3
-2020-08-13,42,V ugm-3,31,V ugm-3,17,V ugm-3,24,V ugm-3,14,V ugm-3,11,V ugm-3,15,V ugm-3,12,V ugm-3,21,V ugm-3,15,V ugm-3,23,V ugm-3,No data,V ugm-3,30,V ugm-3
-2020-08-14,42,V ugm-3,24,V ugm-3,14,V ugm-3,No data,V ugm-3,11,V ugm-3,9,V ugm-3,13,V ugm-3,11,V ugm-3,22,V ugm-3,14,V ugm-3,19,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-08-15,33,V ugm-3,26,V ugm-3,18,V ugm-3,No data,V ugm-3,15,V ugm-3,12,V ugm-3,13,V ugm-3,12,V ugm-3,23,V ugm-3,15,V ugm-3,23,V ugm-3,No data,V ugm-3,34,V ugm-3
-2020-08-16,29,V ugm-3,35,V ugm-3,18,V ugm-3,No data,V ugm-3,10,V ugm-3,15,V ugm-3,18,V ugm-3,29,V ugm-3,40,V ugm-3,18,V ugm-3,19,V ugm-3,No data,V ugm-3,33,V ugm-3
-2020-08-17,35,V ugm-3,44,V ugm-3,14,V ugm-3,No data,V ugm-3,8,V ugm-3,15,V ugm-3,17,V ugm-3,33,V ugm-3,55,V ugm-3,15,V ugm-3,25,V ugm-3,No data,V ugm-3,27,V ugm-3
-2020-08-18,27,V ugm-3,33,V ugm-3,9,V ugm-3,No data,V ugm-3,6,V ugm-3,8,V ugm-3,11,V ugm-3,29,V ugm-3,39,V ugm-3,9,V ugm-3,17,V ugm-3,No data,V ugm-3,9,V ugm-3
-2020-08-19,29,V ugm-3,34,V ugm-3,14,V ugm-3,21,V ugm-3,10,V ugm-3,18,V ugm-3,14,V ugm-3,29,V ugm-3,39,V ugm-3,17,V ugm-3,19,V ugm-3,No data,V ugm-3,17,V ugm-3
-2020-08-20,26,V ugm-3,37,V ugm-3,10,V ugm-3,13,V ugm-3,8,V ugm-3,9,V ugm-3,11,V ugm-3,No data,V ugm-3,47,V ugm-3,12,V ugm-3,14,V ugm-3,No data,V ugm-3,14,V ugm-3
-2020-08-21,16,V ugm-3,21,V ugm-3,5,V ugm-3,9,V ugm-3,4,V ugm-3,4,V ugm-3,6,V ugm-3,No data,V ugm-3,29,V ugm-3,6,V ugm-3,10,V ugm-3,No data,V ugm-3,7,V ugm-3
-2020-08-22,12,V ugm-3,19,V ugm-3,4,V ugm-3,11,V ugm-3,5,V ugm-3,4,V ugm-3,6,V ugm-3,15,V ugm-3,33,V ugm-3,6,V ugm-3,8,V ugm-3,No data,V ugm-3,9,V ugm-3
-2020-08-23,9,V ugm-3,13,V ugm-3,3,V ugm-3,11,V ugm-3,6,V ugm-3,3,V ugm-3,4,V ugm-3,17,V ugm-3,33,V ugm-3,7,V ugm-3,7,V ugm-3,No data,V ugm-3,13,V ugm-3
-2020-08-24,21,V ugm-3,28,V ugm-3,8,V ugm-3,14,V ugm-3,9,V ugm-3,8,V ugm-3,9,V ugm-3,25,V ugm-3,42,V ugm-3,12,V ugm-3,14,V ugm-3,No data,V ugm-3,18,V ugm-3
-2020-08-25,15,V ugm-3,18,V ugm-3,4,V ugm-3,9,V ugm-3,4,V ugm-3,6,V ugm-3,6,V ugm-3,16,V ugm-3,32,V ugm-3,7,V ugm-3,9,V ugm-3,No data,V ugm-3,12,V ugm-3
-2020-08-26,16,V ugm-3,16,V ugm-3,11,V ugm-3,18,V ugm-3,10,V ugm-3,9,V ugm-3,9,V ugm-3,14,V ugm-3,38,V ugm-3,13,V ugm-3,15,V ugm-3,No data,V ugm-3,20,V ugm-3
-2020-08-27,35,V ugm-3,36,V ugm-3,14,V ugm-3,24,V ugm-3,13,V ugm-3,19,V ugm-3,16,V ugm-3,32,V ugm-3,43,V ugm-3,20,V ugm-3,24,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-08-28,31,V ugm-3,22,V ugm-3,11,V ugm-3,20,V ugm-3,9,V ugm-3,9,V ugm-3,11,V ugm-3,16,V ugm-3,30,V ugm-3,13,V ugm-3,18,V ugm-3,No data,V ugm-3,30,V ugm-3
-2020-08-29,29,V ugm-3,12,V ugm-3,8,V ugm-3,16,V ugm-3,5,V ugm-3,5,V ugm-3,5,V ugm-3,6,V ugm-3,12,V ugm-3,8,V ugm-3,13,V ugm-3,No data,V ugm-3,24,V ugm-3
-2020-08-30,29,V ugm-3,18,V ugm-3,7,V ugm-3,17,V ugm-3,5,V ugm-3,5,V ugm-3,7,V ugm-3,8,V ugm-3,14,V ugm-3,9,V ugm-3,13,V ugm-3,No data,V ugm-3,21,V ugm-3
-2020-08-31,38,V ugm-3,31,V ugm-3,20,V ugm-3,26,V ugm-3,16,V ugm-3,12,V ugm-3,21,V ugm-3,19,V ugm-3,34,V ugm-3,29,V ugm-3,27,V ugm-3,No data,V ugm-3,34,V ugm-3
-2020-09-01,58,V ugm-3,49,V ugm-3,27,V ugm-3,38,V ugm-3,21,V ugm-3,26,V ugm-3,31,V ugm-3,30,V ugm-3,62,V ugm-3,42,V ugm-3,46,V ugm-3,No data,V ugm-3,39,V ugm-3
-2020-09-02,41,V ugm-3,53,V ugm-3,17,V ugm-3,23,V ugm-3,12,V ugm-3,19,V ugm-3,25,V ugm-3,42,V ugm-3,74,V ugm-3,26,V ugm-3,28,V ugm-3,No data,V ugm-3,29,V ugm-3
-2020-09-03,20,V ugm-3,25,V ugm-3,6,V ugm-3,15,V ugm-3,7,V ugm-3,10,V ugm-3,10,V ugm-3,24,V ugm-3,54,V ugm-3,13,V ugm-3,17,V ugm-3,No data,V ugm-3,16,V ugm-3
-2020-09-04,21,V ugm-3,28,V ugm-3,9,V ugm-3,18,V ugm-3,11,V ugm-3,11,V ugm-3,9,V ugm-3,25,V ugm-3,65,V ugm-3,16,V ugm-3,17,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-09-05,23,V ugm-3,20,V ugm-3,14,V ugm-3,26,V ugm-3,15,V ugm-3,14,V ugm-3,12,V ugm-3,15,V ugm-3,53,V ugm-3,21,V ugm-3,20,V ugm-3,No data,V ugm-3,26,V ugm-3
-2020-09-06,27,V ugm-3,29,V ugm-3,16,V ugm-3,21,V ugm-3,14,V ugm-3,17,V ugm-3,15,V ugm-3,23,V ugm-3,56,V ugm-3,21,V ugm-3,19,V ugm-3,No data,V ugm-3,27,V ugm-3
-2020-09-07,27,V ugm-3,35,V ugm-3,14,V ugm-3,22,V ugm-3,13,V ugm-3,18,V ugm-3,15,V ugm-3,25,V ugm-3,49,V ugm-3,22,V ugm-3,20,V ugm-3,No data,V ugm-3,25,V ugm-3
-2020-09-08,21,V ugm-3,26,V ugm-3,8,V ugm-3,13,V ugm-3,10,V ugm-3,10,V ugm-3,7,V ugm-3,20,V ugm-3,36,V ugm-3,14,V ugm-3,15,V ugm-3,No data,V ugm-3,20,V ugm-3
-2020-09-09,32,V ugm-3,23,V ugm-3,13,V ugm-3,22,V ugm-3,12,V ugm-3,11,V ugm-3,12,V ugm-3,16,V ugm-3,33,V ugm-3,16,V ugm-3,19,V ugm-3,No data,V ugm-3,26,V ugm-3
-2020-09-10,52,V ugm-3,35,V ugm-3,29,V ugm-3,28,V ugm-3,20,V ugm-3,16,V ugm-3,20,V ugm-3,20,V ugm-3,38,V ugm-3,23,V ugm-3,28,V ugm-3,57,V ugm-3,36,V ugm-3
-2020-09-11,35,V ugm-3,42,V ugm-3,23,V ugm-3,27,V ugm-3,21,V ugm-3,22,V ugm-3,23,V ugm-3,36,V ugm-3,60,V ugm-3,29,V ugm-3,27,V ugm-3,27,V ugm-3,35,V ugm-3
-2020-09-12,21,V ugm-3,28,V ugm-3,8,V ugm-3,17,V ugm-3,8,V ugm-3,10,V ugm-3,10,V ugm-3,22,V ugm-3,40,V ugm-3,12,V ugm-3,12,V ugm-3,8,V ugm-3,18,V ugm-3
-2020-09-13,26,V ugm-3,35,V ugm-3,9,V ugm-3,16,V ugm-3,6,V ugm-3,13,V ugm-3,14,V ugm-3,31,V ugm-3,36,V ugm-3,14,V ugm-3,16,V ugm-3,10,V ugm-3,17,V ugm-3
-2020-09-14,67,V ugm-3,53,V ugm-3,40,V ugm-3,51,V ugm-3,31,V ugm-3,32,V ugm-3,34,V ugm-3,53,V ugm-3,68,V ugm-3,45,V ugm-3,48,V ugm-3,65,V ugm-3,42,V ugm-3
-2020-09-15,61,V ugm-3,54,V ugm-3,53,V ugm-3,No data,V ugm-3,43,V ugm-3,39,V ugm-3,44,V ugm-3,41,V ugm-3,69,V ugm-3,45,V ugm-3,51,V ugm-3,79,V ugm-3,59,V ugm-3
-2020-09-16,42,V ugm-3,34,V ugm-3,23,V ugm-3,No data,V ugm-3,15,V ugm-3,14,V ugm-3,17,V ugm-3,14,V ugm-3,24,V ugm-3,18,V ugm-3,26,V ugm-3,61,V ugm-3,35,V ugm-3
-2020-09-17,37,V ugm-3,26,V ugm-3,9,V ugm-3,No data,V ugm-3,8,V ugm-3,11,V ugm-3,12,V ugm-3,12,V ugm-3,30,V ugm-3,14,V ugm-3,20,V ugm-3,33,V ugm-3,22,V ugm-3
-2020-09-18,35,V ugm-3,30,V ugm-3,15,V ugm-3,No data,V ugm-3,12,V ugm-3,15,V ugm-3,16,V ugm-3,15,V ugm-3,29,V ugm-3,18,V ugm-3,26,V ugm-3,40,V ugm-3,28,V ugm-3
-2020-09-19,24,V ugm-3,26,V ugm-3,12,V ugm-3,No data,V ugm-3,12,V ugm-3,11,V ugm-3,11,V ugm-3,10,V ugm-3,19,V ugm-3,14,V ugm-3,18,V ugm-3,30,V ugm-3,24,V ugm-3
-2020-09-20,22,V ugm-3,24,V ugm-3,14,V ugm-3,No data,V ugm-3,10,V ugm-3,9,V ugm-3,9,V ugm-3,9,V ugm-3,16,V ugm-3,12,V ugm-3,18,V ugm-3,31,V ugm-3,22,V ugm-3
-2020-09-21,66,V ugm-3,56,V ugm-3,32,V ugm-3,No data,V ugm-3,28,V ugm-3,30,V ugm-3,36,V ugm-3,46,V ugm-3,54,V ugm-3,39,V ugm-3,48,V ugm-3,66,V ugm-3,45,V ugm-3
-2020-09-22,48,V ugm-3,54,V ugm-3,24,V ugm-3,No data,V ugm-3,18,V ugm-3,25,V ugm-3,27,V ugm-3,46,V ugm-3,66,V ugm-3,29,V ugm-3,32,V ugm-3,39,V ugm-3,37,V ugm-3
-2020-09-23,30,V ugm-3,32,V ugm-3,9,V ugm-3,No data,V ugm-3,8,V ugm-3,12,V ugm-3,13,V ugm-3,35,V ugm-3,50,V ugm-3,15,V ugm-3,17,V ugm-3,11,V ugm-3,23,V ugm-3
-2020-09-24,33,V ugm-3,40,V ugm-3,17,V ugm-3,No data,V ugm-3,11,V ugm-3,17,V ugm-3,19,V ugm-3,43,V ugm-3,54,V ugm-3,22,V ugm-3,20,V ugm-3,14,V ugm-3,19,V ugm-3
-2020-09-25,25,V ugm-3,14,V ugm-3,14,V ugm-3,No data,V ugm-3,10,V ugm-3,10,V ugm-3,13,V ugm-3,10,V ugm-3,18,V ugm-3,14,V ugm-3,19,V ugm-3,29,V ugm-3,24,V ugm-3
-2020-09-26,30,V ugm-3,13,V ugm-3,8,V ugm-3,No data,V ugm-3,5,V ugm-3,6,V ugm-3,8,V ugm-3,8,V ugm-3,11,V ugm-3,9,V ugm-3,14,V ugm-3,28,V ugm-3,16,V ugm-3
-2020-09-27,27,V ugm-3,16,V ugm-3,10,V ugm-3,No data,V ugm-3,5,V ugm-3,5,V ugm-3,6,V ugm-3,6,V ugm-3,10,V ugm-3,9,V ugm-3,11,V ugm-3,24,V ugm-3,15,V ugm-3
-2020-09-28,32,V ugm-3,28,V ugm-3,24,V ugm-3,No data,V ugm-3,20,V ugm-3,18,V ugm-3,19,V ugm-3,23,V ugm-3,41,V ugm-3,23,V ugm-3,26,V ugm-3,35,V ugm-3,30,V ugm-3
-2020-09-29,41,V ugm-3,39,V ugm-3,27,V ugm-3,No data,V ugm-3,18,V ugm-3,22,V ugm-3,24,V ugm-3,28,V ugm-3,43,V ugm-3,27,V ugm-3,35,V ugm-3,41,V ugm-3,28,V ugm-3
-2020-09-30,35,V ugm-3,47,V ugm-3,15,V ugm-3,No data,V ugm-3,6,V ugm-3,20,V ugm-3,19,V ugm-3,36,V ugm-3,52,V ugm-3,17,V ugm-3,20,V ugm-3,17,V ugm-3,22,V ugm-3
-2020-10-01,30,N ugm-3,32,N ugm-3,17,N ugm-3,18,N ugm-3,16,N ugm-3,18,N ugm-3,17,N ugm-3,32,N ugm-3,48,N ugm-3,21,N ugm-3,21,N ugm-3,19,N ugm-3,28,N ugm-3
-2020-10-02,32,N ugm-3,27,N ugm-3,18,N ugm-3,32,N ugm-3,16,N ugm-3,21,N ugm-3,22,N ugm-3,21,N ugm-3,40,N ugm-3,25,N ugm-3,26,N ugm-3,29,N ugm-3,29,N ugm-3
-2020-10-03,24,N ugm-3,40,N ugm-3,13,N ugm-3,16,N ugm-3,12,N ugm-3,17,N ugm-3,16,N ugm-3,27,N ugm-3,38,N ugm-3,17,N ugm-3,21,N ugm-3,No data,N ugm-3,21,N ugm-3
-2020-10-04,No data,N ugm-3,25,N ugm-3,8,N ugm-3,10,N ugm-3,8,N ugm-3,10,N ugm-3,14,N ugm-3,20,N ugm-3,32,N ugm-3,15,N ugm-3,16,N ugm-3,No data,N ugm-3,16,N ugm-3
-2020-10-05,No data,N ugm-3,28,N ugm-3,13,N ugm-3,16,N ugm-3,15,N ugm-3,16,N ugm-3,12,N ugm-3,25,N ugm-3,46,N ugm-3,22,N ugm-3,18,N ugm-3,No data,N ugm-3,24,N ugm-3
-2020-10-06,No data,N ugm-3,23,N ugm-3,9,N ugm-3,14,N ugm-3,10,N ugm-3,12,N ugm-3,9,N ugm-3,22,N ugm-3,44,N ugm-3,15,N ugm-3,15,N ugm-3,No data,N ugm-3,17,N ugm-3
-2020-10-07,No data,N ugm-3,32,N ugm-3,18,N ugm-3,20,N ugm-3,15,N ugm-3,17,N ugm-3,17,N ugm-3,28,N ugm-3,43,N ugm-3,21,N ugm-3,21,N ugm-3,No data,N ugm-3,25,N ugm-3
-2020-10-08,No data,N ugm-3,27,N ugm-3,23,N ugm-3,20,N ugm-3,14,N ugm-3,17,N ugm-3,18,N ugm-3,21,N ugm-3,32,N ugm-3,21,N ugm-3,22,N ugm-3,23,N ugm-3,21,N ugm-3
-2020-10-09,No data,N ugm-3,40,N ugm-3,31,N ugm-3,37,N ugm-3,27,N ugm-3,26,N ugm-3,23,N ugm-3,35,N ugm-3,55,N ugm-3,37,N ugm-3,34,N ugm-3,32,N ugm-3,37,N ugm-3
-2020-10-10,No data,N ugm-3,23,N ugm-3,22,N ugm-3,30,N ugm-3,17,N ugm-3,15,N ugm-3,11,N ugm-3,15,N ugm-3,41,N ugm-3,23,N ugm-3,23,N ugm-3,19,N ugm-3,28,N ugm-3
-2020-10-11,No data,N ugm-3,25,N ugm-3,22,N ugm-3,25,N ugm-3,15,N ugm-3,13,N ugm-3,15,N ugm-3,15,N ugm-3,23,N ugm-3,25,N ugm-3,21,N ugm-3,30,N ugm-3,29,N ugm-3
-2020-10-12,No data,N ugm-3,50,N ugm-3,31,N ugm-3,30,N ugm-3,22,N ugm-3,26,N ugm-3,28,N ugm-3,48,N ugm-3,49,N ugm-3,31,N ugm-3,35,N ugm-3,33,N ugm-3,32,N ugm-3
-2020-10-13,No data,N ugm-3,28,N ugm-3,27,N ugm-3,29,N ugm-3,18,N ugm-3,17,N ugm-3,21,N ugm-3,17,N ugm-3,26,N ugm-3,29,N ugm-3,30,N ugm-3,37,N ugm-3,29,N ugm-3
-2020-10-14,No data,N ugm-3,36,N ugm-3,19,N ugm-3,25,N ugm-3,15,N ugm-3,19,N ugm-3,17,N ugm-3,15,N ugm-3,26,N ugm-3,21,N ugm-3,28,N ugm-3,32,N ugm-3,31,N ugm-3
-2020-10-15,No data,N ugm-3,30,N ugm-3,17,N ugm-3,26,N ugm-3,13,N ugm-3,13,N ugm-3,15,N ugm-3,12,N ugm-3,25,N ugm-3,21,N ugm-3,28,N ugm-3,35,N ugm-3,28,N ugm-3
-2020-10-16,No data,N ugm-3,38,N ugm-3,31,N ugm-3,31,N ugm-3,19,N ugm-3,20,N ugm-3,25,N ugm-3,21,N ugm-3,34,N ugm-3,29,N ugm-3,32,N ugm-3,49,N ugm-3,39,N ugm-3
-2020-10-17,No data,N ugm-3,34,N ugm-3,19,N ugm-3,23,N ugm-3,14,N ugm-3,17,N ugm-3,19,N ugm-3,16,N ugm-3,24,N ugm-3,25,N ugm-3,26,N ugm-3,38,N ugm-3,31,N ugm-3
-2020-10-18,No data,N ugm-3,38,N ugm-3,33,N ugm-3,31,N ugm-3,30,N ugm-3,24,N ugm-3,30,N ugm-3,33,N ugm-3,No data,N ugm-3,38,N ugm-3,35,N ugm-3,41,N ugm-3,35,N ugm-3
-2020-10-19,No data,N ugm-3,44,N ugm-3,21,N ugm-3,22,N ugm-3,14,N ugm-3,24,N ugm-3,26,N ugm-3,39,N ugm-3,No data,N ugm-3,26,N ugm-3,24,N ugm-3,19,N ugm-3,26,N ugm-3
-2020-10-20,No data,N ugm-3,37,N ugm-3,12,N ugm-3,13,N ugm-3,9,N ugm-3,18,N ugm-3,22,N ugm-3,29,N ugm-3,No data,N ugm-3,16,N ugm-3,16,N ugm-3,11,N ugm-3,14,N ugm-3
-2020-10-21,38,N ugm-3,40,N ugm-3,19,N ugm-3,21,N ugm-3,15,N ugm-3,25,N ugm-3,24,N ugm-3,35,N ugm-3,51,N ugm-3,28,N ugm-3,29,N ugm-3,30,N ugm-3,27,N ugm-3
-2020-10-22,32,N ugm-3,37,N ugm-3,20,N ugm-3,18,N ugm-3,14,N ugm-3,20,N ugm-3,22,N ugm-3,35,N ugm-3,57,N ugm-3,23,N ugm-3,30,N ugm-3,23,N ugm-3,23,N ugm-3
-2020-10-23,32,N ugm-3,41,N ugm-3,19,N ugm-3,19,N ugm-3,15,N ugm-3,19,N ugm-3,23,N ugm-3,36,N ugm-3,58,N ugm-3,20,N ugm-3,23,N ugm-3,22,N ugm-3,24,N ugm-3
-2020-10-24,20,N ugm-3,31,N ugm-3,8,N ugm-3,12,N ugm-3,6,N ugm-3,12,N ugm-3,14,N ugm-3,22,N ugm-3,43,N ugm-3,11,N ugm-3,13,N ugm-3,9,N ugm-3,14,N ugm-3
-2020-10-25,23,N ugm-3,39,N ugm-3,10,N ugm-3,16,N ugm-3,7,N ugm-3,16,N ugm-3,21,N ugm-3,29,N ugm-3,46,N ugm-3,14,N ugm-3,17,N ugm-3,13,N ugm-3,16,N ugm-3
-2020-10-26,34,N ugm-3,39,N ugm-3,19,N ugm-3,20,N ugm-3,16,N ugm-3,20,N ugm-3,21,N ugm-3,35,N ugm-3,53,N ugm-3,32,N ugm-3,26,N ugm-3,20,N ugm-3,25,N ugm-3
-2020-10-27,32,N ugm-3,39,N ugm-3,19,N ugm-3,21,N ugm-3,12,N ugm-3,21,N ugm-3,21,N ugm-3,33,N ugm-3,52,N ugm-3,21,N ugm-3,24,N ugm-3,17,N ugm-3,24,N ugm-3
-2020-10-28,30,N ugm-3,34,N ugm-3,11,N ugm-3,23,N ugm-3,11,N ugm-3,15,N ugm-3,17,N ugm-3,30,N ugm-3,59,N ugm-3,16,N ugm-3,23,N ugm-3,12,N ugm-3,20,N ugm-3
-2020-10-29,28,N ugm-3,35,N ugm-3,10,N ugm-3,24,N ugm-3,10,N ugm-3,15,N ugm-3,17,N ugm-3,28,N ugm-3,53,N ugm-3,17,N ugm-3,18,N ugm-3,13,N ugm-3,18,N ugm-3
-2020-10-30,28,N ugm-3,34,N ugm-3,9,N ugm-3,21,N ugm-3,8,N ugm-3,13,N ugm-3,16,N ugm-3,25,N ugm-3,47,N ugm-3,14,N ugm-3,18,N ugm-3,10,N ugm-3,15,N ugm-3
-2020-10-31,22,N ugm-3,29,N ugm-3,8,N ugm-3,21,N ugm-3,7,N ugm-3,12,N ugm-3,14,N ugm-3,20,N ugm-3,41,N ugm-3,11,N ugm-3,14,N ugm-3,9,N ugm-3,14,N ugm-3
-2020-11-01,15,N ugm-3,21,N ugm-3,4,N ugm-3,8,N ugm-3,4,N ugm-3,9,N ugm-3,10,N ugm-3,13,N ugm-3,29,N ugm-3,7,N ugm-3,10,N ugm-3,5,N ugm-3,9,N ugm-3
-2020-11-02,12,N ugm-3,20,N ugm-3,7,N ugm-3,10,N ugm-3,8,N ugm-3,8,N ugm-3,7,N ugm-3,19,N ugm-3,40,N ugm-3,10,N ugm-3,11,N ugm-3,8,N ugm-3,15,N ugm-3
-2020-11-03,30,N ugm-3,41,N ugm-3,23,N ugm-3,35,N ugm-3,20,N ugm-3,24,N ugm-3,15,N ugm-3,38,N ugm-3,59,N ugm-3,29,N ugm-3,26,N ugm-3,25,N ugm-3,28,N ugm-3
-2020-11-04,65,N ugm-3,56,N ugm-3,51,N ugm-3,56,N ugm-3,37,N ugm-3,42,N ugm-3,41,N ugm-3,47,N ugm-3,63,N ugm-3,54,N ugm-3,53,N ugm-3,59,N ugm-3,53,N ugm-3
-2020-11-05,62,N ugm-3,71,N ugm-3,56,N ugm-3,64,N ugm-3,35,N ugm-3,50,N ugm-3,51,N ugm-3,48,N ugm-3,73,N ugm-3,63,N ugm-3,63,N ugm-3,61,N ugm-3,53,N ugm-3
-2020-11-06,54,N ugm-3,61,N ugm-3,49,N ugm-3,59,N ugm-3,39,N ugm-3,47,N ugm-3,51,N ugm-3,46,N ugm-3,64,N ugm-3,58,N ugm-3,56,N ugm-3,62,N ugm-3,49,N ugm-3
-2020-11-07,42,N ugm-3,49,N ugm-3,39,N ugm-3,48,N ugm-3,29,N ugm-3,37,N ugm-3,44,N ugm-3,40,N ugm-3,49,N ugm-3,48,N ugm-3,46,N ugm-3,50,N ugm-3,38,N ugm-3
-2020-11-08,31,N ugm-3,42,N ugm-3,26,N ugm-3,33,N ugm-3,22,N ugm-3,30,N ugm-3,33,N ugm-3,32,N ugm-3,39,N ugm-3,34,N ugm-3,36,N ugm-3,36,N ugm-3,27,N ugm-3
-2020-11-09,41,N ugm-3,54,N ugm-3,32,N ugm-3,30,N ugm-3,17,N ugm-3,33,N ugm-3,32,N ugm-3,38,N ugm-3,48,N ugm-3,35,N ugm-3,35,N ugm-3,39,N ugm-3,29,N ugm-3
-2020-11-10,41,N ugm-3,57,N ugm-3,30,N ugm-3,31,N ugm-3,17,N ugm-3,33,N ugm-3,36,N ugm-3,45,N ugm-3,58,N ugm-3,29,N ugm-3,30,N ugm-3,30,N ugm-3,31,N ugm-3
-2020-11-11,28,N ugm-3,43,N ugm-3,15,N ugm-3,20,N ugm-3,10,N ugm-3,23,N ugm-3,24,N ugm-3,29,N ugm-3,44,N ugm-3,20,N ugm-3,19,N ugm-3,17,N ugm-3,20,N ugm-3
-2020-11-12,23,N ugm-3,38,N ugm-3,14,N ugm-3,No data,N ugm-3,11,N ugm-3,16,N ugm-3,16,N ugm-3,28,N ugm-3,50,N ugm-3,16,N ugm-3,18,N ugm-3,15,N ugm-3,23,N ugm-3
-2020-11-13,33,N ugm-3,52,N ugm-3,26,N ugm-3,24,N ugm-3,18,N ugm-3,25,N ugm-3,28,N ugm-3,38,N ugm-3,60,N ugm-3,23,N ugm-3,30,N ugm-3,28,N ugm-3,27,N ugm-3
-2020-11-14,16,N ugm-3,34,N ugm-3,9,N ugm-3,12,N ugm-3,6,N ugm-3,16,N ugm-3,18,N ugm-3,21,N ugm-3,35,N ugm-3,12,N ugm-3,13,N ugm-3,11,N ugm-3,15,N ugm-3
-2020-11-15,11,N ugm-3,22,N ugm-3,5,N ugm-3,6,N ugm-3,5,N ugm-3,9,N ugm-3,9,N ugm-3,13,N ugm-3,28,N ugm-3,8,N ugm-3,12,N ugm-3,7,N ugm-3,11,N ugm-3
-2020-11-16,20,N ugm-3,30,N ugm-3,11,N ugm-3,16,N ugm-3,11,N ugm-3,14,N ugm-3,13,N ugm-3,24,N ugm-3,39,N ugm-3,14,N ugm-3,17,N ugm-3,15,N ugm-3,22,N ugm-3
-2020-11-17,22,N ugm-3,32,N ugm-3,7,N ugm-3,10,N ugm-3,8,N ugm-3,12,N ugm-3,14,N ugm-3,24,N ugm-3,33,N ugm-3,13,N ugm-3,19,N ugm-3,10,N ugm-3,13,N ugm-3
-2020-11-18,17,N ugm-3,30,N ugm-3,10,N ugm-3,15,N ugm-3,8,N ugm-3,13,N ugm-3,13,N ugm-3,20,N ugm-3,36,N ugm-3,12,N ugm-3,16,N ugm-3,11,N ugm-3,14,N ugm-3
-2020-11-19,38,N ugm-3,35,N ugm-3,25,N ugm-3,40,N ugm-3,19,N ugm-3,23,N ugm-3,23,N ugm-3,22,N ugm-3,38,N ugm-3,27,N ugm-3,27,N ugm-3,33,N ugm-3,27,N ugm-3
-2020-11-20,41,N ugm-3,64,N ugm-3,30,N ugm-3,37,N ugm-3,19,N ugm-3,32,N ugm-3,33,N ugm-3,45,N ugm-3,62,N ugm-3,28,N ugm-3,41,N ugm-3,37,N ugm-3,33,N ugm-3
-2020-11-21,14,N ugm-3,29,N ugm-3,7,N ugm-3,No data,N ugm-3,9,N ugm-3,No data,N ugm-3,14,N ugm-3,17,N ugm-3,34,N ugm-3,5,N ugm-3,12,N ugm-3,12,N ugm-3,17,N ugm-3
-2020-11-22,28,N ugm-3,40,N ugm-3,28,N ugm-3,68,N ugm-3,22,N ugm-3,24,N ugm-3,22,N ugm-3,25,N ugm-3,42,N ugm-3,27,N ugm-3,26,N ugm-3,29,N ugm-3,29,N ugm-3
-2020-11-23,48,N ugm-3,68,N ugm-3,38,N ugm-3,54,N ugm-3,26,N ugm-3,38,N ugm-3,36,N ugm-3,46,N ugm-3,60,N ugm-3,38,N ugm-3,48,N ugm-3,45,N ugm-3,40,N ugm-3
-2020-11-24,27,N ugm-3,48,N ugm-3,15,N ugm-3,26,N ugm-3,9,N ugm-3,23,N ugm-3,23,N ugm-3,34,N ugm-3,44,N ugm-3,14,N ugm-3,23,N ugm-3,17,N ugm-3,19,N ugm-3
-2020-11-25,36,N ugm-3,46,N ugm-3,23,N ugm-3,No data,N ugm-3,15,N ugm-3,28,N ugm-3,30,N ugm-3,31,N ugm-3,44,N ugm-3,22,N ugm-3,25,N ugm-3,29,N ugm-3,26,N ugm-3
-2020-11-26,55,N ugm-3,59,N ugm-3,43,N ugm-3,46,N ugm-3,32,N ugm-3,37,N ugm-3,44,N ugm-3,43,N ugm-3,52,N ugm-3,40,N ugm-3,48,N ugm-3,61,N ugm-3,45,N ugm-3
-2020-11-27,49,N ugm-3,59,N ugm-3,43,N ugm-3,52,N ugm-3,33,N ugm-3,44,N ugm-3,46,N ugm-3,45,N ugm-3,53,N ugm-3,48,N ugm-3,54,N ugm-3,59,N ugm-3,41,N ugm-3
-2020-11-28,45,N ugm-3,56,N ugm-3,41,N ugm-3,52,N ugm-3,37,N ugm-3,44,N ugm-3,48,N ugm-3,45,N ugm-3,60,N ugm-3,45,N ugm-3,48,N ugm-3,50,N ugm-3,38,N ugm-3
-2020-11-29,37,N ugm-3,50,N ugm-3,31,N ugm-3,44,N ugm-3,29,N ugm-3,37,N ugm-3,41,N ugm-3,37,N ugm-3,No data,N ugm-3,36,N ugm-3,44,N ugm-3,46,N ugm-3,39,N ugm-3
-2020-11-30,25,N ugm-3,37,N ugm-3,28,N ugm-3,36,N ugm-3,24,N ugm-3,No data,N ugm-3,21,N ugm-3,27,N ugm-3,44,N ugm-3,21,N ugm-3,29,N ugm-3,29,N ugm-3,33,N ugm-3
-2020-12-01,52,N ugm-3,39,N ugm-3,27,N ugm-3,33,N ugm-3,20,N ugm-3,22,N ugm-3,35,N ugm-3,30,N ugm-3,32,N ugm-3,26,N ugm-3,30,N ugm-3,44,N ugm-3,40,N ugm-3
-2020-12-02,47,N ugm-3,69,N ugm-3,48,N ugm-3,53,N ugm-3,37,N ugm-3,44,N ugm-3,40,N ugm-3,48,N ugm-3,68,N ugm-3,41,N ugm-3,48,N ugm-3,47,N ugm-3,44,N ugm-3
-2020-12-03,46,N ugm-3,66,N ugm-3,39,N ugm-3,35,N ugm-3,25,N ugm-3,36,N ugm-3,40,N ugm-3,56,N ugm-3,72,N ugm-3,33,N ugm-3,42,N ugm-3,38,N ugm-3,35,N ugm-3
-2020-12-04,32,N ugm-3,47,N ugm-3,32,N ugm-3,34,N ugm-3,23,N ugm-3,27,N ugm-3,30,N ugm-3,40,N ugm-3,64,N ugm-3,24,N ugm-3,33,N ugm-3,32,N ugm-3,31,N ugm-3
-2020-12-05,38,N ugm-3,53,N ugm-3,31,N ugm-3,29,N ugm-3,23,N ugm-3,28,N ugm-3,26,N ugm-3,33,N ugm-3,55,N ugm-3,23,N ugm-3,32,N ugm-3,38,N ugm-3,34,N ugm-3
-2020-12-06,37,N ugm-3,44,N ugm-3,34,N ugm-3,33,N ugm-3,24,N ugm-3,21,N ugm-3,27,N ugm-3,24,N ugm-3,33,N ugm-3,24,N ugm-3,38,N ugm-3,42,N ugm-3,31,N ugm-3
-2020-12-07,48,N ugm-3,53,N ugm-3,46,N ugm-3,43,N ugm-3,36,N ugm-3,30,N ugm-3,38,N ugm-3,34,N ugm-3,47,N ugm-3,38,N ugm-3,53,N ugm-3,55,N ugm-3,37,N ugm-3
-2020-12-08,47,N ugm-3,73,N ugm-3,49,N ugm-3,48,N ugm-3,36,N ugm-3,39,N ugm-3,41,N ugm-3,46,N ugm-3,75,N ugm-3,39,N ugm-3,53,N ugm-3,52,N ugm-3,40,N ugm-3
-2020-12-09,45,N ugm-3,73,N ugm-3,38,N ugm-3,38,N ugm-3,30,N ugm-3,38,N ugm-3,30,N ugm-3,41,N ugm-3,69,N ugm-3,35,N ugm-3,41,N ugm-3,39,N ugm-3,35,N ugm-3
-2020-12-10,39,N ugm-3,52,N ugm-3,26,N ugm-3,25,N ugm-3,16,N ugm-3,29,N ugm-3,19,N ugm-3,41,N ugm-3,57,N ugm-3,23,N ugm-3,29,N ugm-3,30,N ugm-3,31,N ugm-3
-2020-12-11,48,N ugm-3,68,N ugm-3,43,N ugm-3,41,N ugm-3,31,N ugm-3,37,N ugm-3,38,N ugm-3,53,N ugm-3,79,N ugm-3,35,N ugm-3,46,N ugm-3,45,N ugm-3,36,N ugm-3
-2020-12-12,27,N ugm-3,40,N ugm-3,32,N ugm-3,60,N ugm-3,25,N ugm-3,22,N ugm-3,18,N ugm-3,23,N ugm-3,51,N ugm-3,24,N ugm-3,33,N ugm-3,33,N ugm-3,34,N ugm-3
-2020-12-13,27,N ugm-3,53,N ugm-3,19,N ugm-3,21,N ugm-3,11,N ugm-3,23,N ugm-3,24,N ugm-3,34,N ugm-3,50,N ugm-3,16,N ugm-3,22,N ugm-3,21,N ugm-3,20,N ugm-3
-2020-12-14,24,N ugm-3,55,N ugm-3,15,N ugm-3,18,N ugm-3,9,N ugm-3,19,N ugm-3,23,N ugm-3,35,N ugm-3,64,N ugm-3,13,N ugm-3,24,N ugm-3,17,N ugm-3,20,N ugm-3
-2020-12-15,37,N ugm-3,70,N ugm-3,30,N ugm-3,27,N ugm-3,13,N ugm-3,25,N ugm-3,35,N ugm-3,47,N ugm-3,78,N ugm-3,20,N ugm-3,32,N ugm-3,27,N ugm-3,25,N ugm-3
-2020-12-16,38,N ugm-3,61,N ugm-3,22,N ugm-3,32,N ugm-3,13,N ugm-3,24,N ugm-3,36,N ugm-3,42,N ugm-3,65,N ugm-3,25,N ugm-3,26,N ugm-3,20,N ugm-3,27,N ugm-3
-2020-12-17,27,N ugm-3,54,N ugm-3,21,N ugm-3,26,N ugm-3,12,N ugm-3,18,N ugm-3,30,N ugm-3,43,N ugm-3,61,N ugm-3,21,N ugm-3,30,N ugm-3,19,N ugm-3,21,N ugm-3
-2020-12-18,17,N ugm-3,38,N ugm-3,12,N ugm-3,18,N ugm-3,6,N ugm-3,14,N ugm-3,16,N ugm-3,20,N ugm-3,No data,N ugm-3,11,N ugm-3,13,N ugm-3,10,N ugm-3,16,N ugm-3
-2020-12-19,18,N ugm-3,40,N ugm-3,11,N ugm-3,19,N ugm-3,7,N ugm-3,13,N ugm-3,19,N ugm-3,28,N ugm-3,No data,N ugm-3,12,N ugm-3,14,N ugm-3,12,N ugm-3,16,N ugm-3
-2020-12-20,18,N ugm-3,47,N ugm-3,14,N ugm-3,21,N ugm-3,8,N ugm-3,13,N ugm-3,25,N ugm-3,32,N ugm-3,No data,N ugm-3,14,N ugm-3,21,N ugm-3,14,N ugm-3,16,N ugm-3
-2020-12-21,24,N ugm-3,39,N ugm-3,13,N ugm-3,21,N ugm-3,8,N ugm-3,15,N ugm-3,22,N ugm-3,27,N ugm-3,No data,N ugm-3,15,N ugm-3,20,N ugm-3,13,N ugm-3,19,N ugm-3
-2020-12-22,34,N ugm-3,29,N ugm-3,31,N ugm-3,44,N ugm-3,23,N ugm-3,25,N ugm-3,29,N ugm-3,30,N ugm-3,No data,N ugm-3,30,N ugm-3,31,N ugm-3,35,N ugm-3,28,N ugm-3
-2020-12-23,27,N ugm-3,40,N ugm-3,19,N ugm-3,22,N ugm-3,11,N ugm-3,19,N ugm-3,23,N ugm-3,35,N ugm-3,No data,N ugm-3,17,N ugm-3,24,N ugm-3,22,N ugm-3,25,N ugm-3
-2020-12-24,25,N ugm-3,20,N ugm-3,14,N ugm-3,20,N ugm-3,8,N ugm-3,7,N ugm-3,8,N ugm-3,8,N ugm-3,11,N ugm-3,11,N ugm-3,13,N ugm-3,30,N ugm-3,21,N ugm-3
-2020-12-25,18,N ugm-3,34,N ugm-3,18,N ugm-3,29,N ugm-3,15,N ugm-3,14,N ugm-3,11,N ugm-3,16,N ugm-3,27,N ugm-3,21,N ugm-3,21,N ugm-3,23,N ugm-3,26,N ugm-3
-2020-12-26,11,N ugm-3,26,N ugm-3,8,N ugm-3,13,N ugm-3,7,N ugm-3,9,N ugm-3,12,N ugm-3,13,N ugm-3,28,N ugm-3,10,N ugm-3,13,N ugm-3,11,N ugm-3,11,N ugm-3
-2020-12-27,18,N ugm-3,24,N ugm-3,19,N ugm-3,24,N ugm-3,11,N ugm-3,14,N ugm-3,19,N ugm-3,24,N ugm-3,33,N ugm-3,16,N ugm-3,21,N ugm-3,18,N ugm-3,17,N ugm-3
-2020-12-28,34,N ugm-3,38,N ugm-3,28,N ugm-3,34,N ugm-3,18,N ugm-3,25,N ugm-3,31,N ugm-3,33,N ugm-3,35,N ugm-3,31,N ugm-3,33,N ugm-3,39,N ugm-3,28,N ugm-3
-2020-12-29,32,N ugm-3,24,N ugm-3,26,N ugm-3,37,N ugm-3,19,N ugm-3,14,N ugm-3,19,N ugm-3,14,N ugm-3,31,N ugm-3,21,N ugm-3,25,N ugm-3,33,N ugm-3,28,N ugm-3
-2020-12-30,39,N ugm-3,51,N ugm-3,40,N ugm-3,58,N ugm-3,32,N ugm-3,29,N ugm-3,29,N ugm-3,37,N ugm-3,59,N ugm-3,42,N ugm-3,41,N ugm-3,43,N ugm-3,38,N ugm-3
-2020-12-31,35,N ugm-3,42,N ugm-3,36,N ugm-3,38,N ugm-3,29,N ugm-3,21,N ugm-3,21,N ugm-3,21,N ugm-3,37,N ugm-3,29,N ugm-3,35,N ugm-3,45,N ugm-3,33,N ugm-3
-2021-01-01,23,N ugm-3,35,N ugm-3,30,N ugm-3,48,N ugm-3,No data,N ugm-3,21,N ugm-3,18,N ugm-3,20,N ugm-3,29,N ugm-3,24,N ugm-3,31,N ugm-3,24,N ugm-3,26,N ugm-3
-2021-01-02,33,N ugm-3,33,N ugm-3,26,N ugm-3,29,N ugm-3,No data,N ugm-3,17,N ugm-3,18,N ugm-3,17,N ugm-3,24,N ugm-3,22,N ugm-3,25,N ugm-3,28,N ugm-3,24,N ugm-3
-2021-01-03,17,N ugm-3,25,N ugm-3,16,N ugm-3,23,N ugm-3,11,N ugm-3,12,N ugm-3,11,N ugm-3,11,N ugm-3,17,N ugm-3,15,N ugm-3,22,N ugm-3,17,N ugm-3,19,N ugm-3
-2021-01-04,16,N ugm-3,29,N ugm-3,14,N ugm-3,19,N ugm-3,9,N ugm-3,11,N ugm-3,10,N ugm-3,10,N ugm-3,13,N ugm-3,11,N ugm-3,19,N ugm-3,22,N ugm-3,17,N ugm-3
-2021-01-05,25,N ugm-3,35,N ugm-3,18,N ugm-3,22,N ugm-3,9,N ugm-3,11,N ugm-3,10,N ugm-3,10,N ugm-3,16,N ugm-3,12,N ugm-3,21,N ugm-3,23,N ugm-3,19,N ugm-3
-2021-01-06,31,N ugm-3,No data,N ugm-3,23,N ugm-3,29,N ugm-3,13,N ugm-3,No data,N ugm-3,17,N ugm-3,18,N ugm-3,22,N ugm-3,21,N ugm-3,27,N ugm-3,27,N ugm-3,22,N ugm-3
-2021-01-07,35,N ugm-3,No data,N ugm-3,42,N ugm-3,52,N ugm-3,No data,N ugm-3,No data,N ugm-3,25,N ugm-3,28,N ugm-3,No data,N ugm-3,No data,N ugm-3,43,N ugm-3,No data,N ugm-3,No data,N ugm-3
-2021-01-08,44,N ugm-3,No data,N ugm-3,37,N ugm-3,42,N ugm-3,No data,N ugm-3,No data,N ugm-3,31,N ugm-3,34,N ugm-3,43,N ugm-3,37,N ugm-3,46,N ugm-3,41,N ugm-3,34,N ugm-3
-2021-01-09,42,N ugm-3,No data,N ugm-3,42,N ugm-3,45,N ugm-3,No data,N ugm-3,No data,N ugm-3,25,N ugm-3,30,N ugm-3,42,N ugm-3,37,N ugm-3,47,N ugm-3,43,N ugm-3,38,N ugm-3
-2021-01-10,26,N ugm-3,No data,N ugm-3,34,N ugm-3,41,N ugm-3,No data,N ugm-3,No data,N ugm-3,18,N ugm-3,27,N ugm-3,42,N ugm-3,28,N ugm-3,34,N ugm-3,26,N ugm-3,32,N ugm-3
-2021-01-11,21,N ugm-3,No data,N ugm-3,16,N ugm-3,25,N ugm-3,No data,N ugm-3,No data,N ugm-3,11,N ugm-3,29,N ugm-3,49,N ugm-3,19,N ugm-3,19,N ugm-3,13,N ugm-3,30,N ugm-3
-2021-01-12,46,N ugm-3,No data,N ugm-3,33,N ugm-3,41,N ugm-3,No data,N ugm-3,No data,N ugm-3,24,N ugm-3,26,N ugm-3,37,N ugm-3,30,N ugm-3,32,N ugm-3,46,N ugm-3,33,N ugm-3
-2021-01-13,39,N ugm-3,56,N ugm-3,49,N ugm-3,47,N ugm-3,No data,N ugm-3,46,N ugm-3,29,N ugm-3,44,N ugm-3,61,N ugm-3,36,N ugm-3,43,N ugm-3,42,N ugm-3,39,N ugm-3
-2021-01-14,38,N ugm-3,36,N ugm-3,27,N ugm-3,43,N ugm-3,No data,N ugm-3,29,N ugm-3,24,N ugm-3,30,N ugm-3,45,N ugm-3,26,N ugm-3,37,N ugm-3,42,N ugm-3,38,N ugm-3
-2021-01-15,47,N ugm-3,45,N ugm-3,40,N ugm-3,49,N ugm-3,No data,N ugm-3,34,N ugm-3,30,N ugm-3,38,N ugm-3,44,N ugm-3,34,N ugm-3,46,N ugm-3,49,N ugm-3,38,N ugm-3
-2021-01-16,28,N ugm-3,37,N ugm-3,24,N ugm-3,50,N ugm-3,No data,N ugm-3,29,N ugm-3,19,N ugm-3,23,N ugm-3,45,N ugm-3,21,N ugm-3,32,N ugm-3,27,N ugm-3,29,N ugm-3
-2021-01-17,24,N ugm-3,25,N ugm-3,19,N ugm-3,55,N ugm-3,No data,N ugm-3,20,N ugm-3,16,N ugm-3,22,N ugm-3,37,N ugm-3,20,N ugm-3,24,N ugm-3,26,N ugm-3,32,N ugm-3
-2021-01-18,35,N ugm-3,44,N ugm-3,21,N ugm-3,32,N ugm-3,No data,N ugm-3,28,N ugm-3,23,N ugm-3,44,N ugm-3,53,N ugm-3,25,N ugm-3,31,N ugm-3,24,N ugm-3,23,N ugm-3
-2021-01-19,14,N ugm-3,21,N ugm-3,9,N ugm-3,18,N ugm-3,7,N ugm-3,8,N ugm-3,7,N ugm-3,19,N ugm-3,37,N ugm-3,8,N ugm-3,18,N ugm-3,No data,N ugm-3,13,N ugm-3
-2021-01-20,13,N ugm-3,24,N ugm-3,9,N ugm-3,No data,N ugm-3,6,N ugm-3,10,N ugm-3,9,N ugm-3,17,N ugm-3,33,N ugm-3,7,N ugm-3,13,N ugm-3,7,N ugm-3,10,N ugm-3
-2021-01-21,24,N ugm-3,No data,N ugm-3,17,N ugm-3,No data,N ugm-3,14,N ugm-3,20,N ugm-3,14,N ugm-3,31,N ugm-3,48,N ugm-3,17,N ugm-3,23,N ugm-3,17,N ugm-3,20,N ugm-3
-2021-01-22,42,N ugm-3,No data,N ugm-3,27,N ugm-3,32,N ugm-3,No data,N ugm-3,32,N ugm-3,25,N ugm-3,41,N ugm-3,59,N ugm-3,30,N ugm-3,29,N ugm-3,28,N ugm-3,31,N ugm-3
-2021-01-23,35,N ugm-3,35,N ugm-3,No data,N ugm-3,44,N ugm-3,No data,N ugm-3,27,N ugm-3,24,N ugm-3,31,N ugm-3,46,N ugm-3,33,N ugm-3,32,N ugm-3,38,N ugm-3,32,N ugm-3
-2021-01-24,44,N ugm-3,49,N ugm-3,No data,N ugm-3,45,N ugm-3,No data,N ugm-3,39,N ugm-3,27,N ugm-3,35,N ugm-3,50,N ugm-3,37,N ugm-3,41,N ugm-3,44,N ugm-3,38,N ugm-3
-2021-01-25,33,N ugm-3,32,N ugm-3,No data,N ugm-3,58,N ugm-3,No data,N ugm-3,24,N ugm-3,23,N ugm-3,26,N ugm-3,48,N ugm-3,34,N ugm-3,39,N ugm-3,39,N ugm-3,41,N ugm-3
-
-
-
-End
+Date,Camden Kerbside,Haringey Roadside,London Bexley,London Bloomsbury,London Eltham,London Haringey Priory Park South,London Harlington,London Hillingdon,London Marylebone Road,London N. Kensington,London Westminster,Southwark A2 Old Kent Road,Tower Hamlets Roadside
+01/01/2019,33,19,14,37,12,11,17,No data,41,21,33,31,47
+02/01/2019,67,33,22,43,20,18,33,No data,43,32,38,62,64
+03/01/2019,73,45,38,44,28,27,36,31,51,34,39,75,76
+04/01/2019,60,43,49,50,42,34,50,45,55,42,50,72,72
+05/01/2019,56,34,28,52,23,29,38,36,51,42,51,54,63
+06/01/2019,50,35,43,55,35,30,39,38,59,40,51,50,64
+07/01/2019,34,31,26,47,23,21,25,51,76,35,40,29,54
+08/01/2019,58,25,24,45,22,21,31,24,38,31,44,54,59
+09/01/2019,69,33,28,48,21,24,31,29,41,36,42,62,60
+10/01/2019,63,48,58,61,48,43,53,53,65,56,59,62,71
+11/01/2019,67,40,46,54,38,34,46,44,57,48,57,64,73
+12/01/2019,31,24,20,42,19,17,17,31,64,25,38,25,57
+13/01/2019,16,13,10,29,11,8,13,16,42,13,24,19,42
+14/01/2019,45,29,33,47,27,24,34,28,48,32,43,52,61
+15/01/2019,51,45,25,36,24,32,41,68,86,40,35,31,48
+16/01/2019,44,36,22,31,17,23,35,59,79,28,31,26,39
+17/01/2019,63,34,32,51,26,27,43,42,54,39,48,63,72
+18/01/2019,79,62,52,53,34,44,51,85,84,51,52,46,57
+19/01/2019,56,44,26,38,21,31,22,63,62,36,37,48,37
+20/01/2019,65,46,46,51,35,39,52,51,56,49,50,73,71
+21/01/2019,67,56,52,48,42,44,59,79,83,55,60,54,73
+22/01/2019,58,46,39,48,36,40,48,74,79,45,47,46,69
+23/01/2019,80,41,33,53,29,36,53,49,56,46,49,80,70
+24/01/2019,82,62,67,69,54,61,67,83,94,68,73,77,74
+25/01/2019,51,46,45,55,40,37,42,53,84,49,60,54,58
+26/01/2019,36,28,9,24,11,15,28,45,75,20,23,14,40
+27/01/2019,20,10,8,26,10,7,9,9,33,12,19,25,33
+28/01/2019,59,34,35,No data,31,31,41,41,52,37,47,66,59
+29/01/2019,72,59,40,No data,28,47,61,89,91,50,52,48,51
+30/01/2019,63,47,No data,59,48,41,53,56,76,59,58,60,67
+31/01/2019,97,56,No data,63,41,50,58,79,90,60,66,67,64
+01/02/2019,50,32,23,42,22,22,29,30,41,30,45,56,59
+02/02/2019,55,21,17,38,15,14,25,21,32,23,32,52,50
+03/02/2019,48,42,25,37,24,31,42,65,72,42,36,38,45
+04/02/2019,50,43,23,33,18,31,42,66,74,33,38,31,34
+05/02/2019,54,55,26,35,17,39,46,68,74,33,39,32,35
+06/02/2019,58,47,27,34,18,33,No data,76,85,35,40,31,35
+07/02/2019,30,26,11,22,10,16,No data,50,81,20,22,15,31
+08/02/2019,28,24,9,18,4,12,No data,45,89,14,17,10,19
+09/02/2019,21,21,7,15,5,9,22,42,80,13,13,9,18
+10/02/2019,30,24,17,35,12,14,24,37,68,21,24,24,29
+11/02/2019,72,48,44,42,28,33,48,55,64,43,46,64,55
+12/02/2019,55,57,35,38,24,36,53,85,94,45,43,No data,44
+13/02/2019,49,59,31,33,18,31,48,79,85,34,37,No data,32
+14/02/2019,91,76,54,53,35,57,65,89,92,62,62,81,66
+15/02/2019,77,80,55,57,30,56,69,95,97,58,65,69,64
+16/02/2019,51,59,37,41,20,34,58,80,84,43,44,38,35
+17/02/2019,43,45,26,31,14,28,48,75,74,27,34,39,32
+18/02/2019,44,50,28,33,18,27,49,83,83,30,35,32,32
+19/02/2019,46,44,21,29,15,26,41,80,88,30,27,29,37
+20/02/2019,38,37,20,24,11,17,37,No data,79,24,No data,24,25
+21/02/2019,44,48,27,29,19,27,41,No data,89,30,No data,31,33
+22/02/2019,75,60,44,57,35,49,48,No data,93,51,51,63,47
+23/02/2019,68,58,43,46,34,44,54,No data,80,50,48,56,45
+24/02/2019,72,60,55,64,50,48,67,No data,79,68,71,79,60
+25/02/2019,96,78,70,81,69,65,86,No data,102,86,99,105,81
+26/02/2019,103,85,85,90,76,73,93,No data,110,92,111,114,92
+27/02/2019,93,85,71,75,56,69,91,No data,119,83,98,87,86
+28/02/2019,47,46,38,50,29,31,43,No data,98,40,47,42,52
+01/03/2019,49,42,42,45,27,27,44,No data,73,35,44,49,55
+02/03/2019,29,29,17,20,9,16,26,No data,72,18,23,16,28
+03/03/2019,19,18,9,10,6,9,26,No data,60,11,12,10,18
+04/03/2019,26,24,17,25,13,15,18,49,84,No data,25,19,35
+05/03/2019,38,39,19,21,11,20,33,60,No data,No data,21,20,25
+06/03/2019,31,33,13,19,8,17,29,47,No data,15,19,16,17
+07/03/2019,21,21,10,25,10,11,12,30,87,14,20,16,29
+08/03/2019,44,40,20,31,15,21,30,54,91,27,27,25,36
+09/03/2019,25,26,11,24,No data,12,20,39,73,16,20,17,30
+10/03/2019,25,21,10,27,No data,11,13,30,57,17,17,22,32
+11/03/2019,27,23,16,36,No data,12,20,No data,60,17,24,26,32
+12/03/2019,26,25,12,24,No data,15,20,No data,71,16,21,19,28
+13/03/2019,18,14,11,32,10,9,10,No data,60,14,24,22,31
+14/03/2019,25,20,12,32,11,12,17,No data,65,17,25,24,34
+15/03/2019,18,18,8,23,8,9,12,No data,72,12,21,15,28
+16/03/2019,16,15,4,9,4,6,17,No data,60,8,10,9,17
+17/03/2019,19,18,12,36,9,9,12,No data,62,14,18,21,32
+18/03/2019,50,35,38,54,29,28,36,No data,75,37,41,46,56
+19/03/2019,52,54,30,35,21,36,40,No data,85,33,35,34,41
+20/03/2019,40,42,21,32,16,23,26,No data,No data,24,28,24,39
+21/03/2019,44,38,27,35,22,23,27,No data,No data,28,39,33,42
+22/03/2019,41,43,24,23,16,22,33,No data,84,23,29,25,30
+23/03/2019,53,38,29,44,19,22,29,No data,54,30,38,51,45
+24/03/2019,41,32,27,42,18,21,35,No data,51,30,39,49,47
+25/03/2019,61,32,23,38,13,16,30,No data,43,23,30,57,46
+26/03/2019,77,59,49,58,38,41,49,50,75,53,58,73,70
+27/03/2019,71,55,46,47,35,31,49,51,64,44,51,79,68
+28/03/2019,84,68,46,46,29,41,58,78,91,48,54,74,57
+29/03/2019,76,76,51,52,31,43,57,89,108,46,57,66,52
+30/03/2019,74,51,47,58,30,36,49,51,73,48,64,64,61
+31/03/2019,26,17,14,24,9,13,17,22,36,16,22,32,30
+01/04/2019,54,34,25,37,16,22,32,49,61,29,No data,51,36
+02/04/2019,54,44,35,46,23,33,42,55,97,38,No data,44,44
+03/04/2019,67,44,41,46,25,31,42,58,80,38,No data,54,52
+04/04/2019,59,39,22,29,7,25,26,67,75,24,No data,25,24
+05/04/2019,55,31,22,36,12,19,24,59,74,26,No data,39,29
+06/04/2019,29,24,13,28,9,15,25,27,31,21,No data,42,35
+07/04/2019,38,24,14,30,10,13,18,17,27,20,No data,43,No data
+08/04/2019,57,43,43,48,32,29,38,34,55,39,No data,60,49
+09/04/2019,39,34,22,37,17,21,34,29,36,30,No data,53,53
+10/04/2019,30,23,12,26,7,12,18,19,27,15,No data,42,42
+11/04/2019,47,38,20,34,12,18,26,35,51,22,No data,50,38
+12/04/2019,49,41,20,36,13,21,31,39,53,25,No data,57,44
+13/04/2019,43,32,19,29,11,17,26,36,47,24,No data,46,38
+14/04/2019,44,38,14,29,11,20,22,42,56,24,No data,38,33
+15/04/2019,54,41,32,47,20,29,32,62,71,38,No data,52,39
+16/04/2019,69,59,49,59,43,42,51,52,67,58,No data,77,60
+17/04/2019,65,46,45,54,35,30,41,64,63,49,No data,68,49
+18/04/2019,55,53,49,51,38,33,44,60,64,42,No data,67,50
+19/04/2019,49,56,42,45,28,26,38,56,54,36,No data,65,54
+20/04/2019,50,50,34,39,22,20,35,49,51,29,No data,57,46
+21/04/2019,49,53,42,43,29,23,36,45,59,33,No data,61,47
+22/04/2019,69,57,46,60,38,35,46,73,68,48,No data,75,58
+23/04/2019,61,55,57,59,45,40,61,62,72,50,No data,80,62
+24/04/2019,61,45,30,39,20,30,39,73,80,37,No data,41,41
+25/04/2019,36,38,14,19,8,15,27,59,71,15,No data,14,16
+26/04/2019,31,42,15,19,7,15,31,57,71,15,No data,17,17
+27/04/2019,14,14,5,27,5,6,8,20,52,9,No data,13,19
+28/04/2019,34,24,9,30,7,13,15,12,27,15,No data,33,31
+29/04/2019,55,53,27,39,18,24,32,43,54,30,No data,59,42
+30/04/2019,78,54,30,46,23,31,34,62,77,41,No data,57,43
+01/05/2019,50,53,30,45,24,29,35,53,74,27,No data,39,49
+02/05/2019,54,29,26,42,19,17,26,23,47,23,No data,50,41
+03/05/2019,53,43,24,38,18,20,26,31,56,26,No data,46,50
+04/05/2019,41,23,9,25,4,9,12,9,24,14,No data,35,28
+05/05/2019,43,35,14,22,7,15,22,27,35,15,No data,40,35
+06/05/2019,25,31,15,37,12,13,18,31,49,16,No data,27,32
+07/05/2019,50,60,19,23,9,20,25,75,86,19,No data,22,23
+08/05/2019,No data,47,16,28,9,22,33,67,No data,24,No data,28,30
+09/05/2019,No data,34,24,37,17,20,32,41,No data,33,No data,47,43
+10/05/2019,No data,45,21,21,12,22,33,66,89,24,No data,30,36
+11/05/2019,52,40,23,31,16,17,25,22,52,22,No data,54,39
+12/05/2019,42,42,18,29,14,14,19,34,64,23,No data,44,32
+13/05/2019,49,49,20,37,13,19,31,46,73,24,No data,58,33
+14/05/2019,43,40,18,40,13,16,24,34,68,20,No data,52,30
+15/05/2019,60,47,23,44,15,20,30,55,80,28,No data,58,35
+16/05/2019,43,38,17,36,11,16,24,25,53,21,No data,51,36
+17/05/2019,42,37,19,29,12,16,21,18,39,20,No data,56,35
+18/05/2019,53,40,23,36,16,21,31,28,59,29,No data,52,44
+19/05/2019,44,34,30,31,18,18,26,26,46,27,No data,58,43
+20/05/2019,62,37,30,34,18,18,29,22,47,28,No data,67,48
+21/05/2019,54,35,29,29,17,13,23,17,44,19,No data,57,42
+22/05/2019,48,54,22,25,13,17,32,64,94,19,No data,38,34
+23/05/2019,42,63,19,20,11,17,31,72,107,17,No data,24,27
+24/05/2019,46,28,21,28,15,13,24,18,46,21,No data,54,43
+25/05/2019,25,18,13,25,9,7,13,13,39,12,No data,35,29
+26/05/2019,17,17,7,11,5,8,11,27,47,12,No data,14,20
+27/05/2019,16,14,10,16,7,7,10,23,48,14,No data,19,23
+28/05/2019,40,22,15,22,8,11,22,22,40,17,No data,43,27
+29/05/2019,33,41,16,18,6,18,31,55,71,19,No data,21,21
+30/05/2019,17,20,7,12,6,7,12,32,64,13,No data,12,20
+31/05/2019,23,30,11,11,7,9,20,47,No data,15,No data,15,18
+01/06/2019,31,38,13,14,9,13,30,60,No data,14,No data,19,17
+02/06/2019,21,26,10,10,8,10,26,42,No data,12,No data,18,17
+03/06/2019,25,25,8,9,7,8,17,46,No data,10,No data,11,20
+04/06/2019,52,37,20,27,16,21,28,57,No data,25,No data,43,28
+05/06/2019,30,28,11,9,8,10,18,54,No data,12,No data,16,19
+06/06/2019,36,38,11,13,8,13,19,57,No data,14,No data,17,17
+07/06/2019,52,29,25,36,17,19,27,43,No data,29,No data,48,36
+08/06/2019,14,19,6,7,6,7,11,30,65,9,No data,11,18
+09/06/2019,27,32,9,9,7,9,19,40,60,12,No data,18,18
+10/06/2019,49,33,19,30,15,12,21,16,43,20,No data,53,45
+11/06/2019,44,25,10,22,8,10,12,19,No data,17,No data,40,29
+12/06/2019,50,30,23,27,15,17,23,21,56,23,No data,57,38
+13/06/2019,32,30,10,17,5,13,27,53,87,16,No data,17,18
+14/06/2019,31,29,8,13,5,11,22,53,87,13,No data,15,14
+15/06/2019,27,28,7,12,5,10,23,53,70,12,No data,16,13
+16/06/2019,18,20,5,8,4,7,22,40,55,9,No data,12,11
+17/06/2019,28,25,10,11,6,8,19,53,86,10,No data,14,12
+18/06/2019,55,35,23,33,17,29,34,52,73,33,No data,49,40
+19/06/2019,47,25,23,28,20,20,23,38,66,27,34,47,44
+20/06/2019,25,17,10,17,No data,11,15,36,87,16,18,17,29
+21/06/2019,37,20,11,20,No data,13,16,34,71,16,22,27,33
+22/06/2019,50,24,13,19,No data,17,19,47,75,21,21,32,21
+23/06/2019,34,20,21,26,19,16,27,30,No data,23,30,46,26
+24/06/2019,50,37,20,31,22,26,39,66,No data,29,35,39,33
+25/06/2019,47,No data,20,31,16,No data,25,22,43,24,36,57,37
+26/06/2019,23,No data,7,17,7,No data,10,11,25,11,22,42,24
+27/06/2019,26,No data,4,15,6,No data,11,15,43,11,18,34,19
+28/06/2019,38,No data,8,26,9,13,18,32,55,18,23,40,17
+29/06/2019,54,No data,22,28,19,22,32,64,94,24,No data,38,27
+30/06/2019,10,16,5,8,6,7,7,16,46,8,13,13,20
+01/07/2019,25,11,9,13,8,7,10,12,32,9,19,29,25
+02/07/2019,44,24,12,19,10,11,19,13,28,13,21,51,29
+03/07/2019,44,30,16,27,14,14,21,26,53,18,29,50,32
+04/07/2019,55,34,18,28,16,18,34,30,55,22,33,65,36
+05/07/2019,37,32,22,22,18,12,23,35,69,19,28,48,42
+06/07/2019,35,24,11,18,10,15,17,15,26,15,20,46,28
+07/07/2019,33,24,8,16,7,12,16,34,40,15,18,31,21
+08/07/2019,47,39,18,25,13,22,26,55,64,19,23,36,26
+09/07/2019,44,49,15,19,12,20,24,45,72,17,23,26,28
+10/07/2019,35,47,16,18,13,17,28,60,87,18,22,24,28
+11/07/2019,28,31,16,19,13,14,18,29,68,16,26,26,36
+12/07/2019,35,20,12,18,9,8,13,9,25,10,24,46,31
+13/07/2019,31,28,9,14,8,9,11,9,21,10,21,45,25
+14/07/2019,24,25,7,12,6,9,11,10,20,11,18,33,23
+15/07/2019,37,32,11,13,8,10,17,15,32,12,21,49,28
+16/07/2019,40,45,18,22,13,14,26,48,80,17,25,32,31
+17/07/2019,41,56,17,17,11,18,25,65,No data,16,22,23,23
+18/07/2019,25,31,14,17,11,12,15,38,No data,14,23,23,26
+19/07/2019,29,43,13,18,8,17,28,50,73,16,20,20,21
+20/07/2019,15,24,6,8,6,8,12,26,62,8,15,No data,18
+21/07/2019,20,30,6,8,6,9,17,36,57,11,10,16,13
+22/07/2019,23,33,9,8,7,11,18,41,65,12,12,15,12
+23/07/2019,62,45,27,40,16,22,25,55,92,27,30,45,28
+24/07/2019,41,52,23,No data,15,22,33,52,106,26,23,36,31
+25/07/2019,80,70,33,No data,21,31,39,82,114,42,39,55,45
+26/07/2019,32,39,18,No data,15,21,22,42,67,22,23,27,36
+27/07/2019,27,19,16,No data,13,11,19,14,35,17,23,38,30
+28/07/2019,15,15,8,No data,8,6,10,19,40,15,15,22,27
+29/07/2019,36,40,14,No data,8,14,17,53,63,15,18,23,19
+30/07/2019,29,33,9,No data,5,12,20,45,55,12,14,12,12
+31/07/2019,19,28,7,15,7,8,13,33,63,11,15,14,19
+01/08/2019,36,26,14,26,11,10,16,17,43,16,26,49,29
+02/08/2019,41,23,14,27,8,8,15,12,35,15,25,57,23
+03/08/2019,40,26,19,25,11,15,24,55,53,18,23,39,18
+04/08/2019,35,27,16,23,9,18,27,57,63,15,17,25,18
+05/08/2019,21,21,9,14,6,8,18,41,59,11,15,14,13
+06/08/2019,21,20,7,10,4,6,18,41,56,9,10,11,9
+07/08/2019,20,18,8,13,7,9,15,35,61,13,16,15,12
+08/08/2019,32,27,12,15,9,12,17,No data,70,13,16,18,13
+09/08/2019,23,21,9,14,6,10,19,40,50,11,13,13,9
+10/08/2019,13,12,2,7,2,4,15,21,35,9,6,6,7
+11/08/2019,17,18,3,8,4,7,20,34,42,11,9,9,7
+12/08/2019,45,35,21,29,16,22,27,30,46,23,29,38,22
+13/08/2019,27,23,13,21,10,12,15,32,53,17,21,28,23
+14/08/2019,30,36,11,22,6,17,30,56,58,18,18,19,19
+15/08/2019,21,14,10,20,9,8,14,24,42,14,22,24,24
+16/08/2019,24,29,10,19,6,12,23,45,53,14,15,18,16
+17/08/2019,17,18,4,9,4,6,17,34,45,8,9,10,13
+18/08/2019,17,21,4,9,4,7,18,36,50,9,9,10,13
+19/08/2019,20,25,8,14,7,8,15,40,60,14,13,No data,15
+20/08/2019,31,31,17,22,15,15,20,42,63,22,23,No data,29
+21/08/2019,38,No data,16,18,12,15,32,No data,66,17,20,21,23
+22/08/2019,27,No data,14,13,10,15,26,No data,73,14,16,16,20
+23/08/2019,53,No data,25,34,21,28,33,60,70,25,31,38,32
+24/08/2019,64,No data,38,54,31,29,40,71,79,49,56,63,45
+25/08/2019,58,No data,36,51,28,24,57,85,87,53,50,59,47
+26/08/2019,71,No data,40,43,24,30,57,84,95,61,47,51,48
+27/08/2019,71,No data,37,51,27,37,54,69,No data,53,54,54,53
+28/08/2019,29,No data,19,14,12,12,18,45,No data,16,19,16,20
+29/08/2019,24,No data,12,15,9,9,19,36,No data,14,18,16,19
+30/08/2019,27,No data,14,14,7,11,23,55,No data,12,18,15,14
+31/08/2019,24,No data,16,14,10,13,20,35,60,19,22,19,21
+01/09/2019,23,No data,12,14,10,9,17,14,35,16,20,27,24
+02/09/2019,28,No data,14,19,11,15,22,41,70,21,No data,20,25
+03/09/2019,22,No data,9,14,8,10,16,42,67,13,No data,13,22
+04/09/2019,15,17,No data,14,6,7,No data,21,47,10,20,15,19
+05/09/2019,46,25,No data,28,12,14,20,21,36,21,31,46,30
+06/09/2019,34,38,15,25,15,22,27,47,67,25,27,26,28
+07/09/2019,36,21,9,22,8,8,19,15,23,16,23,36,26
+08/09/2019,43,30,16,20,12,15,32,31,33,23,23,44,30
+09/09/2019,42,52,26,24,13,26,33,72,67,24,29,26,24
+10/09/2019,47,37,32,36,23,27,29,33,57,33,43,42,41
+11/09/2019,22,27,9,16,9,13,19,36,59,17,17,15,19
+12/09/2019,23,30,8,14,7,16,24,37,62,15,15,13,20
+13/09/2019,53,27,13,30,10,11,20,18,39,17,24,50,28
+14/09/2019,55,46,26,39,21,33,48,57,72,37,42,55,39
+15/09/2019,37,34,22,31,21,23,33,31,52,28,32,37,34
+16/09/2019,31,26,23,28,20,16,21,18,38,22,30,38,26
+17/09/2019,41,28,18,26,12,14,23,22,29,18,25,52,34
+18/09/2019,47,39,27,35,22,24,33,34,50,27,31,62,39
+19/09/2019,57,45,32,46,26,30,38,45,68,40,46,57,43
+20/09/2019,56,42,29,56,23,29,38,46,82,41,49,59,38
+21/09/2019,56,47,37,66,29,32,42,58,80,51,51,61,42
+22/09/2019,39,45,20,27,12,27,43,64,65,28,23,30,27
+23/09/2019,No data,30,8,12,7,12,28,46,65,12,15,12,16
+24/09/2019,35,34,10,19,8,15,27,48,67,16,24,No data,20
+25/09/2019,27,28,9,16,9,14,23,39,64,14,20,16,18
+26/09/2019,26,29,8,17,6,12,27,42,72,14,21,15,18
+27/09/2019,27,30,8,15,7,12,20,39,67,14,18,16,12
+28/09/2019,20,24,5,10,6,10,22,33,57,10,12,12,15
+29/09/2019,14,15,6,10,5,6,17,20,38,8,16,13,14
+30/09/2019,34,37,13,20,11,18,33,54,69,No data,24,21,19
+01/10/2019,36,32,15,23,10,13,20,39,56,No data,30,25,24
+02/10/2019,46,28,25,35,19,20,28,23,37,25,38,52,34
+03/10/2019,52,46,27,38,22,29,40,60,84,34,39,36,32
+04/10/2019,35,32,23,31,18,22,25,40,70,29,35,31,30
+05/10/2019,51,36,19,31,19,23,30,48,50,32,34,45,33
+06/10/2019,23,16,11,21,9,11,14,16,28,16,24,27,24
+07/10/2019,36,43,20,25,13,22,33,48,66,24,33,30,23
+08/10/2019,28,33,10,17,11,16,22,40,74,18,23,17,24
+09/10/2019,23,28,12,16,11,14,16,41,73,19,23,17,22
+10/10/2019,26,27,9,16,8,13,21,39,72,16,22,14,20
+11/10/2019,25,27,8,17,6,10,22,38,68,15,23,14,20
+12/10/2019,47,51,21,26,17,29,36,70,72,28,32,28,35
+13/10/2019,28,28,12,22,9,16,33,50,61,23,25,25,20
+14/10/2019,48,46,27,38,21,28,40,47,57,39,46,52,33
+15/10/2019,37,39,20,24,15,20,31,48,77,22,32,25,25
+16/10/2019,42,40,26,39,20,26,31,55,70,31,40,31,32
+17/10/2019,49,56,22,32,13,31,44,70,78,31,38,31,27
+18/10/2019,29,36,11,18,8,13,32,49,72,16,23,16,23
+19/10/2019,37,41,20,29,16,23,32,52,71,27,31,30,26
+20/10/2019,41,31,19,32,17,15,20,20,30,25,32,41,30
+21/10/2019,45,22,17,32,13,9,19,16,27,21,28,51,31
+22/10/2019,54,50,33,41,24,28,44,55,72,43,50,48,46
+23/10/2019,64,51,37,57,30,39,50,53,63,56,61,74,39
+24/10/2019,49,45,33,41,24,34,41,50,64,42,48,51,36
+25/10/2019,29,37,16,20,9,17,29,47,60,18,27,20,26
+26/10/2019,25,22,8,13,7,9,21,25,42,13,21,23,24
+27/10/2019,41,32,27,31,25,23,32,37,47,35,38,49,42
+28/10/2019,48,45,31,40,29,28,34,39,48,40,48,63,43
+29/10/2019,41,40,27,39,23,25,33,38,50,30,42,57,42
+30/10/2019,50,42,27,50,24,31,40,50,64,40,46,63,43
+31/10/2019,54,51,35,50,28,37,40,51,64,44,45,58,36
+01/11/2019,45,50,22,33,16,29,41,59,67,33,37,34,30
+02/11/2019,17,23,6,11,6,8,24,28,51,10,15,9,16
+03/11/2019,33,39,22,26,16,22,36,51,67,27,33,32,26
+04/11/2019,50,53,33,35,22,31,44,69,71,40,45,50,31
+05/11/2019,48,29,27,38,21,16,25,21,33,30,40,59,37
+06/11/2019,53,51,32,38,26,37,40,61,68,40,44,45,42
+07/11/2019,43,44,27,31,19,31,34,56,79,33,39,36,38
+08/11/2019,67,40,37,48,30,26,39,37,55,44,56,65,45
+09/11/2019,51,45,24,40,22,35,34,49,60,39,42,45,37
+10/11/2019,42,43,26,36,20,24,33,38,42,36,44,45,47
+11/11/2019,32,35,20,38,17,23,28,37,64,27,37,28,40
+12/11/2019,33,32,18,34,19,20,21,40,72,27,34,25,35
+13/11/2019,45,44,29,45,24,32,33,56,78,41,43,41,36
+14/11/2019,59,56,34,42,27,38,42,64,78,41,49,52,38
+15/11/2019,45,33,22,36,19,16,20,19,29,26,41,51,36
+16/11/2019,52,48,36,39,27,34,39,42,48,40,45,54,41
+17/11/2019,58,48,39,51,30,38,46,49,52,50,59,66,60
+18/11/2019,83,37,34,44,25,27,39,35,40,37,45,65,50
+19/11/2019,75,76,56,60,39,61,58,76,82,62,67,76,55
+20/11/2019,54,54,38,42,29,39,36,67,70,42,49,59,46
+21/11/2019,50,41,30,44,28,34,36,42,64,39,43,54,30
+22/11/2019,59,46,33,46,24,34,36,66,70,42,47,51,33
+23/11/2019,53,38,35,47,30,34,43,44,51,40,48,56,34
+24/11/2019,43,43,25,32,17,31,38,52,50,34,38,40,28
+25/11/2019,48,48,24,30,15,32,35,61,58,32,36,35,32
+26/11/2019,40,51,20,27,11,27,44,64,68,25,32,22,27
+27/11/2019,48,47,35,35,25,29,36,59,71,33,43,43,46
+28/11/2019,36,29,26,38,22,21,24,24,47,28,40,38,40
+29/11/2019,61,45,44,45,30,30,42,41,49,43,52,76,44
+30/11/2019,61,50,44,57,40,45,57,60,61,54,66,75,52
+01/12/2019,40,35,19,37,16,17,22,20,31,23,39,40,48
+02/12/2019,61,52,59,61,43,47,51,54,65,53,64,67,65
+03/12/2019,66,68,54,57,39,57,58,78,86,57,66,64,59
+04/12/2019,89,77,55,64,33,60,64,72,86,68,72,83,58
+05/12/2019,44,51,36,41,28,38,49,60,77,39,45,41,41
+06/12/2019,26,27,13,28,12,16,22,35,74,20,26,17,31
+07/12/2019,31,34,14,24,15,20,29,41,62,21,22,20,36
+08/12/2019,16,20,4,12,7,8,14,24,54,10,13,9,22
+09/12/2019,46,32,26,46,21,24,28,30,39,29,41,51,36
+10/12/2019,33,41,19,27,11,24,34,54,67,26,30,25,25
+11/12/2019,47,50,31,38,24,30,40,66,85,38,42,36,29
+12/12/2019,50,54,23,35,16,35,45,67,87,34,39,31,32
+13/12/2019,27,26,15,50,15,15,24,29,65,23,31,26,38
+14/12/2019,29,32,11,32,12,17,31,42,72,21,26,19,33
+15/12/2019,22,27,5,14,7,11,30,38,61,14,21,13,18
+16/12/2019,59,65,35,40,25,43,52,77,78,46,51,49,30
+17/12/2019,67,55,46,44,36,43,54,65,67,51,53,72,53
+18/12/2019,54,56,38,37,20,29,43,67,71,42,42,52,36
+19/12/2019,32,35,12,20,8,21,36,47,59,19,23,15,18
+20/12/2019,46,51,29,36,22,31,46,58,73,37,43,No data,42
+21/12/2019,32,42,12,21,8,22,38,56,65,21,21,No data,21
+22/12/2019,26,32,15,30,15,17,23,37,61,27,27,No data,26
+23/12/2019,32,39,17,33,17,22,30,48,63,27,29,No data,34
+24/12/2019,22,31,10,25,14,15,23,36,56,19,19,22,23
+25/12/2019,35,35,24,39,22,23,30,38,43,33,36,43,34
+26/12/2019,29,32,15,30,15,23,24,40,49,25,27,29,27
+27/12/2019,40,42,32,34,22,28,30,40,39,33,37,47,29
+28/12/2019,32,44,21,27,15,27,42,55,53,31,31,33,29
+29/12/2019,23,39,26,22,17,20,29,42,50,22,26,31,25
+30/12/2019,29,41,38,35,30,28,35,46,47,32,38,43,30
+31/12/2019,39,41,32,38,30,32,34,42,45,39,43,54,30
+01/01/2020,No data,No data,39,38,No data,39,44,55,51,40,43,43,29
+02/01/2020,No data,No data,14,21,No data,19,32,45,52,18,23,16,28
+03/01/2020,No data,No data,26,44,No data,19,23,28,43,24,36,35,34
+04/01/2020,No data,No data,26,46,No data,25,26,47,61,31,36,32,42
+05/01/2020,No data,No data,15,23,No data,17,33,48,57,18,20,18,26
+06/01/2020,No data,No data,15,25,No data,15,26,51,58,20,25,17,24
+07/01/2020,32,38,16,26,14,17,34,51,54,21,31,20,18
+08/01/2020,35,40,26,35,25,24,26,52,56,28,35,27,28
+09/01/2020,29,32,11,19,9,14,28,43,55,17,22,14,20
+10/01/2020,47,35,31,40,22,22,36,39,46,28,39,43,36
+11/01/2020,22,27,8,15,5,9,21,32,49,11,17,11,14
+12/01/2020,20,27,11,20,8,11,23,36,49,15,22,13,17
+13/01/2020,25,37,11,19,5,14,25,46,56,16,20,14,16
+14/01/2020,21,30,9,17,4,12,25,40,54,13,17,12,15
+15/01/2020,33,43,20,34,13,19,34,58,66,25,30,22,26
+16/01/2020,35,42,17,26,8,20,39,52,61,20,25,18,20
+17/01/2020,33,41,18,36,11,19,26,49,69,24,28,22,26
+18/01/2020,60,44,36,55,29,29,40,42,56,44,51,51,46
+19/01/2020,65,54,40,50,32,36,48,50,50,54,56,63,52
+20/01/2020,72,80,63,76,51,66,58,71,82,67,75,68,59
+21/01/2020,78,69,66,78,49,56,62,70,81,70,82,72,71
+22/01/2020,69,53,52,No data,41,44,47,52,52,53,69,67,46
+23/01/2020,66,52,45,No data,37,39,42,54,No data,41,52,62,48
+24/01/2020,59,52,No data,51,34,41,44,50,No data,43,50,51,41
+25/01/2020,43,45,No data,32,19,28,33,58,54,29,35,26,33
+26/01/2020,28,37,No data,25,10,19,38,48,58,20,25,17,21
+27/01/2020,44,48,No data,34,18,23,44,68,73,28,37,23,32
+28/01/2020,36,30,No data,42,17,17,14,41,80,25,26,18,39
+29/01/2020,42,36,19,36,16,22,29,No data,81,27,28,No data,35
+30/01/2020,39,39,17,32,13,21,26,42,72,21,28,No data,18
+31/01/2020,34,29,12,22,9,11,28,36,70,16,19,13,18
+01/02/2020,27,21,7,25,9,9,14,23,71,13,15,10,22
+02/02/2020,31,25,9,24,8,11,21,33,68,16,18,14,20
+03/02/2020,32,24,14,45,13,12,12,27,65,20,27,19,28
+04/02/2020,42,25,23,54,14,15,22,16,44,23,35,37,31
+05/02/2020,71,68,52,55,38,50,59,59,80,56,61,60,54
+06/02/2020,81,73,53,64,37,56,72,68,84,63,67,66,57
+07/02/2020,61,54,37,47,25,38,50,55,72,43,47,44,39
+08/02/2020,35,37,14,22,14,17,26,39,65,17,19,16,22
+09/02/2020,17,13,3,10,5,5,10,14,35,5,8,5,11
+10/02/2020,25,19,8,33,9,9,11,24,69,13,17,10,25
+11/02/2020,25,20,10,35,10,10,9,26,66,15,21,12,24
+12/02/2020,40,37,18,35,16,22,25,46,74,24,30,22,28
+13/02/2020,39,29,19,51,15,16,27,30,68,23,37,24,36
+14/02/2020,50,47,23,40,18,23,35,50,77,32,37,31,27
+15/02/2020,20,20,4,12,4,7,17,22,40,7,11,7,12
+16/02/2020,24,20,5,13,6,7,23,21,55,8,11,8,16
+17/02/2020,No data,23,9,26,9,9,13,26,70,14,18,11,22
+18/02/2020,No data,30,10,30,No data,14,20,30,74,16,22,16,26
+19/02/2020,No data,38,18,42,No data,19,30,45,76,24,29,30,32
+20/02/2020,33,25,14,37,12,11,17,28,64,16,27,17,29
+21/02/2020,32,28,10,20,9,11,22,30,74,14,17,13,19
+22/02/2020,18,14,5,26,6,5,10,13,57,7,13,8,15
+23/02/2020,30,22,13,31,11,12,19,18,40,17,20,20,22
+24/02/2020,30,27,12,27,10,13,22,34,70,16,20,14,24
+25/02/2020,31,26,12,38,12,12,14,36,86,18,23,15,29
+26/02/2020,35,28,24,59,21,16,20,25,59,24,37,29,32
+27/02/2020,58,39,29,47,24,24,30,30,54,30,47,49,43
+28/02/2020,49,49,22,31,13,25,37,47,74,19,33,26,25
+29/02/2020,26,21,6,21,5,7,13,20,61,11,14,10,15
+01/03/2020,27,23,6,16,5,8,22,30,64,11,13,10,14
+02/03/2020,55,32,24,44,17,16,22,28,61,26,35,41,37
+03/03/2020,47,40,34,54,No data,24,32,45,87,39,44,39,35
+04/03/2020,72,52,35,46,No data,35,43,58,90,45,48,48,46
+05/03/2020,55,27,19,36,No data,14,18,16,37,22,36,40,47
+06/03/2020,79,40,39,52,No data,30,43,33,62,42,49,57,54
+07/03/2020,48,45,23,30,19,25,38,41,77,29,30,26,30
+08/03/2020,26,24,7,14,7,10,20,25,59,12,11,11,17
+09/03/2020,34,30,11,31,11,14,16,34,79,19,21,17,23
+10/03/2020,23,17,7,26,9,9,9,20,63,13,16,11,20
+11/03/2020,31,25,10,28,9,9,17,28,75,13,15,12,18
+12/03/2020,24,20,8,29,8,8,No data,26,76,13,15,11,18
+13/03/2020,34,31,20,44,15,13,No data,31,69,19,24,22,27
+14/03/2020,41,32,10,17,7,12,27,34,61,13,17,13,14
+15/03/2020,30,25,13,28,9,12,23,28,53,17,17,15,15
+16/03/2020,48,37,30,44,24,20,31,36,68,32,34,No data,36
+17/03/2020,36,32,14,17,8,13,25,38,66,17,21,No data,18
+18/03/2020,36,32,12,17,7,13,21,30,60,16,17,No data,16
+19/03/2020,40,29,17,26,11,17,23,23,29,23,44,No data,43
+20/03/2020,26,19,10,16,6,9,11,15,21,13,18,No data,29
+21/03/2020,24,16,11,22,7,10,13,19,34,15,16,23,19
+22/03/2020,21,17,16,24,12,12,15,18,31,15,19,23,19
+23/03/2020,56,43,39,46,26,27,28,44,65,35,40,49,36
+24/03/2020,47,52,43,25,15,33,37,52,49,27,30,35,30
+25/03/2020,59,45,46,51,30,34,39,40,61,44,46,52,43
+26/03/2020,30,29,32,32,19,19,23,22,32,23,31,37,32
+27/03/2020,22,22,23,24,9,12,14,12,20,15,25,27,26
+28/03/2020,13,12,11,13,4,5,5,6,9,8,15,13,15
+29/03/2020,11,9,7,9,2,3,2,5,7,5,10,8,10
+30/03/2020,25,20,16,20,8,7,7,9,15,11,18,26,20
+31/03/2020,26,26,17,24,9,14,14,20,24,14,21,30,23
+01/04/2020,41,34,35,28,21,17,28,21,35,25,33,44,33
+02/04/2020,18,19,22,65,14,10,12,14,38,16,20,19,22
+03/04/2020,35,37,26,39,15,17,22,29,46,23,24,29,32
+04/04/2020,33,44,24,20,10,20,20,31,34,19,23,22,23
+05/04/2020,20,27,15,13,6,15,19,24,24,12,14,13,12
+06/04/2020,21,23,19,46,9,10,16,19,39,15,16,19,18
+07/04/2020,45,37,47,38,31,21,29,41,46,33,40,51,34
+08/04/2020,50,43,49,51,32,28,36,42,57,40,47,53,42
+09/04/2020,42,39,49,52,32,23,36,35,53,38,50,50,43
+10/04/2020,34,31,40,48,29,20,30,31,46,34,42,40,35
+11/04/2020,37,46,47,43,26,27,30,32,43,30,41,43,43
+12/04/2020,21,28,20,24,8,12,20,23,26,15,20,19,22
+13/04/2020,9,12,6,9,3,3,5,7,8,6,9,12,11
+14/04/2020,28,25,15,18,7,12,12,23,28,12,14,27,18
+15/04/2020,44,40,37,37,18,27,27,38,50,29,29,38,35
+16/04/2020,44,39,45,45,31,29,36,41,47,38,48,51,40
+17/04/2020,21,18,13,22,8,10,16,18,24,15,18,25,20
+18/04/2020,25,25,18,22,10,12,15,18,20,18,19,27,23
+19/04/2020,15,18,14,17,5,8,11,13,13,13,15,17,18
+20/04/2020,18,17,14,18,7,9,10,15,16,12,16,26,19
+21/04/2020,18,18,13,20,8,11,13,17,17,12,18,29,21
+22/04/2020,22,24,20,25,11,12,15,16,20,15,21,31,25
+23/04/2020,36,31,31,33,16,16,21,26,30,22,29,41,27
+24/04/2020,33,28,28,29,16,12,23,22,28,20,27,44,30
+25/04/2020,25,20,11,22,7,10,No data,23,21,15,15,22,15
+26/04/2020,23,32,16,17,5,15,No data,25,24,12,17,20,17
+27/04/2020,28,29,19,28,10,14,No data,25,27,19,22,25,27
+28/04/2020,22,21,12,21,6,12,15,19,18,14,21,No data,33
+29/04/2020,21,31,10,14,6,9,8,25,21,11,14,No data,19
+30/04/2020,18,28,7,12,4,8,8,25,21,8,15,No data,16
+01/05/2020,16,20,9,34,5,8,5,18,21,9,32,No data,16
+02/05/2020,18,19,9,38,5,8,9,17,18,11,44,No data,18
+03/05/2020,27,32,14,19,7,15,10,33,20,16,34,No data,17
+04/05/2020,25,23,13,22,7,10,11,19,18,13,61,No data,20
+05/05/2020,20,18,8,23,5,7,9,18,16,10,62,No data,13
+06/05/2020,32,28,18,26,10,12,16,27,22,19,76,No data,22
+07/05/2020,34,41,26,28,14,17,22,38,32,22,45,No data,26
+08/05/2020,39,44,28,25,11,17,26,41,32,23,35,No data,31
+09/05/2020,37,36,34,41,19,19,25,37,31,32,87,No data,34
+10/05/2020,12,16,13,16,6,7,8,8,8,10,65,No data,15
+11/05/2020,14,14,6,13,2,4,4,7,7,6,49,No data,13
+12/05/2020,30,23,16,25,9,7,12,12,16,14,52,No data,25
+13/05/2020,21,20,9,16,4,6,7,9,10,9,57,No data,20
+14/05/2020,22,22,11,20,6,7,9,17,15,11,34,No data,19
+15/05/2020,37,31,20,29,11,13,21,23,22,19,20,No data,32
+16/05/2020,26,24,17,39,10,9,13,20,21,18,14,No data,27
+17/05/2020,18,29,10,34,8,10,7,13,22,14,11,No data,21
+18/05/2020,14,20,8,39,6,6,6,17,31,10,10,No data,19
+19/05/2020,19,21,12,42,10,8,11,15,29,17,13,No data,23
+20/05/2020,31,41,16,22,11,16,15,35,37,18,18,15,20
+21/05/2020,31,39,22,26,13,14,17,28,38,18,18,25,23
+22/05/2020,13,22,7,10,5,5,7,17,27,7,9,8,11
+23/05/2020,6,10,2,18,2,2,3,9,18,4,4,5,10
+24/05/2020,17,14,10,26,6,6,6,10,16,10,7,16,17
+25/05/2020,22,26,14,21,10,10,11,20,27,14,14,17,19
+26/05/2020,39,31,24,28,16,11,17,20,31,19,18,33,27
+27/05/2020,42,29,26,29,20,12,18,19,36,22,26,48,28
+28/05/2020,26,20,9,23,8,6,12,17,29,12,15,29,13
+29/05/2020,33,24,14,26,12,9,16,23,35,16,19,36,18
+30/05/2020,23,23,12,21,9,9,12,13,23,12,14,27,18
+31/05/2020,16,20,9,17,8,8,9,11,17,10,11,17,14
+01/06/2020,28,24,16,23,13,9,12,14,27,13,15,32,20
+02/06/2020,43,28,18,23,12,8,18,14,27,19,17,41,28
+03/06/2020,46,31,24,27,16,18,26,24,31,27,25,41,30
+04/06/2020,28,16,11,28,6,5,9,10,21,10,12,26,19
+05/06/2020,17,13,9,48,6,5,10,7,30,11,13,17,20
+06/06/2020,15,19,9,30,7,8,8,18,32,13,14,12,21
+07/06/2020,21,17,10,30,7,6,8,9,20,14,14,20,18
+08/06/2020,32,25,11,15,6,6,8,8,16,10,12,33,21
+09/06/2020,38,33,16,18,10,14,16,27,35,16,16,36,22
+10/06/2020,32,39,16,15,9,13,11,38,40,16,17,16,18
+11/06/2020,24,24,13,20,9,11,13,14,20,14,18,31,21
+12/06/2020,33,30,22,31,16,17,18,25,34,22,25,38,23
+13/06/2020,32,28,25,26,13,14,15,36,34,20,20,28,23
+14/06/2020,20,32,13,15,7,9,12,29,32,14,16,14,16
+15/06/2020,34,35,14,22,11,13,16,31,47,18,19,21,21
+16/06/2020,33,37,16,13,6,11,11,35,46,11,16,17,17
+17/06/2020,47,39,29,29,16,22,22,33,47,26,29,35,31
+18/06/2020,27,35,11,19,8,9,14,33,44,15,17,No data,23
+19/06/2020,21,28,7,10,4,7,9,26,38,9,10,No data,10
+20/06/2020,18,30,6,9,5,7,9,24,29,8,9,No data,8
+21/06/2020,9,16,5,22,4,5,7,12,23,6,7,No data,11
+22/06/2020,22,30,7,11,5,6,7,27,38,8,11,No data,11
+23/06/2020,38,37,19,19,12,14,10,43,49,16,18,No data,16
+24/06/2020,59,37,40,43,31,22,26,35,60,32,35,No data,34
+25/06/2020,57,37,39,39,30,20,24,35,61,29,32,No data,32
+26/06/2020,37,45,23,19,13,15,15,39,59,18,19,No data,25
+27/06/2020,12,21,5,5,3,4,6,12,21,6,7,No data,9
+28/06/2020,8,14,3,5,3,3,4,10,22,5,5,No data,9
+29/06/2020,11,16,4,9,5,4,5,17,34,6,6,No data,10
+30/06/2020,18,27,8,10,9,8,8,22,32,10,11,No data,13
+01/07/2020,16,24,8,9,9,7,8,19,33,9,9,No data,14
+02/07/2020,23,22,12,23,12,10,10,18,39,17,15,No data,25
+03/07/2020,18,24,6,12,7,6,8,21,34,9,9,No data,14
+04/07/2020,12,18,4,8,6,5,7,13,19,6,8,No data,9
+05/07/2020,5,8,1,8,4,1,2,8,19,3,4,No data,8
+06/07/2020,19,12,7,23,8,5,8,14,24,10,12,No data,19
+07/07/2020,30,33,13,22,11,12,14,27,54,21,18,No data,24
+08/07/2020,16,25,11,20,8,11,9,18,30,13,14,No data,21
+09/07/2020,18,21,7,12,5,8,7,15,28,10,10,No data,17
+10/07/2020,31,14,12,23,6,7,11,8,19,12,14,No data,26
+11/07/2020,30,20,16,25,7,9,13,12,22,16,14,No data,32
+12/07/2020,27,31,14,21,8,10,13,20,34,17,21,No data,29
+13/07/2020,25,25,12,23,8,10,10,20,42,14,14,No data,28
+14/07/2020,34,19,12,21,No data,8,10,8,19,12,12,No data,30
+15/07/2020,21,17,13,28,13,8,11,11,30,15,15,No data,23
+16/07/2020,30,17,13,22,11,8,10,9,20,12,14,No data,22
+17/07/2020,23,23,15,29,13,10,11,13,40,16,17,No data,27
+18/07/2020,16,16,9,20,8,6,6,10,26,10,10,No data,20
+19/07/2020,23,19,10,16,7,5,7,7,14,11,10,No data,19
+20/07/2020,38,23,14,18,8,7,10,8,18,12,13,No data,24
+21/07/2020,43,28,18,21,10,10,18,15,23,17,16,No data,29
+22/07/2020,29,39,9,14,7,10,12,32,48,11,13,No data,21
+23/07/2020,27,33,10,14,9,9,11,30,49,12,13,No data,19
+24/07/2020,21,27,8,No data,7,7,10,19,35,10,13,No data,18
+25/07/2020,17,27,6,No data,5,7,10,20,27,9,12,No data,14
+26/07/2020,13,18,4,No data,3,6,7,17,22,8,9,No data,12
+27/07/2020,19,24,6,No data,4,8,10,20,25,10,11,No data,12
+28/07/2020,19,13,7,20,5,6,8,13,28,13,13,No data,17
+29/07/2020,30,26,12,21,10,11,12,20,41,17,15,No data,24
+30/07/2020,46,47,23,25,14,20,17,46,51,22,22,No data,23
+31/07/2020,52,48,36,32,22,23,24,45,65,29,28,No data,33
+01/08/2020,12,14,4,9,5,4,6,10,28,9,7,No data,18
+02/08/2020,11,16,4,9,5,4,6,9,25,10,8,No data,17
+03/08/2020,37,23,13,No data,8,7,12,9,19,13,13,No data,21
+04/08/2020,30,36,12,No data,9,12,No data,27,44,15,16,No data,21
+05/08/2020,20,29,4,8,3,5,No data,22,35,8,11,No data,11
+06/08/2020,34,47,21,16,9,14,13,35,44,13,No data,No data,18
+07/08/2020,74,72,50,52,30,37,37,55,84,52,50,No data,53
+08/08/2020,42,40,40,42,30,22,19,17,36,30,37,No data,46
+09/08/2020,26,24,14,17,9,8,9,13,22,13,14,No data,22
+10/08/2020,52,37,32,30,22,17,18,31,48,24,27,No data,32
+11/08/2020,73,47,43,38,31,28,33,38,61,37,42,No data,48
+12/08/2020,75,47,39,40,26,26,37,38,64,35,39,No data,45
+13/08/2020,42,31,17,24,14,11,15,12,21,15,23,No data,30
+14/08/2020,42,24,14,No data,11,9,13,11,22,14,19,No data,25
+15/08/2020,33,26,18,No data,15,12,13,12,23,15,23,No data,34
+16/08/2020,29,35,18,No data,10,15,18,29,40,18,19,No data,33
+17/08/2020,35,44,14,No data,8,15,17,33,55,15,25,No data,27
+18/08/2020,27,33,9,No data,6,8,11,29,39,9,17,No data,9
+19/08/2020,29,34,14,21,10,18,14,29,39,17,19,No data,17
+20/08/2020,26,37,10,13,8,9,11,No data,47,12,14,No data,14
+21/08/2020,16,21,5,9,4,4,6,No data,29,6,10,No data,7
+22/08/2020,12,19,4,11,5,4,6,15,33,6,8,No data,9
+23/08/2020,9,13,3,11,6,3,4,17,33,7,7,No data,13
+24/08/2020,21,28,8,14,9,8,9,25,42,12,14,No data,18
+25/08/2020,15,18,4,9,4,6,6,16,32,7,9,No data,12
+26/08/2020,16,16,11,18,10,9,9,14,38,13,15,No data,20
+27/08/2020,35,36,14,24,13,19,16,32,43,20,24,No data,25
+28/08/2020,31,22,11,20,9,9,11,16,30,13,18,No data,30
+29/08/2020,29,12,8,16,5,5,5,6,12,8,13,No data,24
+30/08/2020,29,18,7,17,5,5,7,8,14,9,13,No data,21
+31/08/2020,38,31,20,26,16,12,21,19,34,29,27,No data,34
+01/09/2020,58,49,27,38,21,26,31,30,62,42,46,No data,39
+02/09/2020,41,53,17,23,12,19,25,42,74,26,28,No data,29
+03/09/2020,20,25,6,15,7,10,10,24,54,13,17,No data,16
+04/09/2020,21,28,9,18,11,11,9,25,65,16,17,No data,25
+05/09/2020,23,20,14,26,15,14,12,15,53,21,20,No data,26
+06/09/2020,27,29,16,21,14,17,15,23,56,21,19,No data,27
+07/09/2020,27,35,14,22,13,18,15,25,49,22,20,No data,25
+08/09/2020,21,26,8,13,10,10,7,20,36,14,15,No data,20
+09/09/2020,32,23,13,22,12,11,12,16,33,16,19,No data,26
+10/09/2020,52,35,29,28,20,16,20,20,38,23,28,57,36
+11/09/2020,35,42,23,27,21,22,23,36,60,29,27,27,35
+12/09/2020,21,28,8,17,8,10,10,22,40,12,12,8,18
+13/09/2020,26,35,9,16,6,13,14,31,36,14,16,10,17
+14/09/2020,67,53,40,51,31,32,34,53,68,45,48,65,42
+15/09/2020,61,54,53,No data,43,39,44,41,69,45,51,79,59
+16/09/2020,42,34,23,No data,15,14,17,14,24,18,26,61,35
+17/09/2020,37,26,9,No data,8,11,12,12,30,14,20,33,22
+18/09/2020,35,30,15,No data,12,15,16,15,29,18,26,40,28
+19/09/2020,24,26,12,No data,12,11,11,10,19,14,18,30,24
+20/09/2020,22,24,14,No data,10,9,9,9,16,12,18,31,22
+21/09/2020,66,56,32,No data,28,30,36,46,54,39,48,66,45
+22/09/2020,48,54,24,No data,18,25,27,46,66,29,32,39,37
+23/09/2020,30,32,9,No data,8,12,13,35,50,15,17,11,23
+24/09/2020,33,40,17,No data,11,17,19,43,54,22,20,14,19
+25/09/2020,25,14,14,No data,10,10,13,10,18,14,19,29,24
+26/09/2020,30,13,8,No data,5,6,8,8,11,9,14,28,16
+27/09/2020,27,16,10,No data,5,5,6,6,10,9,11,24,15
+28/09/2020,32,28,24,No data,20,18,19,23,41,23,26,35,30
+29/09/2020,41,39,27,No data,18,22,24,28,43,27,35,41,28
+30/09/2020,35,47,15,No data,6,20,19,36,52,17,20,17,22
+01/10/2020,30,32,17,18,16,18,17,32,48,21,21,19,28
+02/10/2020,32,27,18,32,16,21,22,21,40,25,26,29,29
+03/10/2020,24,40,13,16,12,17,16,27,38,17,21,No data,21
+04/10/2020,No data,25,8,10,8,10,14,20,32,15,16,No data,16
+05/10/2020,No data,28,13,16,15,16,12,25,46,22,18,No data,24
+06/10/2020,No data,23,9,14,10,12,9,22,44,15,15,No data,17
+07/10/2020,No data,32,18,20,15,17,17,28,43,21,21,No data,25
+08/10/2020,No data,27,23,20,14,17,18,21,32,21,22,23,21
+09/10/2020,No data,40,31,37,27,26,23,35,55,37,34,32,37
+10/10/2020,No data,23,22,30,17,15,11,15,41,23,23,19,28
+11/10/2020,No data,25,22,25,15,13,15,15,23,25,21,30,29
+12/10/2020,No data,50,31,30,22,26,28,48,49,31,35,33,32
+13/10/2020,No data,28,27,29,18,17,21,17,26,29,30,37,29
+14/10/2020,No data,36,19,25,15,19,17,15,26,21,28,32,31
+15/10/2020,No data,30,17,26,13,13,15,12,25,21,28,35,28
+16/10/2020,No data,38,31,31,19,20,25,21,34,29,32,49,39
+17/10/2020,No data,34,19,23,14,17,19,16,24,25,26,38,31
+18/10/2020,No data,38,33,31,30,24,30,33,No data,38,35,41,35
+19/10/2020,No data,44,21,22,14,24,26,39,No data,26,24,19,26
+20/10/2020,No data,37,12,13,9,18,22,29,No data,16,16,11,14
+21/10/2020,38,40,19,21,15,25,24,35,51,28,29,30,27
+22/10/2020,32,37,20,18,14,20,22,35,57,23,30,23,23
+23/10/2020,32,41,19,19,15,19,23,36,58,20,23,22,24
+24/10/2020,20,31,8,12,6,12,14,22,43,11,13,9,14
+25/10/2020,23,39,10,16,7,16,21,29,46,14,17,13,16
+26/10/2020,34,39,19,20,16,20,21,35,53,32,26,20,25
+27/10/2020,32,39,19,21,12,21,21,33,52,21,24,17,24
+28/10/2020,30,34,11,23,11,15,17,30,59,16,23,12,20
+29/10/2020,28,35,10,24,10,15,17,28,53,17,18,13,18
+30/10/2020,28,34,9,21,8,13,16,25,47,14,18,10,15
+31/10/2020,22,29,8,21,7,12,14,20,41,11,14,9,14
+01/11/2020,15,21,4,8,4,9,10,13,29,7,10,5,9
+02/11/2020,12,20,7,10,8,8,7,19,40,10,11,8,15
+03/11/2020,30,41,23,35,20,24,15,38,59,29,26,25,28
+04/11/2020,65,56,51,56,37,42,41,47,63,54,53,59,53
+05/11/2020,62,71,56,64,35,50,51,48,73,63,63,61,53
+06/11/2020,54,61,49,59,39,47,51,46,64,58,56,62,49
+07/11/2020,42,49,39,48,29,37,44,40,49,48,46,50,38
+08/11/2020,31,42,26,33,22,30,33,32,39,34,36,36,27
+09/11/2020,41,54,32,30,17,33,32,38,48,35,35,39,29
+10/11/2020,41,57,30,31,17,33,36,45,58,29,30,30,31
+11/11/2020,28,43,15,20,10,23,24,29,44,20,19,17,20
+12/11/2020,23,38,14,No data,11,16,16,28,50,16,18,15,23
+13/11/2020,33,52,26,24,18,25,28,38,60,23,30,28,27
+14/11/2020,16,34,9,12,6,16,18,21,35,12,13,11,15
+15/11/2020,11,22,5,6,5,9,9,13,28,8,12,7,11
+16/11/2020,20,30,11,16,11,14,13,24,39,14,17,15,22
+17/11/2020,22,32,7,10,8,12,14,24,33,13,19,10,13
+18/11/2020,17,30,10,15,8,13,13,20,36,12,16,11,14
+19/11/2020,38,35,25,40,19,23,23,22,38,27,27,33,27
+20/11/2020,41,64,30,37,19,32,33,45,62,28,41,37,33
+21/11/2020,14,29,7,No data,9,No data,14,17,34,5,12,12,17
+22/11/2020,28,40,28,68,22,24,22,25,42,27,26,29,29
+23/11/2020,48,68,38,54,26,38,36,46,60,38,48,45,40
+24/11/2020,27,48,15,26,9,23,23,34,44,14,23,17,19
+25/11/2020,36,46,23,No data,15,28,30,31,44,22,25,29,26
+26/11/2020,55,59,43,46,32,37,44,43,52,40,48,61,45
+27/11/2020,49,59,43,52,33,44,46,45,53,48,54,59,41
+28/11/2020,45,56,41,52,37,44,48,45,60,45,48,50,38
+29/11/2020,37,50,31,44,29,37,41,37,No data,36,44,46,39
+30/11/2020,25,37,28,36,24,No data,21,27,44,21,29,29,33
+01/12/2020,52,39,27,33,20,22,35,30,32,26,30,44,40
+02/12/2020,47,69,48,53,37,44,40,48,68,41,48,47,44
+03/12/2020,46,66,39,35,25,36,40,56,72,33,42,38,35
+04/12/2020,32,47,32,34,23,27,30,40,64,24,33,32,31
+05/12/2020,38,53,31,29,23,28,26,33,55,23,32,38,34
+06/12/2020,37,44,34,33,24,21,27,24,33,24,38,42,31
+07/12/2020,48,53,46,43,36,30,38,34,47,38,53,55,37
+08/12/2020,47,73,49,48,36,39,41,46,75,39,53,52,40
+09/12/2020,45,73,38,38,30,38,30,41,69,35,41,39,35
+10/12/2020,39,52,26,25,16,29,19,41,57,23,29,30,31
+11/12/2020,48,68,43,41,31,37,38,53,79,35,46,45,36
+12/12/2020,27,40,32,60,25,22,18,23,51,24,33,33,34
+13/12/2020,27,53,19,21,11,23,24,34,50,16,22,21,20
+14/12/2020,24,55,15,18,9,19,23,35,64,13,24,17,20
+15/12/2020,37,70,30,27,13,25,35,47,78,20,32,27,25
+16/12/2020,38,61,22,32,13,24,36,42,65,25,26,20,27
+17/12/2020,27,54,21,26,12,18,30,43,61,21,30,19,21
+18/12/2020,17,38,12,18,6,14,16,20,No data,11,13,10,16
+19/12/2020,18,40,11,19,7,13,19,28,No data,12,14,12,16
+20/12/2020,18,47,14,21,8,13,25,32,No data,14,21,14,16
+21/12/2020,24,39,13,21,8,15,22,27,No data,15,20,13,19
+22/12/2020,34,29,31,44,23,25,29,30,No data,30,31,35,28
+23/12/2020,27,40,19,22,11,19,23,35,No data,17,24,22,25
+24/12/2020,25,20,14,20,8,7,8,8,11,11,13,30,21
+25/12/2020,18,34,18,29,15,14,11,16,27,21,21,23,26
+26/12/2020,11,26,8,13,7,9,12,13,28,10,13,11,11
+27/12/2020,18,24,19,24,11,14,19,24,33,16,21,18,17
+28/12/2020,34,38,28,34,18,25,31,33,35,31,33,39,28
+29/12/2020,32,24,26,37,19,14,19,14,31,21,25,33,28
+30/12/2020,39,51,40,58,32,29,29,37,59,42,41,43,38
+31/12/2020,35,42,36,38,29,21,21,21,37,29,35,45,33
+01/01/2021,23,35,30,48,No data,21,18,20,29,24,31,24,26
+02/01/2021,33,33,26,29,No data,17,18,17,24,22,25,28,24
+03/01/2021,17,25,16,23,11,12,11,11,17,15,22,17,19
+04/01/2021,16,29,14,19,9,11,10,10,13,11,19,22,17
+05/01/2021,25,35,18,22,9,11,10,10,16,12,21,23,19
+06/01/2021,31,No data,23,29,13,No data,17,18,22,21,27,27,22
+07/01/2021,35,No data,42,52,No data,No data,25,28,No data,No data,43,No data,No data
+08/01/2021,44,No data,37,42,No data,No data,31,34,43,37,46,41,34
+09/01/2021,42,No data,42,45,No data,No data,25,30,42,37,47,43,38
+10/01/2021,26,No data,34,41,No data,No data,18,27,42,28,34,26,32
+11/01/2021,21,No data,16,25,No data,No data,11,29,49,19,19,13,30
+12/01/2021,46,No data,33,41,No data,No data,24,26,37,30,32,46,33
+13/01/2021,39,56,49,47,No data,46,29,44,61,36,43,42,39
+14/01/2021,38,36,27,43,No data,29,24,30,45,26,37,42,38
+15/01/2021,47,45,40,49,No data,34,30,38,44,34,46,49,38
+16/01/2021,28,37,24,50,No data,29,19,23,45,21,32,27,29
+17/01/2021,24,25,19,55,No data,20,16,22,37,20,24,26,32
+18/01/2021,35,44,21,32,No data,28,23,44,53,25,31,24,23
+19/01/2021,14,21,9,18,7,8,7,19,37,8,18,No data,13
+20/01/2021,13,24,9,No data,6,10,9,17,33,7,13,7,10
+21/01/2021,24,No data,17,No data,14,20,14,31,48,17,23,17,20
+22/01/2021,42,No data,27,32,No data,32,25,41,59,30,29,28,31
+23/01/2021,35,35,No data,44,No data,27,24,31,46,33,32,38,32
+24/01/2021,44,49,No data,45,No data,39,27,35,50,37,41,44,38
+25/01/2021,33,32,No data,58,No data,24,23,26,48,34,39,39,41
